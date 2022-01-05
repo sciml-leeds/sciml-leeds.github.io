@@ -6,8 +6,16 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+
+title: sciml-leeds
+description: Scientific Machine Learning at Leeds
 github_username: sciml-leeds
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "sciml-leeds"
@@ -39,8 +47,7 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    github: sciml-leeds
 
 # Set this to true to get LaTeX math equation support
 use_math: 
