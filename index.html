@@ -4,12 +4,79 @@ search_exclude: true
 image: images/logo.png
 ---
 
-This site is built with [fastpages](https://github.com/fastai/fastpages), An easy to use blogging platform with extra features for Jupyter Notebooks.
+<style type='text/css'>
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+LI.person-card {
+  width: 200px;
+  float: left;
+  margin: 10px;
+  text-align: center;
+}
 
-![]({{site.baseurl}}/images/diagram.png "https://github.com/fastai/fastpages")
+LI.person-card IMG {
+  width: 100px; border-radius: 50%; border: 5px solid #eee;
+}
 
-[fastpages](https://github.com/fastai/fastpages) automates the process of creating blog posts via GitHub Actions, so you don't have to fuss with conversion scripts.  A full list of features can be found on [GitHub](https://github.com/fastai/fastpages).  
+LI.person-card P {
+  margin: 0.5rem 0px !important;
+}
+</style>
 
-You can edit the `index.html` file to change this content.
+# Scientific Machine Learning at University of Leeds
+
+Hi!
+
+Welcome to the website for people interested in scientific machine learning
+(SciML) at Leeds (SciML is the discipline of combining machine learning with
+scientific computing see e.g. <a href="https://sciml.ai/roadmap/">sciml.ai</a>
+for an overview). This website serves to organise our work and allow others to
+join us. If you're based at Leeds and would like to join simply make a
+pull-request to add yourself to this website: 
+[people.md](https://github.com/sciml-leeds/sciml-leeds.github.io/tree/master/_data/people.yaml) - everyone is very welcome!
+
+We meet the first Friday of every month at 11am CET, virtually for the moment.
+
+## People
+
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+{% if myimage.basename == "portrait_placeholder" %}
+{% assign image_path_placeholder = myimage.path %}
+{% endif %}
+{% endfor %}
+
+<ul style='list-style: none;'>
+{% for item in site.data.people %}
+<li class='person-card'>
+  {% assign image_path = image_path_placeholder %}
+  {% for myimage in image_files %}
+  {% assign basename = item.name | split: " " | join: "" | downcase %}
+  {% if myimage.basename == basename %}
+  {% assign image_path = myimage.path %}
+  {% break %}
+  {% endif %}
+  {% endfor %}
+
+  <img src='{{ image_path }}'/>
+  <p>{{item.name}}</p>
+  {% if item.social.website %}
+  <a href="{{ item.social.website }}"><i class="fas fa-globe"></i></a>
+  {% endif %}
+  {% if item.social.github %}
+  <a href="https://github.com/{{ item.social.github }}"><i class="fab fa-github"></i></a>
+  {% endif %}
+  {% if item.social.twitter %}
+  <a href="https://twitter.com/{{ item.social.twitter }}"><i class="fab fa-twitter"></i></a>
+  {% endif %}
+  <p>{{ item.techniques | join: ", "}}</p>
+  <p>{{ item.applications | join: ", "}}</p>
+</li>
+{% endfor %}
+</ul>
+<div class='clearfix'></div>
 
 # Posts
