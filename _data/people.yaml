@@ -19,6 +19,8 @@
 - name: Samuel Bancroft
   social:
     website: https://environment.leeds.ac.uk/see/pgr/9458/samuel-bancroft
+    github: spiruel
+    twitter: spiruel
   techniques:
     - Semi-supervised/self-supervised learning
     - convolutional networks
