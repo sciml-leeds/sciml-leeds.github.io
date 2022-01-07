@@ -9,10 +9,22 @@
   applications:
     - meso-scale cloud organisation
     - denoising of LIDAR water vapour observations
-- name: Chatan Deva
+- name: Chetan Deva
   social:
     website: https://environment.leeds.ac.uk/see/staff/9387/dr-chetan-deva
   techniques:
     - Random Forests
   applications:
     - crop modelling
+- name: Samuel Bancroft
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/9458/samuel-bancroft
+    github: spiruel
+    twitter: spiruel
+  techniques:
+    - Semi-supervised/self-supervised learning
+    - convolutional networks
+  applications:
+    - crop type classification
+    - satellite time series classification
+    - crop yield estimation
