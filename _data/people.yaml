@@ -28,3 +28,16 @@
     - crop type classification
     - satellite time series classification
     - crop yield estimation
+   
+- name: Jonathan Coney
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/9496/jonathan-coney
+    github: jdconey
+    twitter: jonathan__coney
+  techniques:
+    - Supervised learning
+    - convolutional networks
+  applications:
+    - segmentation of atmospheric gravity waves 
+    - learning physical characteristics from model output
+    
