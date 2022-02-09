@@ -53,3 +53,14 @@
     - Glacier damage identification
     - SAR data
     - Glacial process modelling 
+    
+ - name: Joey Smith
+  social:
+    website: 
+    github: eejasm
+  techniques:
+    - Random Forests
+    - GANs
+  applications:
+    - Storm tracking and initiation prediction
+    - Precipitation nowcasting 
