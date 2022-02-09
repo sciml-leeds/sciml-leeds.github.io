@@ -40,4 +40,16 @@
   applications:
     - segmentation of atmospheric gravity waves 
     - learning physical characteristics from model output
-    
+
+- name: Trystan Surawy-Stepney
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/9528/trystan-surawy-stepney
+    github: R-Wolfcastle
+  techniques:
+    - Weakly-supervised learning
+    - Convolutional networks
+    - Numerical modelling
+  applications:
+    - Glacier damage identification
+    - SAR data
+    - Glacial process modelling 
