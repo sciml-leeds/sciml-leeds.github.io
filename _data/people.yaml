@@ -53,6 +53,19 @@
     - Glacier damage identification
     - SAR data
     - Glacial process modelling 
+    
+- name: Ben Wallis
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/9532/benjamin-wallis
+    github: eebjwa
+    twitter: benjjwallis
+  techniques:
+    - Supervised learning
+    - Convolutional networks
+    - Bayesian methods
+  applications:
+    - Tidewater glacier dynamics
+    - Ice ocean interaction
 
 - name: Joey Smith
   social:
