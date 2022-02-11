@@ -76,21 +76,33 @@ window.onload = wrap_img;
   content: "";
   clear: both;
   display: table;
+} 
+
+UL.people-list {
+  list-style: none;
+  margin-left: 0px;
 }
+
 LI.person-card {
   width: 200px;
   float: left;
   margin: 10px;
   text-align: center;
-}
-
-LI.person-card IMG {
-  width: 100px; border-radius: 50%; border: 5px solid #eee;
+  height: 340px;
 }
 
 LI.person-card P {
   margin: 0.5rem 0px !important;
 }
+
+LI.person-card > img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 5px solid #eee;
+  text-align: center;
+} 
+
 </style>
 
 <h1 id="scientific-machine-learning-at-university-of-leeds">Scientific Machine Learning at University of Leeds</h1>
@@ -109,7 +121,7 @@ pull-request to add yourself to this website:
 
 <h2 id="people">People</h2>
 
-<ul style="list-style: none;">
+<ul class="people-list">
 
 <li class="person-card">
   
