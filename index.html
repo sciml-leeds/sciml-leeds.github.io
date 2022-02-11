@@ -9,21 +9,33 @@ image: images/logo.png
   content: "";
   clear: both;
   display: table;
+} 
+
+UL.people-list {
+  list-style: none;
+  margin-left: 0px;
 }
+
 LI.person-card {
   width: 200px;
   float: left;
   margin: 10px;
   text-align: center;
-}
-
-LI.person-card IMG {
-  width: 100px; border-radius: 50%; border: 5px solid #eee;
+  height: 340px;
 }
 
 LI.person-card P {
   margin: 0.5rem 0px !important;
 }
+
+LI.person-card > img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 5px solid #eee;
+  text-align: center;
+} 
+
 </style>
 
 # Scientific Machine Learning at University of Leeds
@@ -49,7 +61,7 @@ We meet the first Friday of every month at 11am CET, virtually for the moment.
 {% endif %}
 {% endfor %}
 
-<ul style='list-style: none;'>
+<ul class='people-list'>
 {% for item in site.data.people %}
 <li class='person-card'>
   {% assign image_path = image_path_placeholder %}
