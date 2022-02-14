@@ -14,8 +14,11 @@
     website: https://environment.leeds.ac.uk/see/staff/9387/dr-chetan-deva
   techniques:
     - Random Forests
+    - XGBoost
+    - Long Short-Term Memory 
   applications:
-    - crop modelling
+    - Modelling Plant Behaviour across G*E
+    - Time Series Forecasting of Vegetation Dynamics
 - name: Samuel Bancroft
   social:
     website: https://environment.leeds.ac.uk/see/pgr/9458/samuel-bancroft
