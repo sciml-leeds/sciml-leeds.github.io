@@ -80,3 +80,17 @@
   applications:
     - Storm tracking and initiation prediction
     - Precipitation nowcasting 
+
+- name: Maria Luisa Taccari
+  social:
+    website: https://eps.leeds.ac.uk/civil-engineering/pgr/8539/maria-luisa
+    github: mlttac
+    twitter: MLTaccari
+  techniques:
+    - Operator learning
+    - PINNs
+    - Supervised learning
+    - Convolutional networks
+  applications:
+    - Groundwater prediction
+    - Surrogate modelling
