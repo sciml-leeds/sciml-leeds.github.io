@@ -15,7 +15,7 @@
   techniques:
     - Random Forests
     - XGBoost
-    - Long Short-Term Memory 
+    - Long Short-Term Memory
   applications:
     - Modelling Plant Behaviour across G*E
     - Time Series Forecasting of Vegetation Dynamics
@@ -31,7 +31,7 @@
     - crop type classification
     - satellite time series classification
     - crop yield estimation
-   
+
 - name: Jonathan Coney
   social:
     website: https://environment.leeds.ac.uk/see/pgr/9496/jonathan-coney
@@ -41,7 +41,7 @@
     - Supervised learning
     - convolutional networks
   applications:
-    - segmentation of atmospheric gravity waves 
+    - segmentation of atmospheric gravity waves
     - learning physical characteristics from model output
 
 - name: Trystan Surawy-Stepney
@@ -55,8 +55,8 @@
   applications:
     - Glacier damage identification
     - SAR data
-    - Glacial process modelling 
-    
+    - Glacial process modelling
+
 - name: Ben Wallis
   social:
     website: https://environment.leeds.ac.uk/see/pgr/9532/benjamin-wallis
@@ -72,14 +72,14 @@
 
 - name: Joey Smith
   social:
-    website: 
+    website:
     github: eejasm
   techniques:
     - Random Forests
     - GANs
   applications:
     - Storm tracking and initiation prediction
-    - Precipitation nowcasting 
+    - Precipitation nowcasting
 
 - name: Maria Luisa Taccari
   social:
@@ -94,3 +94,15 @@
   applications:
     - Groundwater prediction
     - Surrogate modelling
+
+- name: Calum S. Skene
+  social:
+    website: https://eps.leeds.ac.uk/maths-applied-mathematics/staff/8830/dr-calum-s-skene
+    github: csskene
+    twitter: calumskene
+  techniques:
+    - Neural networks
+    - Neural operators
+    - Reservoir computing
+  applications:
+    - Geophysical and astrophysical turbulence
