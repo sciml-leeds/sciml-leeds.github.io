@@ -106,3 +106,17 @@
     - Reservoir computing
   applications:
     - Geophysical and astrophysical turbulence
+
+- name: Shu Zhang
+  social:
+    website:
+    github: ShrutiZhang
+  techniques:
+    - Random Forests
+    - XGBoost
+    - LSTM
+  applications:
+    - Tropospheric ozone forcast
+    - Weather classification
+    - Time series decomposition of air pollutant
+
