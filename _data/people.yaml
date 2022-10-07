@@ -115,6 +115,6 @@
     - Machine Learning Compiler
     - Graph Neural Network
     - Supervised Learning
-   applications:
+  applications:
     - DNN models accleration
     - Distributed and parallel model training
