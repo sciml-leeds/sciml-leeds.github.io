@@ -118,3 +118,14 @@
   applications:
     - DNN models accleration
     - Distributed and parallel model training
+
+- name: Naomi Shakespeare-Rees
+  social:
+    github: geonaomi
+    twitter: geonaomi
+  techniques:
+    - PINN's
+    - Convolutional Networks
+  applications:
+    - Geomagnetic fields
+    - Core Flows
