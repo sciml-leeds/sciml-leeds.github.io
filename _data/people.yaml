@@ -118,5 +118,5 @@
   applications:
     - Tropospheric ozone forcast
     - Weather classification
-    - Time series decomposition of air pollutant
+    - Time series decomposition of air pollutants
 
