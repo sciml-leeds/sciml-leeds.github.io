@@ -117,3 +117,18 @@
   applications:
     - Geomagnetic fields
     - Core Flows
+
+- name: Phil Livermore		
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/1381/professor-phil-livermore
+    github: plivermore
+    twitter: 
+  techniques:
+    - Physics informed neural networks
+    - 
+        - 
+  applications:
+    - Reconstruction of earth/planetary magnetic fields from sparse data
+    - deep earth geophysics
+        - inverse theory
+				    
