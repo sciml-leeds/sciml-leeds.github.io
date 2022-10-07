@@ -106,3 +106,15 @@
     - Reservoir computing
   applications:
     - Geophysical and astrophysical turbulence
+    
+- name: Shenghao Qiu
+  social: 
+    website: https://eps.leeds.ac.uk/computing/pgr/8738/shenghao-qiu
+    github: JoshuaQSH
+  techniques:
+    - Machine Learning Compiler
+    - Graph Neural Network
+    - Supervised Learning
+   applications:
+    - DNN models accleration
+    - Distributed and parallel model training
