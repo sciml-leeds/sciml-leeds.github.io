@@ -121,3 +121,14 @@
   applications:
     - Deformbale Solid and Fluid Simulation
     - Vorticity Conservation 
+
+- name: Naomi Shakespeare-Rees
+  social:
+    github: geonaomi
+    twitter: geonaomi
+  techniques:
+    - PINN's
+    - Convolutional Networks
+  applications:
+    - Geomagnetic fields
+    - Core Flows
