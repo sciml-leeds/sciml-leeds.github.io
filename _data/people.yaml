@@ -107,6 +107,21 @@
   applications:
     - Geophysical and astrophysical turbulence
     
+- name: Dody Dharma
+  social:
+    website: https://eps.leeds.ac.uk/computing/pgr/7644/dody-dharma
+    github: dodydharma
+    twitter: dodydharma
+  techniques:
+    - Supervised learning
+    - Continuous Convolution
+    - Graph Neural Networks
+    - Multilayer Perceptron
+    - LSTM
+  applications:
+    - Deformbale Solid and Fluid Simulation
+    - Vorticity Conservation 
+
 - name: Naomi Shakespeare-Rees
   social:
     github: geonaomi
