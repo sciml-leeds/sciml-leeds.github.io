@@ -122,13 +122,9 @@
   social:
     website: https://environment.leeds.ac.uk/pgr/11237/jakub-lewandowski
     github: Quba1
-    twitter: 
   techniques:
     - Supervised learning
     - physics-informed neural networks
-        - 
   applications:
     - Weather nowcasting
-    - parametrization of atmospheric processes
-        - 
-				    
+    - parametrization of atmospheric processes		    
