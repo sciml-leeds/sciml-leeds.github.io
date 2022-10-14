@@ -146,3 +146,16 @@
     - Parallel and Distributed Deep Learning
     - Models acceleration
     - Tensors and models backend graph optimization
+
+- name: Shu Zhang
+  social:
+    website:
+    github: ShrutiZhang
+  techniques:
+    - Random Forests
+    - XGBoost
+    - LSTM
+  applications:
+    - Tropospheric ozone forcast
+    - Weather classification
+    - Time series decomposition of air pollutants
