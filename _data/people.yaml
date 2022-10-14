@@ -159,3 +159,14 @@
     - Tropospheric ozone forcast
     - Weather classification
     - Time series decomposition of air pollutants
+
+- name: Phil Livermore		
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/1381/professor-phil-livermore
+    github: plivermore
+  techniques:
+    - Physics informed neural networks
+  applications:
+    - Reconstruction of earth/planetary magnetic fields from sparse data
+    - deep earth geophysics
+    - inverse theory
