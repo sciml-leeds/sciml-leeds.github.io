@@ -106,6 +106,31 @@
     - Reservoir computing
   applications:
     - Geophysical and astrophysical turbulence
+    
+- name: Naomi Shakespeare-Rees
+  social:
+    github: geonaomi
+    twitter: geonaomi
+  techniques:
+    - PINN's
+    - Convolutional Networks
+  applications:
+    - Geomagnetic fields
+    - Core Flows
+    
+- name: Shenghao Qiu
+  social:
+    website: https://eps.leeds.ac.uk/computing/pgr/8738/shenghao-qiu
+    github: JoshuaQSH
+  techniques:
+    - Machine learning Compiler
+    - Graph Neural Network
+    - Self-supervised learning
+    - Convolutional Networks
+  applications:
+    - Parallel and Distributed Deep Learning
+    - Models acceleration
+    - Tensors and models backend graph optimization
 
 - name: Shu Zhang
   social:
@@ -119,4 +144,3 @@
     - Tropospheric ozone forcast
     - Weather classification
     - Time series decomposition of air pollutants
-
