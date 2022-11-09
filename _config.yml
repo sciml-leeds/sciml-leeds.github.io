@@ -131,3 +131,6 @@ feed:
   
 exclude:
   - settings.ini
+  
+# track site visits with google analytics
+google_analytics: G-1XCVNYVG54
