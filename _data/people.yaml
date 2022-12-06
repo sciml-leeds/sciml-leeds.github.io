@@ -181,3 +181,18 @@
   applications:
     - Weather nowcasting
     - parametrization of atmospheric processes		    
+
+- name: Joe Gallear		
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/2584/joe-gallear
+    github: eejg
+    twitter: 
+  techniques:
+    - Supervised learning
+    - neural networks
+        - random forests
+  applications:
+    - Crop yield estimation
+    - impacts of climate variability
+        - effects of extreme events
+				    
