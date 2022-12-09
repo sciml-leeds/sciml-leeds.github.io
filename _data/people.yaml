@@ -160,7 +160,7 @@
     - Weather classification
     - Time series decomposition of air pollutants
 
-- name: Phil Livermore		
+- name: Phil Livermore
   social:
     website: https://environment.leeds.ac.uk/see/staff/1381/professor-phil-livermore
     github: plivermore
@@ -171,7 +171,7 @@
     - deep earth geophysics
     - inverse theory
 
-- name: Jakub Lewandowski		
+- name: Jakub Lewandowski
   social:
     website: https://environment.leeds.ac.uk/pgr/11237/jakub-lewandowski
     github: Quba1
@@ -180,9 +180,9 @@
     - physics-informed neural networks
   applications:
     - Weather nowcasting
-    - parametrization of atmospheric processes		    
+    - parametrization of atmospheric processes
 
-- name: Joe Gallear		
+- name: Joe Gallear
   social:
     website: https://environment.leeds.ac.uk/see/pgr/2584/joe-gallear
     github: eejg
@@ -194,5 +194,4 @@
   applications:
     - Crop yield estimation
     - impacts of climate variability
-        - effects of extreme events
-				    
+    - effects of extreme events
