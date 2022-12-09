@@ -47,7 +47,7 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    github: sciml-leeds
+    - { platform: github, user_url: "https://github.com/sciml-leeds/" }
 
 # Set this to true to get LaTeX math equation support
 use_math: 
