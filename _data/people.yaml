@@ -190,7 +190,7 @@
   techniques:
     - Supervised learning
     - neural networks
-        - random forests
+    - random forests
   applications:
     - Crop yield estimation
     - impacts of climate variability
