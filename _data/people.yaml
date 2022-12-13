@@ -44,18 +44,6 @@
     - segmentation of atmospheric gravity waves
     - learning physical characteristics from model output
 
-- name: Sam Llanwarne
-  social:
-    website: https://ai-medical.leeds.ac.uk/home/student-profiles/
-    github: Smule11
-    twitter: SamLlanwarne
-  techniques:
-    - Neural Networks
-    - Segmentation, auto-encoding, classification
-    - Want to use transformers and graphs more
-  applications:
-    - very large histology tissue image, preprocessing and classification
-
 - name: Trystan Surawy-Stepney
   social:
     website: https://environment.leeds.ac.uk/see/pgr/9528/trystan-surawy-stepney
@@ -207,3 +195,15 @@
     - Crop yield estimation
     - impacts of climate variability
     - effects of extreme events
+
+- name: Sam Llanwarne
+  social:
+    website: https://ai-medical.leeds.ac.uk/home/student-profiles/
+    github: Smule11
+    twitter: SamLlanwarne
+  techniques:
+    - Neural Networks
+    - Segmentation, auto-encoding, classification
+    - Want to use transformers and graphs more
+  applications:
+    - very large histology tissue image, preprocessing and classification
