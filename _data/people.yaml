@@ -207,3 +207,14 @@
     - Want to use transformers and graphs more
   applications:
     - very large histology tissue image, preprocessing and classification
+
+- name: Andy Nowacki
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/1455/dr-andy-nowacki
+    github: anowacki
+  techniques:
+    - Neural networks
+    - classification
+  applications:
+    - Detection and location of earthquakes and icequakes
+    - subsurface structure and characterisation
