@@ -207,3 +207,18 @@
     - Want to use transformers and graphs more
   applications:
     - very large histology tissue image, preprocessing and classification
+
+- name: John Chong Zhang		
+  social:
+    website: https://www.researchgate.net/profile/Chong-Zhang-55
+    github: zhangchong12
+    twitter: 
+  techniques:
+    - Inversions
+    - numerical calculations
+        - filters
+  applications:
+    - Mineral system exploration
+    - subsurface structure
+        - geophysical potential fields
+				    
