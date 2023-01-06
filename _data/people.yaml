@@ -218,3 +218,18 @@
   applications:
     - Detection and location of earthquakes and icequakes
     - subsurface structure and characterisation
+
+- name: Longwei Chen		
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/9985/dr-longwei-chen
+    github: damao2021
+    twitter: longwei_chen22
+  techniques:
+    - Physics-informed neural networks
+    - deeponet
+        - beyesian pinn
+  applications:
+    - Planetary magnetic field modelling
+    - asteroid gravity modelling
+        - geophysical inverse problem
+				    
