@@ -208,17 +208,26 @@
   applications:
     - very large histology tissue image, preprocessing and classification
 
+- name: Andy Nowacki
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/1455/dr-andy-nowacki
+    github: anowacki
+  techniques:
+    - Neural networks
+    - classification
+  applications:
+    - Detection and location of earthquakes and icequakes
+    - subsurface structure and characterisation
+
 - name: John Chong Zhang		
   social:
     website: https://www.researchgate.net/profile/Chong-Zhang-55
     github: zhangchong12
-    twitter: 
   techniques:
-    - Inversions
+    - inversions
     - numerical calculations
-        - filters
+    - filters
   applications:
-    - Mineral system exploration
+    - mineral system exploration
     - subsurface structure
-        - geophysical potential fields
-				    
+    - geophysical potential fields
