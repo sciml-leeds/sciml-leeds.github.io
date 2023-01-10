@@ -229,3 +229,17 @@
   applications:
     - Computational fluid dynamics
     - heating, ventilation, and air control			    
+
+- name: Longwei Chen		
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/9985/dr-longwei-chen
+    github: damao2021
+    twitter: longwei_chen22
+  techniques:
+    - Physics-informed neural networks
+    - deeponet
+    - Bayesian PINN
+  applications:
+    - Planetary magnetic field modelling
+    - asteroid gravity modelling
+    - geophysical inverse problem			    
