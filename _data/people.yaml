@@ -227,9 +227,8 @@
   techniques:
     - Physics-informed neural networks
     - deeponet
-        - beyesian pinn
+    - Bayesian PINN
   applications:
     - Planetary magnetic field modelling
     - asteroid gravity modelling
-        - geophysical inverse problem
-				    
+    - geophysical inverse problem			    
