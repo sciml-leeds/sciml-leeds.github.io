@@ -223,13 +223,9 @@
   social:
     website: https://vcg.leeds.ac.uk/profiles/miranda-horne/
     github: MirandaJSHorne
-    twitter: 
   techniques:
     - Reduced order modelling 
     - physics informed neural networks
-        - 
   applications:
     - Computational fluid dynamics
-    - heating, ventilation, and air control
-        - 
-				    
+    - heating, ventilation, and air control			    
