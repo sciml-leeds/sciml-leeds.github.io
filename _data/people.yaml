@@ -218,3 +218,14 @@
   applications:
     - Detection and location of earthquakes and icequakes
     - subsurface structure and characterisation
+
+- name: Miranda Horne		
+  social:
+    website: https://vcg.leeds.ac.uk/profiles/miranda-horne/
+    github: MirandaJSHorne
+  techniques:
+    - Reduced order modelling 
+    - physics informed neural networks
+  applications:
+    - Computational fluid dynamics
+    - heating, ventilation, and air control			    
