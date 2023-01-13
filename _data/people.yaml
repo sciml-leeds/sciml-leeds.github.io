@@ -224,8 +224,8 @@
     website: https://www.researchgate.net/profile/Chong-Zhang-55
     github: zhangchong12
   techniques:
+    - Neural networks
     - inversions
-    - numerical calculations
     - filters
   applications:
     - mineral system exploration
