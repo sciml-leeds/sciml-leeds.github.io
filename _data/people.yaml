@@ -242,18 +242,13 @@
   applications:
     - Planetary magnetic field modelling
     - asteroid gravity modelling
-    - geophysical inverse problem			    
+    - geophysical inverse problem	
+    
 - name: Leyuan Wu		
   social:
     website: https://environment.leeds.ac.uk/staff/11344/dr-leyuan-wu
     github: LeyuanWu
-    twitter: 
   techniques:
     - Physics informed neural networks
-    - 
-        - 
   applications:
-    - Earth and planets' gravity field modelling
-    - 
-        - 
-				    
+    - Earth and planets' gravity field modelling			    
