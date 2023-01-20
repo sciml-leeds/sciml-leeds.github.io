@@ -12,7 +12,7 @@ data:
     media:
       youtube: https://www.youtube.com/watch?v=ZIZbu1o33xQ&t=4s
   - title: Extending the capabilities of data-driven reduced-order models to make predictions for unseen scenarios
-    datetime: 2020-11-18T11:00:00Z
+    datetime: 2022-11-18T11:00:00Z
     speaker: Claire Heaney (Imperial College)
 ---
 
