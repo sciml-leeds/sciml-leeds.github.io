@@ -25,7 +25,7 @@ github_repo: "sciml-leeds"
 url: "https://sciml-leeds.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # we should replace this when we get a committee email account
-contact_email: l.c.denby@leeds.ac.uk
+contact_email: sciml@lists.leeds.ac.uk
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
