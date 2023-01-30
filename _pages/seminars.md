@@ -14,6 +14,8 @@ data:
   - title: Extending the capabilities of data-driven reduced-order models to make predictions for unseen scenarios
     datetime: 2022-11-18T11:00:00Z
     speaker: Claire Heaney (Imperial College)
+    media:
+      youtube: https://www.youtube.com/watch?v=d1QXWSDgmEg
 ---
 
 Below is an overview seminars organised by the SciML community. We aim to put
