@@ -265,3 +265,18 @@
     - Physics informed neural networks
   applications:
     - Earth and planets' gravity field modelling			    
+
+- name: Alhanof Alolyan		
+  social:
+    website: https://vcg.leeds.ac.uk/profiles/alhanof-alolyan/
+    github: scasalo
+    twitter: 
+  techniques:
+    - Deep reinforcment learning
+    - deep learning
+        - 
+  applications:
+    - Computer-aided design
+    - crowd simulation
+        - 
+				    
