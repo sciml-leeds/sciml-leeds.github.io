@@ -291,3 +291,15 @@
     - Haemodynamic flow super-resolution
     - 4D-flow MRI
     - Left ventricular remodelling
+
+- name: Alhanof Alolyan		
+  social:
+    website: https://vcg.leeds.ac.uk/profiles/alhanof-alolyan/
+    github: scasalo
+    twitter: 
+  techniques:
+    - Deep reinforcement learning
+    - deep learning
+  applications:
+    - Computer-aided design
+    - crowd simulation		    
