@@ -265,3 +265,16 @@
     - Physics informed neural networks
   applications:
     - Earth and planets' gravity field modelling			    
+
+- name: Jack Smith		
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/9939/jack-smith
+    github: Mysterymanreturns
+    twitter: 
+  techniques:
+    - Cnns
+    - synthetic data
+    - gans
+  applications:
+    - Semantic segmentation of masonry lined tunnel joints
+    - structural condition assessment
