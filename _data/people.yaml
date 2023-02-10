@@ -274,9 +274,7 @@
   techniques:
     - Cnns
     - synthetic data
-        - gans
+    - gans
   applications:
     - Semantic segmentation of masonry lined tunnel joints
     - structural condition assessment
-        - 
-				    
