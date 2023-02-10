@@ -285,10 +285,9 @@
     github: fergusshone
     twitter: 
   techniques:
-    -
-     
-    P
+    - Informed machine learning
+    - Physics-informed neural networks
   applications:
-    -
-     
-    L
+    - Haemodynamic flow super-resolution
+    - 4D-flow MRI
+    - Left ventricular remodelling
