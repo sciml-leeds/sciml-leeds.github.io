@@ -106,3 +106,200 @@
     - Reservoir computing
   applications:
     - Geophysical and astrophysical turbulence
+    
+- name: Dody Dharma
+  social:
+    website: https://eps.leeds.ac.uk/computing/pgr/7644/dody-dharma
+    github: dodydharma
+    twitter: dodydharma
+  techniques:
+    - Supervised learning
+    - Continuous Convolution
+    - Graph Neural Networks
+    - Multilayer Perceptron
+    - LSTM
+  applications:
+    - Deformbale Solid and Fluid Simulation
+    - Vorticity Conservation 
+
+- name: Naomi Shakespeare-Rees
+  social:
+    github: geonaomi
+    twitter: geonaomi
+  techniques:
+    - PINN's
+    - Convolutional Networks
+  applications:
+    - Geomagnetic fields
+    - Core Flows
+    
+- name: Shenghao Qiu
+  social:
+    website: https://eps.leeds.ac.uk/computing/pgr/8738/shenghao-qiu
+    github: JoshuaQSH
+  techniques:
+    - Machine learning Compiler
+    - Graph Neural Network
+    - Self-supervised learning
+    - Convolutional Networks
+  applications:
+    - Parallel and Distributed Deep Learning
+    - Models acceleration
+    - Tensors and models backend graph optimization
+
+- name: Shu Zhang
+  social:
+    website:
+    github: ShrutiZhang
+  techniques:
+    - Random Forests
+    - XGBoost
+    - LSTM
+  applications:
+    - Tropospheric ozone forcast
+    - Weather classification
+    - Time series decomposition of air pollutants
+
+- name: Phil Livermore
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/1381/professor-phil-livermore
+    github: plivermore
+  techniques:
+    - Physics informed neural networks
+  applications:
+    - Reconstruction of earth/planetary magnetic fields from sparse data
+    - deep earth geophysics
+    - inverse theory
+
+- name: Jakub Lewandowski
+  social:
+    website: https://environment.leeds.ac.uk/pgr/11237/jakub-lewandowski
+    github: Quba1
+  techniques:
+    - Supervised learning
+    - physics-informed neural networks
+  applications:
+    - Weather nowcasting
+    - parametrization of atmospheric processes
+
+- name: Joe Gallear
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/2584/joe-gallear
+    github: eejg
+    twitter: 
+  techniques:
+    - Supervised learning
+    - neural networks
+    - random forests
+  applications:
+    - Crop yield estimation
+    - impacts of climate variability
+    - effects of extreme events
+
+- name: Sam Llanwarne
+  social:
+    website: https://ai-medical.leeds.ac.uk/home/student-profiles/
+    github: Smule11
+    twitter: SamLlanwarne
+  techniques:
+    - Neural Networks
+    - Segmentation, auto-encoding, classification
+    - Want to use transformers and graphs more
+  applications:
+    - very large histology tissue image, preprocessing and classification
+
+- name: Andy Nowacki
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/1455/dr-andy-nowacki
+    github: anowacki
+  techniques:
+    - Neural networks
+    - classification
+  applications:
+    - Detection and location of earthquakes and icequakes
+    - subsurface structure and characterisation
+
+- name: John Chong Zhang		
+  social:
+    website: https://www.researchgate.net/profile/Chong-Zhang-55
+    github: zhangchong12
+  techniques:
+    - Neural networks
+    - inversions
+    - filters
+  applications:
+    - mineral system exploration
+    - subsurface structure
+    - geophysical potential fields
+
+- name: Miranda Horne		
+  social:
+    website: https://vcg.leeds.ac.uk/profiles/miranda-horne/
+    github: MirandaJSHorne
+  techniques:
+    - Reduced order modelling 
+    - physics informed neural networks
+  applications:
+    - Computational fluid dynamics
+    - heating, ventilation, and air control			    
+
+- name: Longwei Chen		
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/9985/dr-longwei-chen
+    github: damao2021
+    twitter: longwei_chen22
+  techniques:
+    - Physics-informed neural networks
+    - deeponet
+    - Bayesian PINN
+  applications:
+    - Planetary magnetic field modelling
+    - asteroid gravity modelling
+    - geophysical inverse problem	
+    
+- name: Leyuan Wu		
+  social:
+    website: https://environment.leeds.ac.uk/staff/11344/dr-leyuan-wu
+    github: LeyuanWu
+  techniques:
+    - Physics informed neural networks
+  applications:
+    - Earth and planets' gravity field modelling			    
+
+- name: Jack Smith		
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/9939/jack-smith
+    github: Mysterymanreturns
+    twitter: 
+  techniques:
+    - Cnns
+    - synthetic data
+    - gans
+  applications:
+    - Semantic segmentation of masonry lined tunnel joints
+    - structural condition assessment
+
+- name: Fergus Shone		
+  social:
+    website: https://eps.leeds.ac.uk/computing/pgr/7701/fergus-shone
+    github: fergusshone
+    twitter: 
+  techniques:
+    - Informed machine learning
+    - Physics-informed neural networks
+  applications:
+    - Haemodynamic flow super-resolution
+    - 4D-flow MRI
+    - Left ventricular remodelling
+
+- name: Alhanof Alolyan		
+  social:
+    website: https://vcg.leeds.ac.uk/profiles/alhanof-alolyan/
+    github: scasalo
+    twitter: 
+  techniques:
+    - Deep reinforcement learning
+    - deep learning
+  applications:
+    - Computer-aided design
+    - crowd simulation		    

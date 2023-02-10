@@ -24,6 +24,9 @@ github_repo: "sciml-leeds"
 # Note: leave out the trailing / from this value. 
 url: "https://sciml-leeds.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+# we should replace this when we get a committee email account
+contact_email: sciml@lists.leeds.ac.uk
+
 ###########################################################
 #########  Special Instructions for baseurl ###############
 #
@@ -47,7 +50,7 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    github: sciml-leeds
+    - { platform: github, user_url: "https://github.com/sciml-leeds/" }
 
 # Set this to true to get LaTeX math equation support
 use_math: 
