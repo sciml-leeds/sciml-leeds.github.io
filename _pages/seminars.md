@@ -9,6 +9,8 @@ data:
   - title: Physics-informed Machine Learning for Trustworthy Climate Emulators
     datetime: 2023-02-10T14:00:00Z
     speaker: Björn Lütjens (MIT)
+    media:
+      youtube: https://www.youtube.com/watch?v=826wF2DNTms
   - title: Explainable AI for identifying regional climate change patterns
     datetime: 2023-01-13T14:00:00Z
     speaker: Zack Labe (Princeton)
