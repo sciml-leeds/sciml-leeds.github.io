@@ -302,4 +302,16 @@
     - deep learning
   applications:
     - Computer-aided design
-    - crowd simulation		    
+    - crowd simulation		
+    
+- name: Claire Bartholomew		
+  social:
+    website: 
+    github: claire-bartholomew
+    twitter: clairebarty
+  techniques:
+    - Supervised learning
+    - CNNs
+  applications:
+    - Precipitation nowcasting
+    - Convection / thunderstorm prediction
