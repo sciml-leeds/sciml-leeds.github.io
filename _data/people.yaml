@@ -315,3 +315,15 @@
   applications:
     - Precipitation nowcasting
     - Convection / thunderstorm prediction
+
+- name: Jacob Connolly
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/9497/jacob-connolly
+    github: jconnollyeo
+    twitter: JConnollyEO
+  techniques:
+    - Supervised learning
+    - Random Forests
+  applications:
+    - InSAR Time series
+    - Noise reduction in SAR data
