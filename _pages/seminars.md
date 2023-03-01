@@ -5,7 +5,7 @@ permalink: /seminars/
 data:
   - title: Sea ice detection from concurrent visible and SAR imagery using a convolutional neural network
     datetime: 2023-02-24T11:00:00Z
-    speaker: Martin Rogers, British Antarctic Survey
+    speaker: Martin Rogers (British Antarctic Survey)
     media:
       youtube: https://www.youtube.com/watch?v=U4amljFGkiw
   - title: Physics-informed Machine Learning for Trustworthy Climate Emulators
