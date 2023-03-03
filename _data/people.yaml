@@ -237,11 +237,12 @@
     website: https://vcg.leeds.ac.uk/profiles/miranda-horne/
     github: MirandaJSHorne
   techniques:
-    - Reduced order modelling 
-    - physics informed neural networks
+    - Operator Learning 
+    - Physics Constrained Neural Networks
   applications:
-    - Computational fluid dynamics
-    - heating, ventilation, and air control			    
+    - Computational Fluid Dynamics
+    - Inverse Modelling
+    - Interior Air Control			    
 
 - name: Longwei Chen		
   social:
