@@ -3,6 +3,9 @@ layout: page
 title: Seminars
 permalink: /seminars/
 data:
+  - title: ClimaX: A foundation model for weather and climate
+    datetime: 2023-03-17T15:00:00Z
+    speaker: Tung Nguyen (UCLA)
   - title: Sea ice detection from concurrent visible and SAR imagery using a convolutional neural network
     datetime: 2023-02-24T11:00:00Z
     speaker: Martin Rogers (British Antarctic Survey)
