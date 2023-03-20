@@ -6,6 +6,8 @@ data:
   - title: "ClimaX: A foundation model for weather and climate"
     datetime: 2023-03-17T15:00:00Z
     speaker: Tung Nguyen (UCLA)
+    media:
+      youtube: https://www.youtube.com/watch?v=0pV0K1A9RvY
   - title: Sea ice detection from concurrent visible and SAR imagery using a convolutional neural network
     datetime: 2023-02-24T11:00:00Z
     speaker: Martin Rogers (British Antarctic Survey)
