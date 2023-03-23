@@ -38,24 +38,24 @@
   
 
   
-
-  
-  
-
-  
-
-  
-  
-
-  
-      ,"page6": {
-          "title": "Seminars",
-          "content": "Below is an overview seminars organised by the SciML community. We aim to put recordings of each seminar online within a week of the seminar taking place. . Please get in touch if you’d like to come to talk to us, we’re a very diverse group in terms of applications in scientific machine learning and would to hear about your work! . Title Speaker Date Media . {% for talk in page.data %} {{talk.title}} | {{talk.speaker}} | {{talk.datetime | date: &quot;%d/%m/%Y %H:%M&quot;}} | {% if talk.media.youtube %} recording {% endif %} | . {% endfor %}",
-          "url": "https://sciml-leeds.github.io/seminars/",
-          "relUrl": "/seminars/",
+      ,"page2": {
+          "title": "Events",
+          "content": "Below is an overview of events organised by the SciML community. We aim to put recordings of each event online within a week of them taking place. . Please get in touch if you’d like to come to talk to us, we’re a very diverse group in terms of applications in scientific machine learning and would to hear about your work! . Seminars . Title Speaker Date Media . ClimaX: A foundation model for weather and climate | Tung Nguyen (UCLA) | 17/03/2023 15:00 | recording | . Sea ice detection from concurrent visible and SAR imagery using a convolutional neural network | Martin Rogers (British Antarctic Survey) | 24/02/2023 11:00 | recording | . Physics-informed Machine Learning for Trustworthy Climate Emulators | Björn Lütjens (MIT) | 10/02/2023 14:00 | recording | . Explainable AI for identifying regional climate change patterns | Zack Labe (Princeton) | 13/01/2023 14:00 | recording | . Extending the capabilities of data-driven reduced-order models to make predictions for unseen scenarios | Claire Heaney (Imperial College) | 18/11/2022 11:00 | recording | . Workshops . Title Speaker Date Media . Physics-informed neural networks (PINNs) | Fergus Shone (University of Leeds) | 17/02/2023 14:00 | recording | .",
+          "url": "https://sciml-leeds.github.io/events/",
+          "relUrl": "/events/",
           "date": ""
       }
       
+  
+
+  
+
+  
+  
+
+  
+
+  
   
 
   
