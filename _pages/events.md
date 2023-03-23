@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Seminars
-permalink: /seminars/
-data:
+title: Events
+permalink: /events/
+seminar_data:
   - title: "ClimaX: A foundation model for weather and climate"
     datetime: 2023-03-17T15:00:00Z
     speaker: Tung Nguyen (UCLA)
@@ -28,14 +28,22 @@ data:
     speaker: Claire Heaney (Imperial College)
     media:
       youtube: https://www.youtube.com/watch?v=d1QXWSDgmEg
+workshop_data:
+  - title: Physics-informed neural networks (PINNs)
+    datetime: 2023-02-17T14:00:00Z
+    speaker: Fergus Shone (University of Leeds)
+    media:
+      youtube: https://www.youtube.com/watch?v=zYi8KO4rLwg&t=139s
 ---
 
-Below is an overview seminars organised by the SciML community. We aim to put
-recordings of each seminar online within a week of the seminar taking place.
+Below is an overview of events organised by the SciML community. We aim to put
+recordings of each event online within a week of them taking place.
 
 [Please get in touch <i class="fa fa-envelope"></i>](mailto://{{site.contact_email}}) if you'd like to come to
 talk to us, we're a very diverse group in terms of applications in scientific
 machine learning and would <i class="fa fa-heart"></i> to hear about your work!
+
+<h2>Seminars</h2>
 
 <table>
 <tr>
@@ -45,7 +53,7 @@ machine learning and would <i class="fa fa-heart"></i> to hear about your work!
 <th>Media</th>
 </tr>
 
-{% for talk in page.data %}
+{% for talk in page.seminar_data %}
 <tr>
 <td>{{talk.title}}</td>
 <td>{{talk.speaker}}</td>
@@ -60,3 +68,27 @@ machine learning and would <i class="fa fa-heart"></i> to hear about your work!
 
 </table>
 
+<h2>Workshops</h2>
+
+<table>
+<tr>
+<th>Title</th>
+<th>Speaker</th>
+<th>Date</th>
+<th>Media</th>
+</tr>
+
+{% for talk in page.workshop_data %}
+<tr>
+<td>{{talk.title}}</td>
+<td>{{talk.speaker}}</td>
+<td>{{talk.datetime | date: "%d/%m/%Y %H:%M"}}</td>
+<td>
+{% if talk.media.youtube %}
+<a href="{{talk.media.youtube}}">recording</a>
+{% endif %}
+</td>
+</tr>
+{% endfor %}
+
+</table>
