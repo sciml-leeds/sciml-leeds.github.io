@@ -356,3 +356,17 @@
     - Met office um
     - dynamo
     - cesm
+
+- name: Eric Atwell
+  social:
+    website: http://www.comp.leeds.ac.uk/eric
+    github: csc6ea
+    twitter: 
+  techniques:
+    - Text analytics
+    - sketchengine
+    - chatbots
+  applications:
+    - University teaching and assessment
+    - understanding quran and hadith
+    - detecting bias and fake news
