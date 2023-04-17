@@ -342,12 +342,12 @@
     - Radar interferometry (insar)
     - volcano deformation
     - tectonic deformation
-
+    
 - name: Mark Richardson
   social:
     website: https://www.cemac.leeds.ac.uk
     github: MarkUoLeeds
-    twitter: @CEMAC_MarkR
+    twitter: CEMAC_MarkR
   techniques:
     - Fortran
     - mpi
