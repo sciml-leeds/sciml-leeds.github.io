@@ -370,3 +370,12 @@
     - University teaching and assessment
     - understanding quran and hadith
     - detecting bias and fake news
+
+- name: Simon Peatman
+  social:
+    website: http://www.simonpeatman.me.uk
+    github: SimonPeatman
+  techniques:
+    - Neural networks
+  applications:
+    - Classification of convective weather systems
