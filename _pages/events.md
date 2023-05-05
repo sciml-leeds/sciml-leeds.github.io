@@ -34,6 +34,11 @@ workshop_data:
     speaker: Fergus Shone (University of Leeds)
     media:
       youtube: https://www.youtube.com/watch?v=zYi8KO4rLwg&t=139s
+  - title: Physics-informed neural networks (PINNs)
+    datetime: 2023-04-17T14:00:00Z
+    speaker: Alhanof Alolyan (University of Leeds)
+    media:
+      notebook: https://sciml-leeds.github.io/categories/#reinforcement_learning
 ---
 
 Below is an overview of events organised by the SciML community. We aim to put
@@ -62,6 +67,9 @@ machine learning and would <i class="fa fa-heart"></i> to hear about your work!
 {% if talk.media.youtube %}
 <a href="{{talk.media.youtube}}">recording</a>
 {% endif %}
+{% if talk.media.notebook %}
+<a href="{{talk.media.notebook}}">code</a>
+{% endif %}
 </td>
 </tr>
 {% endfor %}
@@ -86,6 +94,9 @@ machine learning and would <i class="fa fa-heart"></i> to hear about your work!
 <td>
 {% if talk.media.youtube %}
 <a href="{{talk.media.youtube}}">recording</a>
+{% endif %}
+{% if talk.media.notebook %}
+<a href="{{talk.media.notebook}}">code</a>
 {% endif %}
 </td>
 </tr>
