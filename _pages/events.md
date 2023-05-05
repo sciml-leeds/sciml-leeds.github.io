@@ -66,6 +66,7 @@ machine learning and would <i class="fa fa-heart"></i> to hear about your work!
 <td>
 {% if talk.media.youtube %}
 <a href="{{talk.media.youtube}}">recording</a>
+{% endif %}
 {% if talk.media.notebook %}
 <a href="{{talk.media.notebook}}">code</a>
 {% endif %}
@@ -93,6 +94,7 @@ machine learning and would <i class="fa fa-heart"></i> to hear about your work!
 <td>
 {% if talk.media.youtube %}
 <a href="{{talk.media.youtube}}">recording</a>
+{% endif %}
 {% if talk.media.notebook %}
 <a href="{{talk.media.notebook}}">code</a>
 {% endif %}
