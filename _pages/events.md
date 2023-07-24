@@ -3,6 +3,11 @@ layout: page
 title: Events
 permalink: /events/
 seminar_data:
+  - title: Feature-Preserving Point Cloud Simplification with Gaussian Processes
+    datetime: 2023-07-14T14:00:00Z
+    speaker: Thomas. M. McDonald
+    media:
+      youtube: https://www.youtube.com/watch?v=9yPHRLRYkUo
   - title: "ClimaX: A foundation model for weather and climate"
     datetime: 2023-03-17T15:00:00Z
     speaker: Tung Nguyen (UCLA)
