@@ -39,7 +39,7 @@ workshop_data:
     speaker: Fergus Shone (University of Leeds)
     media:
       youtube: https://www.youtube.com/watch?v=zYi8KO4rLwg&t=139s
-  - title: Physics-informed neural networks (PINNs)
+  - title: Reinforcement Learning
     datetime: 2023-04-17T14:00:00Z
     speaker: Alhanof Alolyan (University of Leeds)
     media:
