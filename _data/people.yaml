@@ -379,3 +379,18 @@
     - Neural networks
   applications:
     - Classification of convective weather systems
+
+			
+- name: Yutaro Shigemitsu		
+  social:
+    website: https://earth.kumst.kyoto-u.ac.jp/en/
+    github: shigemitsu-yutaro
+    twitter: 
+  techniques:
+    - Interferometric sar (insar)
+    - drone sar
+    - pinn (under training)
+  applications:
+    - Monitoring volcano
+    - monitoring seasonal deformation changes
+    - 
