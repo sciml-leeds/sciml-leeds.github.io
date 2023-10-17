@@ -379,3 +379,18 @@
     - Neural networks
   applications:
     - Classification of convective weather systems
+
+			
+- name: Jillian Schacher		
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/2654/jillian-schacher-
+    github: jschacher1
+    twitter: 
+  techniques:
+    - Gis
+    - nvivo
+    - wizard
+  applications:
+    - Marine spatial planning
+    - species distribution
+    - cluster mapping
