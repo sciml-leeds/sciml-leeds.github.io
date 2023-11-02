@@ -379,3 +379,18 @@
     - Neural networks
   applications:
     - Classification of convective weather systems
+
+			
+- name: Dr Peyman Babakhani		
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/12072/dr-peyman-babakhani
+    github: -
+    twitter: @PeymanBabakhani
+  techniques:
+    - Deep learning
+    - physics-informed ai
+    - random forest 
+  applications:
+    - Global carbon cycling 
+    - environmental contaminant transport
+    - groundwater modelling 
