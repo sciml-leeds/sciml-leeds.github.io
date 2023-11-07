@@ -379,3 +379,18 @@
     - Neural networks
   applications:
     - Classification of convective weather systems
+
+			
+- name: Zoe Hancox		
+  social:
+    website: https://zoehancox.github.io/
+    github: ZoeHancox
+    twitter: ZLHancox
+  techniques:
+    - Temporal graphs
+    - 3d convolutional neural networks
+    - hypergraphs
+  applications:
+    - Health outcome prediction
+    - patient trajectory visualisation
+    - ehr analysis
