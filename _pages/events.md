@@ -44,6 +44,12 @@ workshop_data:
     speaker: Alhanof Alolyan (University of Leeds)
     media:
       notebook: https://sciml-leeds.github.io/categories/#reinforcement_learning
+  - title: SINDy
+    datetime: 2023-10-27T14:00:00Z
+    speaker: Alasdair Roy (University of Leeds)
+    media:
+      youtube: https://www.youtube.com/watch?v=jTDym45joAk
+      notebook: https://sciml-leeds.github.io/workshop/sindy/2023/10/27/SINDy_Challenges.html
 ---
 
 Below is an overview of events organised by the SciML community. We aim to put
