@@ -379,3 +379,16 @@
     - Neural networks
   applications:
     - Classification of convective weather systems
+
+- name: Andy Turner
+  social:
+    website: https://agdturner.github.io
+    github: agdturner
+    twitter: agdturner
+  techniques:
+    - Multi-layered Perceptron
+    - Fuzzy Inference
+  applications:
+    - Predicting spatial and temporal change
+    - Forecasting climate change impacts
+    - River level forecating
