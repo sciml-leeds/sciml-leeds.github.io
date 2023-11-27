@@ -392,3 +392,18 @@
     - Predicting spatial and temporal change
     - Forecasting climate change impacts
     - River level forecating
+
+			
+- name: Alex Lewis		
+  social:
+    website: https://eo-cdt.org/people/students-and-academics/
+    github: ajlewisl23
+    twitter: 
+  techniques:
+    - Unsupervised classification
+    - convolutional networks
+    - 
+  applications:
+    - Understanding storm morphology
+    - high impact weather
+    - nowcasting
