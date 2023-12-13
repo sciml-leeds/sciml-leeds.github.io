@@ -8,11 +8,21 @@ seminar_data:
     speaker: Ryan Keisler
     media:
       youtube: https://www.youtube.com/watch?v=-CDf4GoWU3g
+  - title: Could deep learning methods replace numerical weather models?
+    datetime: 2023-10-20T15:00:00Z
+    speaker: Mariana Clare
+    media:
+      youtube: https://www.youtube.com/watch?v=5BMRkXi3GgU
   - title: Feature-Preserving Point Cloud Simplification with Gaussian Processes
     datetime: 2023-07-14T14:00:00Z
     speaker: Thomas. M. McDonald
     media:
       youtube: https://www.youtube.com/watch?v=9yPHRLRYkUo
+    - title: Physics-based domain adaptation for dynamical systems forecasting
+    datetime: 2023-05-19T14:00:00Z
+    speaker: Zack Xuereb Conti
+    media:
+      youtube: https://www.youtube.com/watch?v=q-YoY_3Y74M
   - title: "ClimaX: A foundation model for weather and climate"
     datetime: 2023-03-17T15:00:00Z
     speaker: Tung Nguyen (UCLA)
