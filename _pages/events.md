@@ -3,6 +3,11 @@ layout: page
 title: Events
 permalink: /events/
 seminar_data:
+  - title: Forecasting Global Weather with Graph Neural Networks
+    datetime: 2023-11-10T15:00:00Z
+    speaker: Ryan Keisler
+    media:
+      youtube: https://www.youtube.com/watch?v=-CDf4GoWU3g
   - title: Feature-Preserving Point Cloud Simplification with Gaussian Processes
     datetime: 2023-07-14T14:00:00Z
     speaker: Thomas. M. McDonald
