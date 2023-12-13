@@ -18,7 +18,7 @@ seminar_data:
     speaker: Thomas. M. McDonald
     media:
       youtube: https://www.youtube.com/watch?v=9yPHRLRYkUo
-   - title: Physics-based domain adaptation for dynamical systems forecasting
+  - title: Physics-based domain adaptation for dynamical systems forecasting
     datetime: 2023-05-19T14:00:00Z
     speaker: Zack Xuereb Conti
     media:
