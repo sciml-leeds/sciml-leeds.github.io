@@ -5,22 +5,22 @@ permalink: /events/
 seminar_data:
   - title: Forecasting Global Weather with Graph Neural Networks
     datetime: 2023-11-10T15:00:00Z
-    speaker: Ryan Keisler
+    speaker: Ryan Keisler (KoBold Metals)
     media:
       youtube: https://www.youtube.com/watch?v=-CDf4GoWU3g
   - title: Could deep learning methods replace numerical weather models?
     datetime: 2023-10-20T15:00:00Z
-    speaker: Mariana Clare
+    speaker: Mariana Clare (European Centre for Medium Range Weather Forecasts)
     media:
       youtube: https://www.youtube.com/watch?v=5BMRkXi3GgU
   - title: Feature-Preserving Point Cloud Simplification with Gaussian Processes
     datetime: 2023-07-14T14:00:00Z
-    speaker: Thomas. M. McDonald
+    speaker: Thomas. M. McDonald (University of Manchester)
     media:
       youtube: https://www.youtube.com/watch?v=9yPHRLRYkUo
   - title: Physics-based domain adaptation for dynamical systems forecasting
     datetime: 2023-05-19T14:00:00Z
-    speaker: Zack Xuereb Conti
+    speaker: Zack Xuereb Conti (Alan Turing Institute)
     media:
       youtube: https://www.youtube.com/watch?v=q-YoY_3Y74M
   - title: "ClimaX: A foundation model for weather and climate"
