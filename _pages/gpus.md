@@ -1,33 +1,73 @@
 ---
-layout: page
-title: GPU platforms
-permalink: /gpu/
 gpu_platforms:
-  - name: Pascal (DMI)
-    hardware: 1x Nvidia A100 80GB
+  - name: ARC3
+    hardware: 2 nodes with 2 x NVIDIA K80s, 6 nodes with 4 x NVIDIA P100s
     access:
-        contact: Tore Wulf
-        email: twu@dmi.dk
-    project: ASIP
-  - name: ATOS (ECMWF)
-    hardware: 72x Nvidia A100
+        text: Anyone at Leeds
+        url: https://arcdocs.leeds.ac.uk/getting_started/request_hpc_acct.html
+    project: ARC4
+  - name: JASMIN
+    organization: NERC
+    hardware: 6x NVidia GV100GL across 3 nodes
     access:
-        url: https://confluence.ecmwf.int/display/EWCLOUDKB/GPU+support+at+ECMWF
-  - name: European Weather Cloud
-    hardware: 36x Nvidia A100 (TBC), imminently available (June 2023)
+        url: https://www.jasmin.ac.uk
+  - name: DiRAC (Tursa)
+    organization: EPCC
+    hardware: 144 nodes with 4x Nvidia RedStone A100-40 each
     access:
-        text: pilot access only
-  - name: LUMI (EuroHPC)
-    hardware: 2560x4x AMD MI250x
+        text: Annual call for project proposals
+        url: https://dirac.ac.uk/community/#AccessingDiRAC
+    additional_info: https://www.epcc.ed.ac.uk/hpc-services/dirac-tursa-gpu
+  - name: MAGEO
+    organization: PML
+    hardware: 5 NVIDIA DGX-1 MaxQ nodes
     access:
-        url: https://docs.lumi-supercomputer.eu/firststeps/
-  - name: LEONARDO (EuroHPC)
-    hardware: 3456 GPU nodes with 4 NVIDIA A100 each (Booster module), 1536 CPU nodes with 56 cores each (Data Centric module), available soon
+        text: NERC related research
+        url: Via email (see website)
+    additional_info: https://mageohub.neodaas.ac.uk/
+  - name: BEDE
+    organization: Durham
+    hardware: 38x Nvidia V100 across 38 nodes in cluster
     access:
-        url: https://leonardo-supercomputer.cineca.eu/hpc-system/
+        text: EPSRC funded projects (pre EPSRC-application access available)
+    additional_info: 
+        - https://n8cir.org.uk/supporting-research/facilities/bede/docs/bede_registrations/
+        - https://bede-documentation.readthedocs.io/en/latest/usage/index.html
+  - name: JADE II
+    organization: Oxford/ATI
+    hardware: 63 DGX MAX-Q nodes with 8x NVidia V100 each
+  - name: LEARN
+    organization: UoL
+    hardware: 1 DGX A100
+  - name: Google Colab
+    organization: Google
+    hardware: NVidia k80s
+    access:
+        text: Free through Google account
+        url: https://cloud.google.com/gpu/
+    additional_info: https://www.tutorialspoint.com/google_colab/google_colab_using_free_gpu.htm
+  - name: Kaggle Notebooks
+    organization: Kaggle
+    hardware: 30 GPU hrs/week
+    access:
+        text: Free through Kaggle account
+        url: https://www.kaggle.com/code/dansbecker/running-kaggle-kernels-with-a-gpu
+    additional_info: https://www.kaggle.com/product-feedback/173129
+  - name: Gradient
+    organization: Paperspace
+    hardware: M4000 in free tier
+    access:
+        text: Free or paid tiers
+  - name: Graphcore
+    organization: Paperspace
+    hardware: Graphcore IPU-POD16
+    access:
+        max_hours_per_day: 6hrs/day
+        text: Free during evaluation period
+    additional_info: https://www.paperspace.com/graphcore/
 ---
 
-Below is an overview of GPU platforms available for research by staff at DMI:
+Below is an overview of GPU platforms available for research by staff at the University of Leeds:
 
 <h2>GPU platforms</h2>
 
