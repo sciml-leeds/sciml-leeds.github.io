@@ -82,6 +82,17 @@
   
 
   
+      ,"page3": {
+          "title": "GPU platforms",
+          "content": "Below is an overview of GPU platforms available for research by staff at DMI: . GPU platforms . Name Hardware Access Project . Pascal (DMI) | 1x Nvidia A100 80GB | Email Tore Wulf | ASIP | . ATOS (ECMWF) | 72x Nvidia A100 | https://confluence.ecmwf.int/display/EWCLOUDKB/GPU+support+at+ECMWF | | . European Weather Cloud | 36x Nvidia A100 (TBC), imminently available (June 2023) | pilot access only | | . LUMI (EuroHPC) | 2560x4x AMD MI250x | https://docs.lumi-supercomputer.eu/firststeps/ | | . LEONARDO (EuroHPC) | 3456 GPU nodes with 4 NVIDIA A100 each (Booster module), 1536 CPU nodes with 56 cores each (Data Centric module), available soon | https://leonardo-supercomputer.cineca.eu/hpc-system/ | | . EuroHPC JU - supercomputers | .",
+          "url": "https://sciml-leeds.github.io/gpu/",
+          "relUrl": "/gpu/",
+          "date": ""
+      }
+      
+  
+
+  
 
   
   
@@ -106,7 +117,7 @@
   
 
   
-      ,"page12": {
+      ,"page13": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://sciml-leeds.github.io/robots.txt",
