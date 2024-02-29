@@ -1,4 +1,7 @@
 ---
+layout: page
+title: GPU platforms
+permalink: /gpu/
 gpu_platforms:
   - name: ARC3
     hardware: 2 nodes with 2 x NVIDIA K80s, 6 nodes with 4 x NVIDIA P100s
