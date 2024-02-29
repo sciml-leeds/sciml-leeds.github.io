@@ -83,10 +83,10 @@
 
   
       ,"page3": {
-          "title": "GPU platforms",
-          "content": "Below is an overview of GPU platforms available for research by staff at DMI: . GPU platforms . Name Hardware Access Project . Pascal (DMI) | 1x Nvidia A100 80GB | Email Tore Wulf | ASIP | . ATOS (ECMWF) | 72x Nvidia A100 | https://confluence.ecmwf.int/display/EWCLOUDKB/GPU+support+at+ECMWF | | . European Weather Cloud | 36x Nvidia A100 (TBC), imminently available (June 2023) | pilot access only | | . LUMI (EuroHPC) | 2560x4x AMD MI250x | https://docs.lumi-supercomputer.eu/firststeps/ | | . LEONARDO (EuroHPC) | 3456 GPU nodes with 4 NVIDIA A100 each (Booster module), 1536 CPU nodes with 56 cores each (Data Centric module), available soon | https://leonardo-supercomputer.cineca.eu/hpc-system/ | | . EuroHPC JU - supercomputers | .",
-          "url": "https://sciml-leeds.github.io/gpu/",
-          "relUrl": "/gpu/",
+          "title": "",
+          "content": "Below is an overview of GPU platforms available for research by staff at the University of Leeds: . GPU platforms . Name Hardware Access Project . ARC3 | 2 nodes with 2 x NVIDIA K80s, 6 nodes with 4 x NVIDIA P100s | https://arcdocs.leeds.ac.uk/getting_started/request_hpc_acct.html | ARC4 | . JASMIN | 6x NVidia GV100GL across 3 nodes | https://www.jasmin.ac.uk | | . DiRAC (Tursa) | 144 nodes with 4x Nvidia RedStone A100-40 each | https://dirac.ac.uk/community/#AccessingDiRAC | | . MAGEO | 5 NVIDIA DGX-1 MaxQ nodes | Via email (see website) | | . BEDE | 38x Nvidia V100 across 38 nodes in cluster | EPSRC funded projects (pre EPSRC-application access available) | | . JADE II | 63 DGX MAX-Q nodes with 8x NVidia V100 each | | | . LEARN | 1 DGX A100 | | | . Google Colab | NVidia k80s | https://cloud.google.com/gpu/ | | . Kaggle Notebooks | 30 GPU hrs/week | https://www.kaggle.com/code/dansbecker/running-kaggle-kernels-with-a-gpu | | . Gradient | M4000 in free tier | Free or paid tiers | | . Graphcore | Graphcore IPU-POD16 | Free during evaluation period | | . EuroHPC JU - supercomputers | .",
+          "url": "https://sciml-leeds.github.io/_pages/gpus.html",
+          "relUrl": "/_pages/gpus.html",
           "date": ""
       }
       
