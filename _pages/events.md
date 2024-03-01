@@ -3,6 +3,11 @@ layout: page
 title: Events
 permalink: /events/
 seminar_data:
+  - title: Rapid Spatio-Temporal Flood Modeling: Hydraulic GNN Approach
+    datetime: 2023-02-16T11:00:00Z
+    speaker: Roberto Bentivoglio (Delft University of Technology)
+    media:
+      youtube: https://www.youtube.com/watch?v=S2YrFFJz6jY
   - title: Forecasting Global Weather with Graph Neural Networks
     datetime: 2023-11-10T15:00:00Z
     speaker: Ryan Keisler (KoBold Metals)
