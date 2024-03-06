@@ -127,11 +127,12 @@
     github: geonaomi
     twitter: geonaomi
   techniques:
-    - PINN's
+    - PINNs
     - Convolutional Networks
+    - Autoencoders
   applications:
-    - Geomagnetic fields
-    - Core Flows
+    - Geomagnetism
+    - Fluid Flows
     
 - name: Shenghao Qiu
   social:
