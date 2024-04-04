@@ -3,11 +3,31 @@ layout: page
 title: Events
 permalink: /events/
 seminar_data:
+  - title: Rapid Spatio-Temporal Flood Modeling - Hydraulic GNN Approach
+    datetime: 2023-02-16T11:00:00Z
+    speaker: Roberto Bentivoglio (Delft University of Technology)
+    media:
+      youtube: https://www.youtube.com/watch?v=S2YrFFJz6jY
+  - title: Forecasting Global Weather with Graph Neural Networks
+    datetime: 2023-11-10T15:00:00Z
+    speaker: Ryan Keisler (KoBold Metals)
+    media:
+      youtube: https://www.youtube.com/watch?v=-CDf4GoWU3g
+  - title: Could deep learning methods replace numerical weather models?
+    datetime: 2023-10-20T15:00:00Z
+    speaker: Mariana Clare (European Centre for Medium Range Weather Forecasts)
+    media:
+      youtube: https://www.youtube.com/watch?v=5BMRkXi3GgU
   - title: Feature-Preserving Point Cloud Simplification with Gaussian Processes
     datetime: 2023-07-14T14:00:00Z
-    speaker: Thomas. M. McDonald
+    speaker: Thomas. M. McDonald (University of Manchester)
     media:
       youtube: https://www.youtube.com/watch?v=9yPHRLRYkUo
+  - title: Physics-based domain adaptation for dynamical systems forecasting
+    datetime: 2023-05-19T14:00:00Z
+    speaker: Zack Xuereb Conti (Alan Turing Institute)
+    media:
+      youtube: https://www.youtube.com/watch?v=q-YoY_3Y74M
   - title: "ClimaX: A foundation model for weather and climate"
     datetime: 2023-03-17T15:00:00Z
     speaker: Tung Nguyen (UCLA)
@@ -39,11 +59,17 @@ workshop_data:
     speaker: Fergus Shone (University of Leeds)
     media:
       youtube: https://www.youtube.com/watch?v=zYi8KO4rLwg&t=139s
-  - title: Physics-informed neural networks (PINNs)
+  - title: Reinforcement Learning
     datetime: 2023-04-17T14:00:00Z
     speaker: Alhanof Alolyan (University of Leeds)
     media:
       notebook: https://sciml-leeds.github.io/categories/#reinforcement_learning
+  - title: SINDy
+    datetime: 2023-10-27T14:00:00Z
+    speaker: Alasdair Roy (University of Leeds)
+    media:
+      youtube: https://www.youtube.com/watch?v=jTDym45joAk
+      notebook: https://sciml-leeds.github.io/workshop/sindy/2023/10/27/SINDy_Challenges.html
 ---
 
 Below is an overview of events organised by the SciML community. We aim to put
