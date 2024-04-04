@@ -381,6 +381,19 @@
   applications:
     - Classification of convective weather systems
 
+
+- name: Mathew Henrickson 		
+  social:
+    website: https://ahc.leeds.ac.uk/fine-art/pgr/5707/mathew-henrickson
+    github: mh60385
+    twitter: 
+  techniques:
+    - Language modelling 
+    - data mining
+
+  applications:
+    - Text analysis of historic auction records
+ 
 - name: Andy Turner
   social:
     website: https://agdturner.github.io
@@ -407,3 +420,4 @@
     - Synthetic medical data generation
     - object detection and tracking for 360° videos
     - master data management
+
