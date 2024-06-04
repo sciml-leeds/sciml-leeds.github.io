@@ -421,3 +421,18 @@
     - object detection and tracking for 360° videos
     - master data management
 
+
+			
+- name: Omar Choudhry		
+  social:
+    website: https://eps.leeds.ac.uk/staff/12765/omar-shaur-choudhry
+    github: 
+    twitter: AISocLeeds
+  techniques:
+    - Computer vision
+    - convolutional neural networks
+    - attention mechanisms
+  applications:
+    - Surgical skill evaluation
+    - surgical tool tracking
+    - surgical tool pose estimation
