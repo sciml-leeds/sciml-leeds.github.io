@@ -421,3 +421,16 @@
     - object detection and tracking for 360° videos
     - master data management
 
+- name: Gyanateet Dutta		
+  social:
+    website: https://ryukijano.github.io
+    github: Ryukijano  
+    twitter: gyanateet
+  techniques:
+    - Deep learning
+    - Generative Adversarial Networks
+    - Transformers
+  applications:
+    - Synthetic medical data generation.
+    - Future frame prediction for medical videos.
+    - Synthetic procedural mesh generation. 
