@@ -70,6 +70,11 @@ workshop_data:
     media:
       youtube: https://www.youtube.com/watch?v=jTDym45joAk
       notebook: https://sciml-leeds.github.io/workshop/sindy/2023/10/27/SINDy_Challenges.html
+  - title: An introduction to testing and writing packages in Python
+    datetime: 2024-06-28T13:00:00Z
+    speaker: Zoe Hancox (University of Leeds)
+    media:
+      notebook: https://github.com/ZoeHancox/pytesting_and_pypi_tutorial
 ---
 
 Below is an overview of events organised by the SciML community. We aim to put
