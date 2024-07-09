@@ -421,3 +421,14 @@
     - object detection and tracking for 360° videos
     - master data management
 
+- name: Donald Cummins
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/12681/dr-donald-cummins
+    github: donaldcummins
+  techniques:
+    - Neural networks
+    - state-space modelling
+  applications:
+    - Turbulence parametrizations
+    - simple climate models
+    - statistical climatology
