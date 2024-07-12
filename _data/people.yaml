@@ -421,6 +421,85 @@
     - object detection and tracking for 360° videos
     - master data management
 
+- name: Declan Finney		
+  social:
+    website: https://environment.leeds.ac.uk/institute-climate-atmospheric-science/staff/1261/dr-declan-finney
+    github: DLFinney
+    twitter: DecFinney
+  techniques:
+    - Chatgpt :p
+    - 
+    - 
+  applications:
+    - Clouds
+    - radiation
+    - climate change
+
+- name: Yutaro Shigemitsu		
+  social:
+    website: https://earth.kumst.kyoto-u.ac.jp/en/
+    github: shigemitsu-yutaro
+    twitter: 
+  techniques:
+    - Interferometric sar (insar)
+    - drone sar
+    - pinn (under training)
+  applications:
+    - Monitoring volcano
+    - monitoring seasonal deformation changes
+
+- name: Jillian Schacher		
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/2654/jillian-schacher-
+    github: jschacher1
+    twitter: 
+  techniques:
+    - Gis
+    - nvivo
+    - wizard
+  applications:
+    - Marine spatial planning
+    - species distribution
+    - cluster mapping   
+- name: Dr Peyman Babakhani		
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/12072/dr-peyman-babakhani
+    github: 
+    twitter: PeymanBabakhani
+  techniques:
+    - Deep learning
+    - physics-informed ai
+    - random forest 
+  applications:
+    - Global carbon cycling 
+    - environmental contaminant transport
+    - groundwater modelling 
+- name: Zoe Hancox		
+  social:
+    website: https://zoehancox.github.io/
+    github: ZoeHancox
+    twitter: ZLHancox
+  techniques:
+    - Temporal graphs
+    - 3d convolutional neural networks
+    - hypergraphs
+  applications:
+    - Health outcome prediction
+    - patient trajectory visualisation
+    - ehr analysis
+- name: Gyanateet Dutta		
+  social:
+    website: https://ryukijano.github.io
+    github: Ryukijano  
+    twitter: gyanateet
+  techniques:
+    - Deep learning
+    - Generative Adversarial Networks
+    - Transformers
+  applications:
+    - Synthetic medical data generation.
+    - Future frame prediction for medical videos.
+    - Synthetic procedural mesh generation. 
 
 - name: Donald Cummins
   social:
@@ -435,18 +514,4 @@
     - statistical climatology
 
 
-- name: Alistair Curd
-  social:
-    website: https://biologicalsciences.leeds.ac.uk/molecular-and-cellular-biology/staff/305/dr-alistair-curd
-    github: AlistairCurd
-    twitter: AlistairCurd
-  techniques:
-    - Explainable neural networks
-    - models for images and point patterns,
-    - classification
-  applications:
-    - Biomedical fluorescence microscopy
-    - Pathology methods
-    - "Super-resolution" fluorescence microsopy7
-    - Single-molecule localisation microscopy
 
