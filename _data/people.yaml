@@ -434,3 +434,33 @@
     - Synthetic medical data generation.
     - Future frame prediction for medical videos.
     - Synthetic procedural mesh generation. 
+
+
+- name: Donald Cummins
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/12681/dr-donald-cummins
+    github: donaldcummins
+  techniques:
+    - Neural networks
+    - state-space modelling
+  applications:
+    - Turbulence parametrizations
+    - simple climate models
+    - statistical climatology
+
+
+- name: Alistair Curd
+  social:
+    website: https://biologicalsciences.leeds.ac.uk/molecular-and-cellular-biology/staff/305/dr-alistair-curd
+    github: AlistairCurd
+    twitter: AlistairCurd
+  techniques:
+    - Explainable neural networks
+    - models for images and point patterns,
+    - classification
+  applications:
+    - Biomedical fluorescence microscopy
+    - Pathology methods
+    - "Super-resolution" fluorescence microsopy7
+    - Single-molecule localisation microscopy
+
