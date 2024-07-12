@@ -514,18 +514,4 @@
     - statistical climatology
 
 
-- name: Alistair Curd
-  social:
-    website: https://biologicalsciences.leeds.ac.uk/molecular-and-cellular-biology/staff/305/dr-alistair-curd
-    github: AlistairCurd
-    twitter: AlistairCurd
-  techniques:
-    - Explainable neural networks
-    - models for images and point patterns,
-    - classification
-  applications:
-    - Biomedical fluorescence microscopy
-    - Pathology methods
-    - "Super-resolution" fluorescence microsopy7
-    - Single-molecule localisation microscopy
 
