@@ -528,4 +528,13 @@
     - Super-resolution fluorescence microscopy7
     - Single-molecule localisation microscopy
 
-
+- name: Flo Greaves
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/12045/flo-greaves
+    github: flogrows
+  techniques:
+    - Self-supervised learning
+    - convolutional neural networks
+  applications:
+    - Cloud organisation
+    - cloud dynamics
