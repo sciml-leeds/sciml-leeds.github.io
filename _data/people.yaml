@@ -529,3 +529,18 @@
     - Single-molecule localisation microscopy
 
 
+
+			
+- name: Abhilash Singh		
+  social:
+    website: https://abhilashsingh.net/
+    github: 
+    twitter: abhilash_iiserb
+  techniques:
+    - Nature-inspired computation (i.e., scorpion hunting strategy swarm algorithm)
+    - physics-informed machine learning
+    - automated machine learning (i.e., automl-id, automl-gwl)
+  applications:
+    - Soil moisture/streamflow
+    - intrusion detection and prevention
+    - nowcasting
