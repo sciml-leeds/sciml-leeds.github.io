@@ -538,3 +538,18 @@
   applications:
     - Cloud organisation
     - cloud dynamics
+
+			
+- name: Daniel Hall		
+  social:
+    website: 
+    github: danhall14
+    twitter: 
+  techniques:
+    - Physics-informed machine learning
+    - signal classification
+    - 
+  applications:
+    - Particle physics data analysis
+    - high-energy physics experiments
+    - 
