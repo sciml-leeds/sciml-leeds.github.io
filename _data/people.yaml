@@ -538,3 +538,18 @@
   applications:
     - Cloud organisation
     - cloud dynamics
+
+			
+- name: Amit Hazi		
+  social:
+    website: https://sites.google.com/view/amithazi
+    github: 
+    twitter: 
+  techniques:
+    - Supervised machine learning
+    - reinforcement learning
+    - 
+  applications:
+    - Algebraic statistical mechanics
+    - knot theory
+    - representation theory
