@@ -538,3 +538,18 @@
   applications:
     - Cloud organisation
     - cloud dynamics
+
+			
+- name: Omar Choudry		
+  social:
+    website: https://www.linkedin.com/in/omarchoudhry01/
+    github: omariosc
+    twitter: 
+  techniques:
+    - Medical image analysis
+    - deep learning
+    - explainable ai (xai)
+  applications:
+    - Objective surgical skill analysis
+    - surgical training
+    - 
