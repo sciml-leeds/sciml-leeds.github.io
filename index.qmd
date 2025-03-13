@@ -21,10 +21,4 @@ We also organise [seminars and workshops](/events), as well as send out a monthl
 </div> 
 ```
 
-If you're based at Leeds and would like to be added to the website, please fill out the following <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y7Bcdk9kSC1KptqPvBBQQ_hUMEoxUUdSWlE1NE45VjFBWlcxMjVPUzBIUC4u">form</a>!
-
-```{=html}
-<iframe width="840px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y7Bcdk9kSC1KptqPvBBQQ_hUMEoxUUdSWlE1NE45VjFBWlcxMjVPUzBIUC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-```
-
 ![](./images/logo_final.png){width=10% fig-align="center"}
