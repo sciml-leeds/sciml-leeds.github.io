@@ -1,0 +1,80 @@
+- name: ARC3
+  path: https://arcdocs.leeds.ac.uk/getting_started/request_hpc_acct.html
+  organization: University of Leeds
+  hardware: 2 nodes with 2 x NVIDIA K80s, 6 nodes with 4 x NVIDIA P100s
+  access: Anyone at Leeds
+  notes: BEING DEPRECIATED, please see AIRE
+
+- name: ARC4
+  path: https://arcdocs.leeds.ac.uk/getting_started/request_hpc_acct.html
+  organization: University of Leeds
+  hardware: 3 nodes with 4 x NVIDIA V100s
+  access: Anyone at Leeds
+  notes: BEING DEPRECIATED, please see AIRE
+
+- name: AIRE
+  path: https://arcdocs.leeds.ac.uk/getting_started/request_hpc_acct.html
+  organization: University of Leeds
+  hardware: TBC
+  access: Anyone at Leeds
+  notes: ETA online - Nov/Dec 2024
+
+- name: ARC5
+  path: https://arcdocs.leeds.ac.uk/getting_started/request_hpc_acct.html
+  organization: University of Leeds
+  hardware: TBC
+  access: Anyone at Leeds
+  notes: ETA online - Dec 2025
+
+- name: JASMIN
+  path: https://www.jasmin.ac.uk
+  organization: NERC
+  hardware: 6x NVidia GV100GL across 3 nodes
+  access: tbc
+
+- name: DiRAC (Tursa)
+  path: https://dirac.ac.uk/community/#AccessingDiRAC
+  organization: EPCC
+  hardware: 144 nodes with 4x Nvidia RedStone A100-40 each
+  access: Annual call for project proposals
+  additional_info: https://www.epcc.ed.ac.uk/hpc-services/dirac-tursa-gpu
+- name: MAGEO
+  path: https://mageohub.neodaas.ac.uk/
+  organization: PML
+  hardware: 5 NVIDIA DGX-1 MaxQ nodes
+  access: NERC related research
+- name: BEDE
+  path: https://n8cir.org.uk/supporting-research/facilities/bede/docs/bede_registrations/
+  organization: Durham
+  hardware: 38x Nvidia V100 across 38 nodes in cluster
+  access: EPSRC funded projects (pre EPSRC-application access available)
+
+- name: JADE II
+  path: 
+  organization: Oxford/ATI
+  hardware: 63 DGX MAX-Q nodes with 8x NVidia V100 each
+- name: LEARN
+  organization: UoL
+  hardware: 1 DGX A100
+- name: Google Colab
+  path: https://cloud.google.com/gpu/
+  organization: Google
+  hardware: NVidia k80s
+  access: Free through Google account
+- name: Kaggle Notebooks
+  path: https://www.kaggle.com/code/dansbecker/running-kaggle-kernels-with-a-gpu
+  organization: Kaggle
+  hardware: 30 GPU hrs/week
+  access: Free through Kaggle account
+
+- name: Gradient
+  organization: Paperspace
+  hardware: M4000 in free tier
+  access: Free or paid tiers
+- name: Graphcore
+  path: https://www.paperspace.com/graphcore/
+  organization: Paperspace
+  hardware: Graphcore IPU-POD16
+  access: max_hours_per_day - 6hrs/day, Free during evaluation period
+
+  

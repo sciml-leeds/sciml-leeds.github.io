@@ -1,0 +1,28 @@
+---
+title: Oluwaseun Coker	
+description: Fluid Dynamics
+image: coker.jpg
+categories:
+- committee
+
+techniques:
+- 
+applications:
+- Fluid Flows
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+-
+   
+##
+## Research area
+   
+- Fluid Flows

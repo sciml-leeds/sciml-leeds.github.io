@@ -1,0 +1,40 @@
+---
+title: Alistair Curd
+description: Biomedical fluorescence microscopy
+image: alistaircurd.jpg
+categories:
+- Deep Learning
+links: <a href=https://github.com/AlistairCurd class="btn btn-primary">Github</a><a
+  href=https://biologicalsciences.leeds.ac.uk/molecular-and-cellular-biology/staff/305/dr-alistair-curd
+  class="btn btn-secondary">Website</a>
+techniques:
+- Explainable neural networks
+- models for images and point patterns,
+- classification
+applications:
+- Biomedical fluorescence microscopy
+- Pathology methods
+- Super-resolution fluorescence microsopy7
+- Single-molecule localisation microscopy
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Explainable neural networks
+- models for images and point patterns,
+- classification
+   
+##
+## Research area
+   
+- Biomedical fluorescence microscopy
+- Pathology methods
+- Super-resolution fluorescence microsopy7
+- Single-molecule localisation microscopy

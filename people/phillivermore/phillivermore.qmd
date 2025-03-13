@@ -1,0 +1,35 @@
+---
+title: Phil Livermore
+description: Reconstruction of earth/planetary magnetic fields from sparse data
+image: phillivermore.png
+categories:
+- Deep Learning
+- PINNs
+links: <a href=https://github.com/plivermore class="btn btn-primary">Github</a><a
+  href=https://environment.leeds.ac.uk/see/staff/1381/professor-phil-livermore class="btn
+  btn-secondary">Website</a>
+techniques:
+- Physics informed neural networks
+applications:
+- Reconstruction of earth/planetary magnetic fields from sparse data
+- deep earth geophysics
+- inverse theory
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Physics informed neural networks
+   
+##
+## Research area
+   
+- Reconstruction of earth/planetary magnetic fields from sparse data
+- deep earth geophysics
+- inverse theory

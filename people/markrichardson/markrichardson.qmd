@@ -1,0 +1,36 @@
+---
+title: Mark Richardson
+description: Met office um
+image: markrichardson.png
+categories: []
+links: <a href=https://github.com/MarkUoLeeds class="btn btn-primary">Github</a><a
+  href=https://www.cemac.leeds.ac.uk class="btn btn-secondary">Website</a>
+techniques:
+- Fortran
+- mpi
+- openmp
+applications:
+- Met office um
+- dynamo
+- cesm
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Fortran
+- mpi
+- openmp
+   
+##
+## Research area
+   
+- Met office um
+- dynamo
+- cesm

@@ -1,0 +1,39 @@
+---
+title: Trystan Surawy-Stepney
+description: Glacier damage identification
+image: trystansurawy-stepney.jpg
+categories:
+- Deep Learning
+- CNN
+links: <a href=https://github.com/R-Wolfcastle class="btn btn-primary">Github</a><a
+  href=https://environment.leeds.ac.uk/see/pgr/9528/trystan-surawy-stepney class="btn
+  btn-secondary">Website</a>
+techniques:
+- Weakly-supervised learning
+- Convolutional networks
+- Numerical modelling
+applications:
+- Glacier damage identification
+- SAR data
+- Glacial process modelling
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Weakly-supervised learning
+- Convolutional networks
+- Numerical modelling
+   
+##
+## Research area
+   
+- Glacier damage identification
+- SAR data
+- Glacial process modelling

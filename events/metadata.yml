@@ -1,0 +1,21 @@
+listing: 
+  type: table
+  sort-ui: false
+  fields: 
+    - title
+    - speaker
+    - date
+    - youtube
+    - notebook
+  field-display-names: 
+    title: Title
+    speaker: Speaker
+    date: Date
+    youtube: Recording
+    notebook: Workbook
+  table-striped: true
+date-format: "Do MMM, YYYY"
+
+format:
+  html:
+    anchor-sections: false

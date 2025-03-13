@@ -1,0 +1,21 @@
+listing: 
+  type: table
+  sort-ui: false
+  fields: 
+    - name
+    - organization
+    - hardware
+    - access
+    - notes
+  field-links: 
+    - name
+    
+  field-display-names: 
+    name: Name
+    organization: Organisation
+    hardware: Hardware
+    access: Access
+    notes: Notes
+format:
+  html:
+    anchor-sections: false

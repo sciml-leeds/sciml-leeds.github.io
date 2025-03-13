@@ -1,0 +1,37 @@
+---
+title: Donald Cummins
+description: Turbulence parametrizations
+image: portrait_placeholder.png
+categories:
+- committee
+- Deep Learning
+links: <a href=https://github.com/donaldcummins class="btn btn-primary">Github</a><a
+  href=https://environment.leeds.ac.uk/see/staff/12681/dr-donald-cummins class="btn
+  btn-secondary">Website</a>
+techniques:
+- Neural networks
+- state-space modelling
+applications:
+- Turbulence parametrizations
+- simple climate models
+- statistical climatology
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Neural networks
+- state-space modelling
+   
+##
+## Research area
+   
+- Turbulence parametrizations
+- simple climate models
+- statistical climatology

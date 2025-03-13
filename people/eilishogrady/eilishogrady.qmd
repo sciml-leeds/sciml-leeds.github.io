@@ -1,0 +1,41 @@
+
+---
+title: Eilish O'Grady
+description: InSAR
+image: eilish.jpeg
+categories:
+- committee
+- Semantic segmentation
+- diffusion models
+- InSAR
+links: <a href= https://environment.leeds.ac.uk/see/pgr/10039/eilish-o-grady class= "btn
+      btn-secondary">Website</a>
+techniques:
+- Semantic segmentation
+- Diffusion models
+- InSAR
+applications:
+- Geodesy
+- Interferometric Synthetic Aperature Radar (InSAR)
+- Phase Unwrapping
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Semantic segmentation
+- Diffusion models
+- InSAR
+   
+##
+## Research area
+   
+- Geodesy
+- Interferometric Synthetic Aperature Radar (InSAR)
+- Phase Unwrapping

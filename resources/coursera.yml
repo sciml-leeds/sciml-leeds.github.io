@@ -1,0 +1,25 @@
+- name: Mathematics for Machine Learning Specialization
+  path: https://www.coursera.org/programs/university-of-leeds-on-coursera-6er00/specializations/mathematics-machine-learning?authProvider=c4c-leeds-university&source=search
+  host: Coursera
+  description:  Prerequisite mathematics for applications in data science and machine learning.
+  
+- name: Machine Learning Theory and Hands-on Practice with Python Specialization
+  path: https://www.coursera.org/programs/university-of-leeds-on-coursera-6er00/specializations/machine-learnin-theory-and-hands-on-practice-with-pythong-cu?authProvider=c4c-leeds-university&source=search
+  host: Coursera
+  description:  Develop Foundational Machine Learning Skills. Add Supervised, Unsupervised, and Deep Learning techniques to your Data Science toolkit. 
+
+- name: Deep learning in Electronic Health Records 
+  path: https://www.coursera.org/programs/university-of-leeds-on-coursera-6er00/learn/cdss2?authProvider=c4c-leeds-university&fromClip=sfc_page_course_link~Th3OO
+  host: Coursera
+  description: Train deep learning architectures such as Multi-layer perceptron, Convolutional Neural Networks and Recurrent Neural Networks for classification.
+
+- name: Deep Learning with PyTorch, Image Segmentation
+  path: https://www.coursera.org/programs/university-of-leeds-on-coursera-6er00/projects/deep-learning-with-pytorch-image-segmentation?authProvider=c4c-leeds-university&source=search
+  host: Coursera
+  description: Using U-Net architecture for segmentation.
+
+- name: TensorFlow 2 for Deep Learning Specialization
+  path: https://www.coursera.org/programs/university-of-leeds-on-coursera-6er00/specializations/tensorflow2-deeplearning?authProvider=c4c-leeds-university&source=search
+  host: Coursera
+  description: TensorFlow 2.
+  

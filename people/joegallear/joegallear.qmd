@@ -1,0 +1,38 @@
+---
+title: Joe Gallear
+description: Crop yield estimation
+image: joegallear.jpg
+categories:
+- Deep Learning
+- Decision Trees
+links: <a href=https://github.com/eejg class="btn btn-primary">Github</a><a href=https://environment.leeds.ac.uk/see/pgr/2584/joe-gallear
+  class="btn btn-secondary">Website</a>
+techniques:
+- Supervised learning
+- neural networks
+- random forests
+applications:
+- Crop yield estimation
+- impacts of climate variability
+- effects of extreme events
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Supervised learning
+- neural networks
+- random forests
+   
+##
+## Research area
+   
+- Crop yield estimation
+- impacts of climate variability
+- effects of extreme events

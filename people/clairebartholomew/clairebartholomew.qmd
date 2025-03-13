@@ -1,0 +1,34 @@
+---
+title: Claire Bartholomew
+description: Precipitation nowcasting
+image: portrait_placeholder.png
+categories:
+- Deep Learning
+- CNN
+links: <a href=https://github.com/claire-bartholomew class="btn btn-primary">Github</a><a
+  href=None class="btn btn-secondary">Website</a>
+techniques:
+- Supervised learning
+- CNNs
+applications:
+- Precipitation nowcasting
+- Convection / thunderstorm prediction
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Supervised learning
+- CNNs
+   
+##
+## Research area
+   
+- Precipitation nowcasting
+- Convection / thunderstorm prediction

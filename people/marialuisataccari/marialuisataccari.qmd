@@ -1,0 +1,39 @@
+---
+title: Maria Luisa Taccari
+description: Groundwater prediction
+image: marialuisataccari.jpg
+categories:
+- Deep Learning
+- CNN
+- PINNs
+links: <a href=https://github.com/mlttac class="btn btn-primary">Github</a><a href=https://eps.leeds.ac.uk/civil-engineering/pgr/8539/maria-luisa
+  class="btn btn-secondary">Website</a>
+techniques:
+- Operator learning
+- PINNs
+- Supervised learning
+- Convolutional networks
+applications:
+- Groundwater prediction
+- Surrogate modelling
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Operator learning
+- PINNs
+- Supervised learning
+- Convolutional networks
+   
+##
+## Research area
+   
+- Groundwater prediction
+- Surrogate modelling

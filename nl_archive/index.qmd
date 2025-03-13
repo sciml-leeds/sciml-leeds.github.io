@@ -1,0 +1,29 @@
+# Newsletter Archive 
+
+![](../images/logo_final.png){width=10% fig-align="center"}
+
+## 2025
+
+* <a href="SciML_Leeds_Mar25_newsletter.pdf" download="">March</a>
+* <a href="SciML_Leeds_Feb25_newsletter.pdf" download="">February</a>
+* <a href="SciML_Leeds_Jan25_newsletter.pdf" download="">January</a>
+
+## 2024 
+
+* <a href="SciML_Leeds_Dec24_newsletter.pdf" download="">December</a>
+* <a href="SciML_Leeds_Nov24_newsletter.pdf" download="">November</a>
+* <a href="SciML_Leeds_Oct24_newsletter.pdf" download="">October</a>
+* <a href="Leeds SciML - May meetup today.pdf" download="">May</a>
+* <a href="Leeds SciML - New Literature Club, Logo Competition, and Other Opportunities.pdf" download="">April</a>
+* <a href="Leeds Leeds SciML - March meetup next week.pdf" download="">March</a>
+* <a href="Leeds SciML - February meetup today!.pdf" download="">February</a>
+
+## 2023
+
+* <a href="Leeds SciML - December meetup tomorrow.pdf" download="">December</a>
+* <a href="Leeds SciML - November meetup tomorrow | SciML funding to attend AI UK 2024.pdf" download="">November</a>
+* <a href="Leeds SciML - monthly meetups resume this Friday!.pdf" download="">October</a>
+* <a href="Leeds SciML newsletter July (No meetup this week).pdf" download="">July</a>
+
+
+![](../images/logo_final.png){width=10% fig-align="center"}

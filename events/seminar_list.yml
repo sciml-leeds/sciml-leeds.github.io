@@ -1,0 +1,48 @@
+  - title: Regional climate model emulator based on deep learning
+    date: 2024-11-29T11:00:00Z
+    speaker: Antoine Doury (French National Centre for Meteorological Research)
+ 
+    youtube: <a href=https://www.youtube.com/watch?v=UDB1c0XIEuE&ab_channel=LIDA-LeedsInstituteforDataAnalytics-" class="btn btn-primary">Link</a>
+  - title: Rapid Spatio-Temporal Flood Modeling - Hydraulic GNN Approach
+    date: 2023-02-16T11:00:00Z
+    speaker: Roberto Bentivoglio (Delft University of Technology)
+
+    youtube: <a href=https://www.youtube.com/watch?v=S2YrFFJz6jY" class="btn btn-primary">Link</a>
+  - title: Forecasting Global Weather with Graph Neural Networks
+    date: 2023-11-10T15:00:00Z
+    speaker: Ryan Keisler (KoBold Metals)
+
+    youtube: <a href=https://www.youtube.com/watch?v=-CDf4GoWU3g" class="btn btn-primary">Link</a>
+  - title: Could deep learning methods replace numerical weather models?
+    date: 2023-10-20T15:00:00Z
+    speaker: Mariana Clare (European Centre for Medium Range Weather Forecasts)
+
+    youtube: <a href=https://www.youtube.com/watch?v=5BMRkXi3GgU" class="btn btn-primary">Link</a>
+  - title: Feature-Preserving Point Cloud Simplification with Gaussian Processes
+    date: 2023-07-14T14:00:00Z
+    speaker: Thomas. M. McDonald (University of Manchester)
+    youtube: <a href=https://www.youtube.com/watch?v=9yPHRLRYkUo" class="btn btn-primary">Link</a>
+  - title: Physics-based domain adaptation for dynamical systems forecasting
+    date: 2023-05-19T14:00:00Z
+    speaker: Zack Xuereb Conti (Alan Turing Institute)
+    youtube: <a href=https://www.youtube.com/watch?v=q-YoY_3Y74M" class="btn btn-primary">Link</a>
+  - title: "ClimaX: A foundation model for weather and climate"
+    date: 2023-03-17T15:00:00Z
+    speaker: Tung Nguyen (UCLA)
+    youtube: <a href="https://www.youtube.com/watch?v=0pV0K1A9RvY " class="btn btn-primary">Link</a>
+  - title: Sea ice detection from concurrent visible and SAR imagery using a convolutional neural network
+    date: 2023-02-24T11:00:00Z
+    speaker: Martin Rogers (British Antarctic Survey)
+    youtube: <a href=https://www.youtube.com/watch?v=U4amljFGkiw" class="btn btn-primary">Link</a>
+  - title: Physics-informed Machine Learning for Trustworthy Climate Emulators
+    date: 2023-02-10T14:00:00Z
+    speaker: Björn Lütjens (MIT)
+    youtube: <a href=https://www.youtube.com/watch?v=826wF2DNTms" class="btn btn-primary">Link</a>
+  - title: Explainable AI for identifying regional climate change patterns
+    date: 2023-01-13T14:00:00Z
+    speaker: Zack Labe (Princeton)
+    youtube: <a href=https://www.youtube.com/watch?v=ZIZbu1o33xQ&t=4s" class="btn btn-primary">Link</a>
+  - title: Extending the capabilities of data-driven reduced-order models to make predictions for unseen scenarios
+    date: 2022-11-18T11:00:00Z
+    speaker: Claire Heaney (Imperial College)
+    youtube: <a href=https://www.youtube.com/watch?v=d1QXWSDgmEg" class="btn btn-primary">Link</a>

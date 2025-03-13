@@ -1,0 +1,10 @@
+- name: CEMAC Jupyter Notebooks
+  path: https://cemac.github.io/LIFD_ENV_ML_NOTEBOOKS/
+  organization: LIFD and CEMAC, University of Leeds
+  description: Jupyter notebook tutorials on Convolutional Neural Networks (CNNs), Physics Informed Neural Networks (PINNs), Gaussian Processes, Random Forests, Generative Adversarial Networks (GANs), Auto Encoders, Dimensionality Reduction and XGBoost.
+
+- name: The Turing Way
+  path: https://book.the-turing-way.org/
+  organization: The Alan Turing Institute 
+  description:  Handbook to reproducible, ethical and collaborative data science. Includes information on version control, open-source code and licensing.
+

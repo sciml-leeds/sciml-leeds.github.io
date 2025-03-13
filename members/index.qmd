@@ -1,0 +1,32 @@
+
+---
+title: "Members"
+
+page-layout: full
+title-block-banner: False
+listing:
+  categories: true 
+  id: listing-people
+  contents: "../people/*/**.qmd"
+  type: grid
+  sort: "title"
+  filter-ui: True
+  fields: [image,title,description, links, categories]
+  field-display-names: 
+      links: Links
+  grid-item-align: left
+  image-height: 225px
+  grid-columns: 3
+
+format: 
+  html:
+    encoding: UTF-8
+anchor-sections: false
+---
+
+![](../images/logo_final.png){width=10% fig-align="center"}
+
+::: {#listing-people}
+:::
+
+![](../images/logo_final.png){width=10% fig-align="center"}

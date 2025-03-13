@@ -1,0 +1,36 @@
+---
+title: Yutaro Shigemitsu
+description: Monitoring volcano
+image: yutaroshigemitsu.png
+categories:
+- Deep Learning
+- PINNs
+links: <a href=https://github.com/shigemitsu-yutaro class="btn btn-primary">Github</a><a
+  href=https://earth.kumst.kyoto-u.ac.jp/en/ class="btn btn-secondary">Website</a>
+techniques:
+- Interferometric sar (insar)
+- drone sar
+- pinn (under training)
+applications:
+- Monitoring volcano
+- monitoring seasonal deformation changes
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Interferometric sar (insar)
+- drone sar
+- pinn (under training)
+   
+##
+## Research area
+   
+- Monitoring volcano
+- monitoring seasonal deformation changes

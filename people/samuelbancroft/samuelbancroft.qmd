@@ -1,0 +1,36 @@
+---
+title: Samuel Bancroft
+description: crop type classification
+image: samuelbancroft.jpg
+categories:
+- Deep Learning
+- CNN
+links: <a href=https://github.com/spiruel class="btn btn-primary">Github</a><a href=https://environment.leeds.ac.uk/see/pgr/9458/samuel-bancroft
+  class="btn btn-secondary">Website</a>
+techniques:
+- Semi-supervised/self-supervised learning
+- convolutional networks
+applications:
+- crop type classification
+- satellite time series classification
+- crop yield estimation
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Semi-supervised/self-supervised learning
+- convolutional networks
+   
+##
+## Research area
+   
+- crop type classification
+- satellite time series classification
+- crop yield estimation

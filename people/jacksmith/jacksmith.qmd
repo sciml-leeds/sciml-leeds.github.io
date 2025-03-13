@@ -1,0 +1,37 @@
+---
+title: Jack Smith
+description: Semantic segmentation of masonry lined tunnel joints
+image: jacksmith.png
+categories:
+- committee
+- Deep Learning
+- CNN
+links: <a href=https://github.com/Mysterymanreturns class="btn btn-primary">Github</a><a
+  href=https://environment.leeds.ac.uk/see/pgr/9939/jack-smith class="btn btn-secondary">Website</a>
+techniques:
+- Cnns
+- synthetic data
+- gans
+applications:
+- Semantic segmentation of masonry lined tunnel joints
+- structural condition assessment
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Cnns
+- synthetic data
+- gans
+   
+##
+## Research area
+   
+- Semantic segmentation of masonry lined tunnel joints
+- structural condition assessment

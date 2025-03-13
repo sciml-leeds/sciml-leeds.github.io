@@ -1,0 +1,113 @@
+
+---
+title: "Resources"
+listing: 
+
+  - id: coursera
+    contents: coursera.yml
+    type: table
+    sort: false
+    sort-ui: false
+    fields: 
+    - name
+    - host
+    - description
+    field-links: 
+      - name
+    field-display-names: 
+      name : Name
+      host: Host
+      description : Description
+    table-striped: true
+
+  - id: leeds-course
+    contents: leeds_course_list.yml
+    type: table
+    sort: false
+    sort-ui: false
+    fields: 
+    - name
+    - host
+    - description
+    field-links: 
+        - name
+    field-display-names: 
+      name : Name
+      host: Host
+      description : Description
+    table-striped: true
+
+
+  - id: notebook-res
+    contents: notebook_list.yml
+    type: table
+    sort-ui: false
+    fields: 
+      - name
+      - organization
+      - description
+    field-links: 
+      - name
+    field-display-names: 
+      name: Name
+      organization: Organisation
+      description: Description
+    table-striped: true
+    
+  - id: book
+    contents: books.yml
+    type: table
+    sort-ui: false
+    fields: 
+      - name
+      - author
+      - description
+    field-links: 
+      - name
+    field-display-names: 
+      name: Name
+      author: Author
+      description: Description
+    table-striped: true
+---
+
+![](../images/logo_final.png){width=10% fig-align="center"}
+
+Below is a list of Machine Learning tutorials and resources that we have found useful. If you find something that you think should be added to the list, please let us know!
+
+## Courses
+
+### Coursera
+
+Coursera is an open online course provider, and with your University of Leeds login, you can have free access to thousands of courses, from hundreds of universities.
+
+::: {#coursera}
+:::
+
+### University of Leeds
+
+To get on any University of Leeds module (to attend lectures and have access to course materials) email the module leader, explaining that you are a PhD student wanting to take their module.
+
+You do not have to be in the School of Computer Science to take the computing modules, but:
+
+*  Check you satisfy the prerequisites of the modules (ask your supervisor if you are unsure).
+*  You should ask your supervisor if the module is relevant to your project.
+*  You may find getting on the module more challenging if you are coming from another school (especially those not in Engineering and Physical Sciences faculty (EPS)).
+*  You can ask us at SciML (or your supervisor) to advocate for you to get on these modules.
+
+SciML are working on getting access to the course materials, but if you are not on minerva you will not be able to attend the lectures themselves.
+
+::: {#leeds-course}
+:::
+
+## Notebooks
+
+::: {#notebook-res}
+:::
+
+## Books and Articles
+
+::: {#book}
+:::
+
+![](../images/logo_final.png){width=10% fig-align="center"}

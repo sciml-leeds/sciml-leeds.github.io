@@ -1,0 +1,29 @@
+---
+title: Simon Peatman
+description: Classification of convective weather systems
+image: portrait_placeholder.png
+categories:
+- Deep Learning
+links: <a href=https://github.com/SimonPeatman class="btn btn-primary">Github</a><a
+  href=http://www.simonpeatman.me.uk class="btn btn-secondary">Website</a>
+techniques:
+- Neural networks
+applications:
+- Classification of convective weather systems
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Neural networks
+   
+##
+## Research area
+   
+- Classification of convective weather systems

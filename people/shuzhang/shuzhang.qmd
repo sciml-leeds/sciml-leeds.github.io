@@ -1,0 +1,37 @@
+---
+title: Shu Zhang
+description: Tropospheric ozone forcast
+image: shuzhang.jpg
+categories:
+- Decision Trees
+links: <a href=https://github.com/ShrutiZhang class="btn btn-primary">Github</a><a
+  href=None class="btn btn-secondary">Website</a>
+techniques:
+- Random Forests
+- XGBoost
+- LSTM
+applications:
+- Tropospheric ozone forcast
+- Weather classification
+- Time series decomposition of air pollutants
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Random Forests
+- XGBoost
+- LSTM
+   
+##
+## Research area
+   
+- Tropospheric ozone forcast
+- Weather classification
+- Time series decomposition of air pollutants

@@ -1,0 +1,30 @@
+# Scientific Machine Learning at the University of Leeds
+
+![](./images/logo_final.png){width=10% fig-align="center"}
+
+Hi!
+
+Welcome to the website for people interested in Scientific Machine Learning
+(SciML) at Leeds. SciML is the discipline of combining machine learning with
+scientific computing, for more information please see e.g. <a href="https://sciml.ai/roadmap/">sciml.ai</a>.
+This website serves to organise our work and allow others to join us. 
+
+We meet the first Friday of every month at 11am UK/local time in room 11.87, 11th Floor, Worsley Building, Leeds
+Institute for Data Analytics (Use [.ics-file download](assets/SciML_community_monthly_coffee-chat.ics) to add
+the event to your calendar). 
+
+We also organise [seminars and workshops](/events), as well as send out a monthly newsletter.
+
+```{=html}
+<div class="googleCalendar"> 
+  <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FLondon&showPrint=0&src=bGVlZHN1bml2ZXJzaXR5c2NpbWxAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+</div> 
+```
+
+If you're based at Leeds and would like to be added to the website, please fill out the following form!
+
+```{=html}
+<iframe width="840px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y7Bcdk9kSC1KptqPvBBQQ_hUMEoxUUdSWlE1NE45VjFBWlcxMjVPUzBIUC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+```
+
+![](./images/logo_final.png){width=10% fig-align="center"}

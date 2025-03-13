@@ -1,0 +1,38 @@
+---
+title: Zoe Hancox
+description: Health outcome prediction
+image: zoehancox.png
+categories:
+- Deep Learning
+- CNN
+links: <a href=https://github.com/ZoeHancox class="btn btn-primary">Github</a><a href=https://zoehancox.github.io/
+  class="btn btn-secondary">Website</a>
+techniques:
+- Temporal graphs
+- 3d convolutional neural networks
+- hypergraphs
+applications:
+- Health outcome prediction
+- patient trajectory visualisation
+- ehr analysis
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Temporal graphs
+- 3d convolutional neural networks
+- hypergraphs
+   
+##
+## Research area
+   
+- Health outcome prediction
+- patient trajectory visualisation
+- ehr analysis

@@ -1,0 +1,41 @@
+
+---
+title: "Sciml Leeds Committee"
+listing: 
+  id: Commitee
+  contents: "../people/*/**.qmd"
+  type: grid
+  sort: false
+  sort-ui: false
+  fields: [image, title,links]
+  field-display-names: 
+      links: 'links:'
+
+  grid-item-align: center
+  image-height: 220px
+  grid-columns: 4
+  include:
+    categories: "committee"
+format: 
+  html:
+    encoding: UTF-8
+anchor-sections: false
+page-layout: full
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/sciml-leeds/
+---
+
+![](../images/logo_final.png){width=10% fig-align="center"}
+
+## Committee Members
+
+We're currently looking for new committee members! Roles are flexible depending on your time constraints, and are only during term time. If you're interested please contact us at <a href= "mailto: sciml@leeds.ac.uk"> sciml@leeds.ac.uk </a> for more infomation, or chat to any of the committee at events!
+
+::: {#Commitee}
+:::
+
+![](../images/logo_final.png){width=10% fig-align="center"}
