@@ -1,0 +1,32 @@
+---
+title: Dan Hall
+description: Particle Physics
+categories:
+- PINNs
+links: <a href=https://github.com/danhall14 class="btn btn-primary">Github</a>
+techniques:
+- PINNs
+applications:
+- Computational physics
+- Particle physics 
+- Signal analysis
+
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- PINNs
+   
+##
+## Research area
+   
+- Computational physics
+- Particle physics 
+- Signal analysis

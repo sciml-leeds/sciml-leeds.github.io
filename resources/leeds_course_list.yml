@@ -1,0 +1,17 @@
+- name: COMP3611 Machine Learning
+  path: "https://catalogue.leeds.ac.uk/Module/UG/COMP/3611/202425"
+  host: University of Leeds
+  description:  3rd year undergraduate module that runs in semester 1. Module leader is Dr Marc de Kamps (M.deKamps@leeds.ac.uk).
+  
+  
+- name: COMP5611M Machine Learning 
+  path: "https://catalogue.leeds.ac.uk/Module/TP/COMP/5611M/202425"
+  host: University of Leeds
+  description: Taught masters module that runs in semester 2. The module leader is Dr Yanlong Huang ( Y.L.Huang@leeds.ac.uk).
+  
+  
+- name: COMP5625M Deep Learning 
+  path: "https://catalogue.leeds.ac.uk/Module/TP/COMP/5625M/202425"
+  host: University of Leeds
+  description: Taught masters module that runs in semester 2. The module leader is Dr Sharib Ali (S.S.Ali@leeds.ac.uk).
+  

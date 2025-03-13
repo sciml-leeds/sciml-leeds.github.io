@@ -1,0 +1,33 @@
+---
+title: Jacob Connolly
+description: InSAR Time series
+image: portrait_placeholder.png
+categories:
+- Decision Trees
+links: <a href=https://github.com/jconnollyeo class="btn btn-primary">Github</a><a
+  href=https://environment.leeds.ac.uk/see/pgr/9497/jacob-connolly class="btn btn-secondary">Website</a>
+techniques:
+- Supervised learning
+- Random Forests
+applications:
+- InSAR Time series
+- Noise reduction in SAR data
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Supervised learning
+- Random Forests
+   
+##
+## Research area
+   
+- InSAR Time series
+- Noise reduction in SAR data

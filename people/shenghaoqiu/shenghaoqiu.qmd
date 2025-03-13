@@ -1,0 +1,40 @@
+---
+title: Shenghao Qiu
+description: Parallel and Distributed Deep Learning
+image: portrait_placeholder.png
+categories:
+- Deep Learning
+- CNN
+links: <a href=https://github.com/JoshuaQSH class="btn btn-primary">Github</a><a href=https://eps.leeds.ac.uk/computing/pgr/8738/shenghao-qiu
+  class="btn btn-secondary">Website</a>
+techniques:
+- Machine learning Compiler
+- Graph Neural Network
+- Self-supervised learning
+- Convolutional Networks
+applications:
+- Parallel and Distributed Deep Learning
+- Models acceleration
+- Tensors and models backend graph optimization
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Machine learning Compiler
+- Graph Neural Network
+- Self-supervised learning
+- Convolutional Networks
+   
+##
+## Research area
+   
+- Parallel and Distributed Deep Learning
+- Models acceleration
+- Tensors and models backend graph optimization

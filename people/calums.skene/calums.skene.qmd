@@ -1,0 +1,33 @@
+---
+title: Calum S. Skene
+description: Geophysical and astrophysical turbulence
+image: portrait_placeholder.png
+categories:
+- Deep Learning
+links: <a href=https://github.com/csskene class="btn btn-primary">Github</a><a href=https://eps.leeds.ac.uk/maths-applied-mathematics/staff/8830/dr-calum-s-skene
+  class="btn btn-secondary">Website</a>
+techniques:
+- Neural networks
+- Neural operators
+- Reservoir computing
+applications:
+- Geophysical and astrophysical turbulence
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Neural networks
+- Neural operators
+- Reservoir computing
+   
+##
+## Research area
+   
+- Geophysical and astrophysical turbulence

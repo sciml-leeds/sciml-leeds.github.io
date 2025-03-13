@@ -1,0 +1,22 @@
+  - title: An introduction to testing and writing packages in Python
+    date: 2024-06-28T13:00:00Z
+    speaker: Zoe Hancox (University of Leeds)
+    notebook: <a href=https://github.com/ZoeHancox/pytesting_and_pypi_tutorial class="btn btn-primary">Link</a>
+  - title: SINDy
+    date: 2023-10-27T14:00:00Z
+    speaker: Alasdair Roy (University of Leeds)
+    youtube: <a href=https://www.youtube.com/watch?v=jTDym45joAk class="btn btn-primary">Link</a>
+    notebook: <a href=2023-10-27-SINDy_Challenges class="btn btn-primary">Link</a>
+
+  - title: Reinforcement Learning (Challenges)
+    date: 2023-04-17T14:00:00Z
+    speaker: Alhanof Alolyan (University of Leeds)
+    notebook: <a href=2023-05-05-Reinforcement_learning_Challenges.md class="btn btn-primary">Link</a>
+  - title: Reinforcement Learning (Solutions)
+    date: 2023-04-17T14:00:00Z
+    speaker: Alhanof Alolyan (University of Leeds)
+    notebook: <a href=2023-05-05-Reinforcement_learning_Solution.md class="btn btn-primary">Link</a>
+  - title: Physics-informed neural networks (PINNs)
+    date: 2023-02-17T14:00:00Z
+    speaker: Fergus Shone (University of Leeds)
+    youtube: <a href=https://www.youtube.com/watch?v=zYi8KO4rLwg&t=139s class="btn btn-primary">Link</a>

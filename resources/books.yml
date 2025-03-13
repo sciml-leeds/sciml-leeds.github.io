@@ -1,0 +1,9 @@
+- name: Deep Learning
+  path: https://www.deeplearningbook.org/
+  author: Ian Goodfellow, Yoshua Bengio, Aaron Courville
+  description:  Comprehensive guide to all of the basic machine learning tools.
+
+- name: Programming pytorch for deep learning
+  path: https://leeds.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991019550145805181&context=L&vid=44LEE_INST:VU1&lang=en&search_scope=My_Inst_CI_not_ebsco&adaptor=Local%20Search%20Engine&tab=AlmostEverything&query=any,contains,Programming%20PyTorch%20for%20Deep%20Learning&offset=0
+  author: Ian Pointer
+  description:  Build basic models alongside this book, which comes with coding projects and model solutions.

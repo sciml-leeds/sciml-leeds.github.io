@@ -1,0 +1,36 @@
+---
+title: Jillian Schacher
+description: Marine spatial planning
+image: portrait_placeholder.png
+categories: []
+links: <a href=https://github.com/jschacher1 class="btn btn-primary">Github</a><a
+  href=https://environment.leeds.ac.uk/see/pgr/2654/jillian-schacher- class="btn btn-secondary">Website</a>
+techniques:
+- Gis
+- nvivo
+- wizard
+applications:
+- Marine spatial planning
+- species distribution
+- cluster mapping
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Gis
+- nvivo
+- wizard
+   
+##
+## Research area
+   
+- Marine spatial planning
+- species distribution
+- cluster mapping

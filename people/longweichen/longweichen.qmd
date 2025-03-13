@@ -1,0 +1,38 @@
+---
+title: Longwei Chen
+description: Planetary magnetic field modelling
+image: portrait_placeholder.png
+categories:
+- Deep Learning
+- PINNs
+links: <a href=https://github.com/damao2021 class="btn btn-primary">Github</a><a href=https://environment.leeds.ac.uk/see/staff/9985/dr-longwei-chen
+  class="btn btn-secondary">Website</a>
+techniques:
+- Physics-informed neural networks
+- deeponet
+- Bayesian PINN
+applications:
+- Planetary magnetic field modelling
+- asteroid gravity modelling
+- geophysical inverse problem
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Physics-informed neural networks
+- deeponet
+- Bayesian PINN
+   
+##
+## Research area
+   
+- Planetary magnetic field modelling
+- asteroid gravity modelling
+- geophysical inverse problem

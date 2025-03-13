@@ -1,0 +1,34 @@
+---
+title: Jakub Lewandowski
+description: Weather nowcasting
+image: jakublewandowski.png
+categories:
+- Deep Learning
+- PINNs
+links: <a href=https://github.com/Quba1 class="btn btn-primary">Github</a><a href=https://environment.leeds.ac.uk/pgr/11237/jakub-lewandowski
+  class="btn btn-secondary">Website</a>
+techniques:
+- Supervised learning
+- physics-informed neural networks
+applications:
+- Weather nowcasting
+- parametrization of atmospheric processes
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Supervised learning
+- physics-informed neural networks
+   
+##
+## Research area
+   
+- Weather nowcasting
+- parametrization of atmospheric processes

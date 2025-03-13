@@ -1,0 +1,371 @@
+- title: Leif Denby
+  subtitle: meso-scale cloud organisation
+  image: img/leifdenby.jpeg
+  categories:
+  - Deep Learning
+  - CNN
+  links:
+  - <a href=https://github.com/leifdenby class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/staff/1231/dr-leif-denby class="btn
+    btn-secondary">Website</a>
+- title: Chetan Deva
+  subtitle: Modelling Plant Behaviour across G*E
+  image: img/chetandeva.jpg
+  categories:
+  - Decision Trees
+  links:
+  - <a href=https://environment.leeds.ac.uk/see/staff/9387/dr-chetan-deva class="btn
+    btn-secondary">Website</a>
+- title: Samuel Bancroft
+  subtitle: crop type classification
+  image: img/samuelbancroft.jpg
+  categories:
+  - Deep Learning
+  - CNN
+  links:
+  - <a href=https://github.com/spiruel class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/pgr/9458/samuel-bancroft class="btn
+    btn-secondary">Website</a>
+- title: Jonathan Coney
+  subtitle: segmentation of atmospheric gravity waves
+  image: img/jonathanconey.jpg
+  categories:
+  - Deep Learning
+  - CNN
+  links:
+  - <a href=https://github.com/jdconey class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/pgr/9496/jonathan-coney class="btn
+    btn-secondary">Website</a>
+- title: Trystan Surawy-Stepney
+  subtitle: Glacier damage identification
+  image: img/trystansurawy-stepney.jpg
+  categories:
+  - Deep Learning
+  - CNN
+  links:
+  - <a href=https://github.com/R-Wolfcastle class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/pgr/9528/trystan-surawy-stepney class="btn
+    btn-secondary">Website</a>
+- title: Ben Wallis
+  subtitle: Tidewater glacier dynamics
+  image: portrait_placeholder.png
+  categories:
+  - Deep Learning
+  - CNN
+  links:
+  - <a href=https://github.com/eebjwa class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/pgr/9532/benjamin-wallis class="btn
+    btn-secondary">Website</a>
+- title: Joey Smith
+  subtitle: Storm tracking and initiation prediction
+  image: img/joeysmith.png
+  categories:
+  - Decision Trees
+  links:
+  - <a href=https://github.com/eejasm class="btn btn-primary">Github</a>
+  - <a href=None class="btn btn-secondary">Website</a>
+- title: Maria Luisa Taccari
+  subtitle: Groundwater prediction
+  image: img/marialuisataccari.jpg
+  categories:
+  - committee
+  - Deep Learning
+  - CNN
+  - PINNS
+  links:
+  - <a href=https://github.com/mlttac class="btn btn-primary">Github</a>
+  - <a href=https://eps.leeds.ac.uk/civil-engineering/pgr/8539/maria-luisa class="btn
+    btn-secondary">Website</a>
+- title: Calum S. Skene
+  subtitle: Geophysical and astrophysical turbulence
+  image: portrait_placeholder.png
+  categories:
+  - Deep Learning
+  links:
+  - <a href=https://github.com/csskene class="btn btn-primary">Github</a>
+  - <a href=https://eps.leeds.ac.uk/maths-applied-mathematics/staff/8830/dr-calum-s-skene
+    class="btn btn-secondary">Website</a>
+- title: Dody Dharma
+  subtitle: Deformbale Solid and Fluid Simulation
+  image: img/dodydharma.jpg
+  categories:
+  - Deep Learning
+  - CNN
+  links:
+  - <a href=https://github.com/dodydharma class="btn btn-primary">Github</a>
+  - <a href=https://eps.leeds.ac.uk/computing/pgr/7644/dody-dharma class="btn btn-secondary">Website</a>
+- title: Naomi Shakespeare-Rees
+  subtitle: Geomagnetism
+  image: img/naomishakespeare-rees.jpg
+  categories:
+  - committee
+  - Deep Learning
+  - CNN
+  - PINNS
+  links:
+  - <a href=https://github.com/geonaomi class="btn btn-primary">Github</a>
+- title: Shenghao Qiu
+  subtitle: Parallel and Distributed Deep Learning
+  image: portrait_placeholder.png
+  categories:
+  - Deep Learning
+  - CNN
+  links:
+  - <a href=https://github.com/JoshuaQSH class="btn btn-primary">Github</a>
+  - <a href=https://eps.leeds.ac.uk/computing/pgr/8738/shenghao-qiu class="btn btn-secondary">Website</a>
+- title: Shu Zhang
+  subtitle: Tropospheric ozone forcast
+  image: img/shuzhang.jpg
+  categories:
+  - Decision Trees
+  links:
+  - <a href=https://github.com/ShrutiZhang class="btn btn-primary">Github</a>
+  - <a href=None class="btn btn-secondary">Website</a>
+- title: Phil Livermore
+  subtitle: Reconstruction of earth/planetary magnetic fields from sparse data
+  image: img/phillivermore.png
+  categories:
+  - Deep Learning
+  - PINNS
+  links:
+  - <a href=https://github.com/plivermore class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/staff/1381/professor-phil-livermore
+    class="btn btn-secondary">Website</a>
+- title: Jakub Lewandowski
+  subtitle: Weather nowcasting
+  image: img/jakublewandowski.png
+  categories:
+  - Deep Learning
+  - PINNS
+  links:
+  - <a href=https://github.com/Quba1 class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/pgr/11237/jakub-lewandowski class="btn
+    btn-secondary">Website</a>
+- title: Joe Gallear
+  subtitle: Crop yield estimation
+  image: img/joegallear.jpg
+  categories:
+  - Deep Learning
+  - Decision Trees
+  links:
+  - <a href=https://github.com/eejg class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/pgr/2584/joe-gallear class="btn btn-secondary">Website</a>
+- title: Sam Llanwarne
+  subtitle: very large histology tissue image, preprocessing and classification
+  image: portrait_placeholder.png
+  categories:
+  - Deep Learning
+  - CNN
+  links:
+  - <a href=https://github.com/Smule11 class="btn btn-primary">Github</a>
+  - <a href=https://ai-medical.leeds.ac.uk/home/student-profiles/ class="btn btn-secondary">Website</a>
+- title: Andy Nowacki
+  subtitle: Detection and location of earthquakes and icequakes
+  image: portrait_placeholder.png
+  categories:
+  - Deep Learning
+  links:
+  - <a href=https://github.com/anowacki class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/staff/1455/dr-andy-nowacki class="btn
+    btn-secondary">Website</a>
+- title: John Chong Zhang
+  subtitle: mineral system exploration
+  image: portrait_placeholder.png
+  categories:
+  - Deep Learning
+  links:
+  - <a href=https://github.com/zhangchong12 class="btn btn-primary">Github</a>
+  - <a href=https://www.researchgate.net/profile/Chong-Zhang-55 class="btn btn-secondary">Website</a>
+- title: Miranda Horne
+  subtitle: Computational Fluid Dynamics
+  image: img/mirandahorne.png
+  categories:
+  - committee
+  - Deep Learning
+  links:
+  - <a href=https://github.com/MirandaJSHorne class="btn btn-primary">Github</a>
+  - <a href=https://vcg.leeds.ac.uk/profiles/miranda-horne/ class="btn btn-secondary">Website</a>
+- title: Longwei Chen
+  subtitle: Planetary magnetic field modelling
+  image: portrait_placeholder.png
+  categories:
+  - Deep Learning
+  - PINNS
+  links:
+  - <a href=https://github.com/damao2021 class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/staff/9985/dr-longwei-chen class="btn
+    btn-secondary">Website</a>
+- title: Leyuan Wu
+  subtitle: Earth and planets' gravity field modelling
+  image: img/leyuanwu.png
+  categories:
+  - Deep Learning
+  - PINNS
+  links:
+  - <a href=https://github.com/LeyuanWu class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/staff/11344/dr-leyuan-wu class="btn btn-secondary">Website</a>
+- title: Jack Smith
+  subtitle: Semantic segmentation of masonry lined tunnel joints
+  image: img/jacksmith.png
+  categories:
+  - committee
+  - Deep Learning
+  - CNN
+  links:
+  - <a href=https://github.com/Mysterymanreturns class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/pgr/9939/jack-smith class="btn btn-secondary">Website</a>
+- title: Fergus Shone
+  subtitle: Haemodynamic flow super-resolution
+  image: img/fergusshone.png
+  categories:
+  - Deep Learning
+  - PINNS
+  links:
+  - <a href=https://github.com/fergusshone class="btn btn-primary">Github</a>
+  - <a href=https://eps.leeds.ac.uk/computing/pgr/7701/fergus-shone class="btn btn-secondary">Website</a>
+- title: Alhanof Alolyan
+  subtitle: Computer-aided design
+  image: img/alhanofalolyan.png
+  categories: []
+  links:
+  - <a href=https://github.com/scasalo class="btn btn-primary">Github</a>
+  - <a href=https://vcg.leeds.ac.uk/profiles/alhanof-alolyan/ class="btn btn-secondary">Website</a>
+- title: Claire Bartholomew
+  subtitle: Precipitation nowcasting
+  image: portrait_placeholder.png
+  categories:
+  - Deep Learning
+  - CNN
+  links:
+  - <a href=https://github.com/claire-bartholomew class="btn btn-primary">Github</a>
+  - <a href=None class="btn btn-secondary">Website</a>
+- title: Jacob Connolly
+  subtitle: InSAR Time series
+  image: portrait_placeholder.png
+  categories:
+  - Decision Trees
+  links:
+  - <a href=https://github.com/jconnollyeo class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/pgr/9497/jacob-connolly class="btn
+    btn-secondary">Website</a>
+- title: Andy Hooper
+  subtitle: Radar interferometry (insar)
+  image: img/andyhooper.png
+  categories: []
+  links:
+  - <a href=https://github.com/earahoo class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/staff/1334/professor-andy-hooper class="btn
+    btn-secondary">Website</a>
+- title: Mark Richardson
+  subtitle: Met office um
+  image: img/markrichardson.png
+  categories: []
+  links:
+  - <a href=https://github.com/MarkUoLeeds class="btn btn-primary">Github</a>
+  - <a href=https://www.cemac.leeds.ac.uk class="btn btn-secondary">Website</a>
+- title: Eric Atwell
+  subtitle: University teaching and assessment
+  image: img/ericatwell.png
+  categories: []
+  links:
+  - <a href=https://github.com/csc6ea class="btn btn-primary">Github</a>
+  - <a href=http://www.comp.leeds.ac.uk/eric class="btn btn-secondary">Website</a>
+- title: Simon Peatman
+  subtitle: Classification of convective weather systems
+  image: portrait_placeholder.png
+  categories:
+  - Deep Learning
+  links:
+  - <a href=https://github.com/SimonPeatman class="btn btn-primary">Github</a>
+  - <a href=http://www.simonpeatman.me.uk class="btn btn-secondary">Website</a>
+- title: Mathew Henrickson
+  subtitle: Text analysis of historic auction records
+  image: img/mathewhenrickson.png
+  categories: []
+  links:
+  - <a href=https://github.com/mh60385 class="btn btn-primary">Github</a>
+  - <a href=https://ahc.leeds.ac.uk/fine-art/pgr/5707/mathew-henrickson class="btn
+    btn-secondary">Website</a>
+- title: Andy Turner
+  subtitle: Predicting spatial and temporal change
+  image: img/andyturner.png
+  categories: []
+  links:
+  - <a href=https://github.com/agdturner class="btn btn-primary">Github</a>
+  - <a href=https://agdturner.github.io class="btn btn-secondary">Website</a>
+- title: Vineeth Kumar Vellala
+  subtitle: Synthetic medical data generation
+  image: img/vineethkumarvellala.png
+  categories: []
+  links:
+  - <a href=https://github.com/VellalaVineethKumar class="btn btn-primary">Github</a>
+  - <a href=https://www.linkedin.com/in/vvineethkumar class="btn btn-secondary">Website</a>
+- title: Declan Finney
+  subtitle: Clouds
+  image: img/declanfinney.png
+  categories: []
+  links:
+  - <a href=https://github.com/DLFinney class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/institute-climate-atmospheric-science/staff/1261/dr-declan-finney
+    class="btn btn-secondary">Website</a>
+- title: Yutaro Shigemitsu
+  subtitle: Monitoring volcano
+  image: img/yutaroshigemitsu.png
+  categories:
+  - Deep Learning
+  - PINNS
+  links:
+  - <a href=https://github.com/shigemitsu-yutaro class="btn btn-primary">Github</a>
+  - <a href=https://earth.kumst.kyoto-u.ac.jp/en/ class="btn btn-secondary">Website</a>
+- title: Jillian Schacher
+  subtitle: Marine spatial planning
+  image: portrait_placeholder.png
+  categories: []
+  links:
+  - <a href=https://github.com/jschacher1 class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/pgr/2654/jillian-schacher- class="btn
+    btn-secondary">Website</a>
+- title: Dr Peyman Babakhani
+  subtitle: Global carbon cycling
+  image: img/drpeymanbabakhani.png
+  categories:
+  - Decision Trees
+  - PINNS
+  links:
+  - <a href=https://github.com/None class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/staff/12072/dr-peyman-babakhani class="btn
+    btn-secondary">Website</a>
+- title: Zoe Hancox
+  subtitle: Health outcome prediction
+  image: img/zoehancox.png
+  categories:
+  - Deep Learning
+  - CNN
+  links:
+  - <a href=https://github.com/ZoeHancox class="btn btn-primary">Github</a>
+  - <a href=https://zoehancox.github.io/ class="btn btn-secondary">Website</a>
+- title: Gyanateet Dutta
+  subtitle: Synthetic medical data generation.
+  image: portrait_placeholder.png
+  categories: []
+  links:
+  - <a href=https://github.com/Ryukijano class="btn btn-primary">Github</a>
+  - <a href=https://ryukijano.github.io class="btn btn-secondary">Website</a>
+- title: Donald Cummins
+  subtitle: Turbulence parametrizations
+  image: portrait_placeholder.png
+  categories:
+  - Deep Learning
+  links:
+  - <a href=https://github.com/donaldcummins class="btn btn-primary">Github</a>
+  - <a href=https://environment.leeds.ac.uk/see/staff/12681/dr-donald-cummins class="btn
+    btn-secondary">Website</a>
+- title: Alistair Curd
+  subtitle: Biomedical fluorescence microscopy
+  image: img/alistaircurd.jpg
+  categories:
+  - Deep Learning
+  links:
+  - <a href=https://github.com/AlistairCurd class="btn btn-primary">Github</a>
+  - <a href=https://biologicalsciences.leeds.ac.uk/molecular-and-cellular-biology/staff/305/dr-alistair-curd
+    class="btn btn-secondary">Website</a>

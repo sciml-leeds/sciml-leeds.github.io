@@ -1,0 +1,52 @@
+project:
+  type: website
+
+language: 
+  search-text-placeholder: Search
+website:
+  title: "SciML - University of Leeds"
+  search:
+    location: navbar
+    type: textbox
+    show-item-context: tree
+    collapse-after: 1
+  navbar:
+    background: primary
+    pinned: true
+    #logo: "images/logo_final.png"
+    
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Committee"
+        href: about/index.qmd
+      - text: "Members"
+        href: members/index.qmd
+      - text: "Events"
+        href: events/index.qmd
+      - text: "Resources"
+        href: resources/index.qmd
+      - text: "GPUS"
+        href: gpus/index.qmd
+      - text: "Newsletter Archive"
+        href: nl_archive/index.qmd
+      
+      
+    right:
+      - text: "<span class='btn btn-success'>Click here to join the mailing list</span>"
+        href: https://forms.office.com/pages/responsepage.aspx?id=qO3qvR3IzkWGPlIypTW3y3I2D-tf-_xJodI5_Ex_by9UNzVSSEFIRk8wTjUzQzI0UEZGOTA3R0tROS4u&route=shorturl/
+      - text: "<span class='btn btn-info'>Contact Us</span>"
+        href: "mailto: sciml@leeds.ac.uk> sciml@leeds.ac.uk"
+       
+      - icon: Teams
+        href: https://teams.microsoft.com/l/channel/19%3A7983fce929d04155936c6deab6cbd595%40thread.tacv2/SciML%20Community?groupId=5293870c-9eac-462b-a99b-76ba9804eb41&tenantId=bdeaeda8-c81d-45ce-863e-5232a535b7cb
+      
+format:
+  
+  html:
+    theme: flatly
+    css: styles.css
+execute:
+  freeze: auto
+
+

@@ -1,0 +1,39 @@
+---
+title: Omar Choudhry
+image: portrait_placeholder.png
+description: Medicine
+categories:
+- committee
+- Deep Learning
+- Medical image analysis
+- Machine Learning
+links: <a href=https://github.com/omariosc class="btn btn-primary">Github</a>
+  <a href=https://eps.leeds.ac.uk/pgr/14571/omar-choudhry class="btn
+      btn-secondary">Website</a>
+techniques:
+- Medical image analysis
+- Deep Learning
+applications:
+- Surgical skill assessment
+- Surgical training
+- Model optimisation
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Medical image analysis
+- Deep Learning
+   
+##
+## Research area
+   
+- Surgical skill assessment
+- Surgical training
+- Model optimisation

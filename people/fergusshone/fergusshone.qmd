@@ -1,0 +1,36 @@
+---
+title: Fergus Shone
+description: Haemodynamic flow super-resolution
+image: fergusshone.png
+categories:
+- Deep Learning
+- PINNs
+links: <a href=https://github.com/fergusshone class="btn btn-primary">Github</a><a
+  href=https://eps.leeds.ac.uk/computing/pgr/7701/fergus-shone class="btn btn-secondary">Website</a>
+techniques:
+- Informed machine learning
+- Physics-informed neural networks
+applications:
+- Haemodynamic flow super-resolution
+- 4D-flow MRI
+- Left ventricular remodelling
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Informed machine learning
+- Physics-informed neural networks
+   
+##
+## Research area
+   
+- Haemodynamic flow super-resolution
+- 4D-flow MRI
+- Left ventricular remodelling

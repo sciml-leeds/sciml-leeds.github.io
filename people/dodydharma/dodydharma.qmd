@@ -1,0 +1,40 @@
+---
+title: Dody Dharma
+description: Deformbale Solid and Fluid Simulation
+image: dodydharma.jpg
+categories:
+- Deep Learning
+- CNN
+links: <a href=https://github.com/dodydharma class="btn btn-primary">Github</a><a
+  href=https://eps.leeds.ac.uk/computing/pgr/7644/dody-dharma class="btn btn-secondary">Website</a>
+techniques:
+- Supervised learning
+- Continuous Convolution
+- Graph Neural Networks
+- Multilayer Perceptron
+- LSTM
+applications:
+- Deformbale Solid and Fluid Simulation
+- Vorticity Conservation
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Supervised learning
+- Continuous Convolution
+- Graph Neural Networks
+- Multilayer Perceptron
+- LSTM
+   
+##
+## Research area
+   
+- Deformbale Solid and Fluid Simulation
+- Vorticity Conservation

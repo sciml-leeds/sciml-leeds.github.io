@@ -1,0 +1,35 @@
+---
+title: Chetan Deva
+description: Modelling Plant Behaviour across G*E
+image: chetandeva.jpg
+categories:
+- Decision Trees
+links: <a href=https://environment.leeds.ac.uk/see/staff/9387/dr-chetan-deva class="btn
+  btn-secondary">Website</a>
+techniques:
+- Random Forests
+- XGBoost
+- Long Short-Term Memory
+applications:
+- Modelling Plant Behaviour across G*E
+- Time Series Forecasting of Vegetation Dynamics
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Random Forests
+- XGBoost
+- Long Short-Term Memory
+   
+##
+## Research area
+   
+- Modelling Plant Behaviour across G*E
+- Time Series Forecasting of Vegetation Dynamics

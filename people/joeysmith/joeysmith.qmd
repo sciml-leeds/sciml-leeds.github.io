@@ -1,0 +1,33 @@
+---
+title: Joey Smith
+description: Storm tracking and initiation prediction
+image: joeysmith.png
+categories:
+- Decision Trees
+links: <a href=https://github.com/eejasm class="btn btn-primary">Github</a><a href=None
+  class="btn btn-secondary">Website</a>
+techniques:
+- Random Forests
+- GANs
+applications:
+- Storm tracking and initiation prediction
+- Precipitation nowcasting
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Random Forests
+- GANs
+   
+##
+## Research area
+   
+- Storm tracking and initiation prediction
+- Precipitation nowcasting

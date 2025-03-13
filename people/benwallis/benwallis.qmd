@@ -1,0 +1,36 @@
+---
+title: Ben Wallis
+description: Tidewater glacier dynamics
+image: portrait_placeholder.png
+categories:
+- Deep Learning
+- CNN
+links: <a href=https://github.com/eebjwa class="btn btn-primary">Github</a><a href=https://environment.leeds.ac.uk/see/pgr/9532/benjamin-wallis
+  class="btn btn-secondary">Website</a>
+techniques:
+- Supervised learning
+- Convolutional networks
+- Bayesian methods
+applications:
+- Tidewater glacier dynamics
+- Ice ocean interaction
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Supervised learning
+- Convolutional networks
+- Bayesian methods
+   
+##
+## Research area
+   
+- Tidewater glacier dynamics
+- Ice ocean interaction

@@ -1,0 +1,37 @@
+---
+title: John Chong Zhang
+description: mineral system exploration
+image: portrait_placeholder.png
+categories:
+- Deep Learning
+links: <a href=https://github.com/zhangchong12 class="btn btn-primary">Github</a><a
+  href=https://www.researchgate.net/profile/Chong-Zhang-55 class="btn btn-secondary">Website</a>
+techniques:
+- Neural networks
+- inversions
+- filters
+applications:
+- mineral system exploration
+- subsurface structure
+- geophysical potential fields
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Neural networks
+- inversions
+- filters
+   
+##
+## Research area
+   
+- mineral system exploration
+- subsurface structure
+- geophysical potential fields

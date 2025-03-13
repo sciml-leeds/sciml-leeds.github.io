@@ -1,0 +1,122 @@
+I"�<h1 id="example-markdown-post">Example Markdown Post</h1>
+
+<h2 id="basic-setup">Basic setup</h2>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-filename.md</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">filename</code> is whatever file name you choose, to remind yourself what this post is about. <code class="language-plaintext highlighter-rouge">.md</code> is the file extension for markdown files.</p>
+
+<p>The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “<em>level 1 heading</em>” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line <code class="language-plaintext highlighter-rouge">## File names</code> above.</p>
+
+<h2 id="basic-formatting">Basic formatting</h2>
+
+<p>You can use <em>italics</em>, <strong>bold</strong>, <code class="language-plaintext highlighter-rouge">code font text</code>, and create <a href="https://www.markdownguide.org/cheat-sheet/">links</a>. Here’s a footnote <sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>. Here’s a horizontal rule:</p>
+
+<hr />
+
+<h2 id="lists">Lists</h2>
+
+<p>Here’s a list:</p>
+
+<ul>
+  <li>item 1</li>
+  <li>item 2</li>
+</ul>
+
+<p>And a numbered list:</p>
+
+<ol>
+  <li>item 1</li>
+  <li>item 2</li>
+</ol>
+
+<h2 id="boxes-and-stuff">Boxes and stuff</h2>
+
+<blockquote>
+  <p>This is a quotation</p>
+</blockquote>
+
+<div class="Toast Toast--warning googoo">
+   <span class="Toast-icon"><svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg></span>
+   <span class="Toast-content">You can include alert boxes</span>
+</div>
+
+<p>…and…</p>
+
+<div class="Toast">
+   <span class="Toast-icon"><svg class="octicon octicon-info" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg></span>
+   <span class="Toast-content">You can include info boxes</span>
+</div>
+
+<h2 id="images">Images</h2>
+
+<p><img src="/images/logo.png" alt="" title="fast.ai's logo" /></p>
+
+<h2 id="code">Code</h2>
+
+<p>You can format text and code per usual</p>
+
+<p>General preformatted text:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Do a thing
+do_thing()
+</code></pre></div></div>
+
+<p>Python code and output:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Prints '2'
+</span><span class="k">print</span><span class="p">(</span><span class="mi">1</span><span class="o">+</span><span class="mi">1</span><span class="p">)</span>
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>2
+</code></pre></div></div>
+
+<p>Formatting text as shell commands:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"hello world"</span>
+./some_script.sh <span class="nt">--option</span> <span class="s2">"value"</span>
+wget https://example.com/cat_photo1.png
+</code></pre></div></div>
+
+<p>Formatting text as YAML:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">key</span><span class="pi">:</span> <span class="s">value</span>
+<span class="pi">-</span> <span class="na">another_key</span><span class="pi">:</span> <span class="s2">"</span><span class="s">another</span><span class="nv"> </span><span class="s">value"</span>
+</code></pre></div></div>
+
+<h2 id="tables">Tables</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Column 1</th>
+      <th>Column 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A thing</td>
+      <td>Another thing</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="tweetcards">Tweetcards</h2>
+
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Altair 4.0 is released! <a href="https://t.co/PCyrIOTcvv">https://t.co/PCyrIOTcvv</a><br />Try it with:<br /><br />  pip install -U altair<br /><br />The full list of changes is at <a href="https://t.co/roXmzcsT58">https://t.co/roXmzcsT58</a> ...read on for some highlights. <a href="https://t.co/vWJ0ZveKbZ">pic.twitter.com/vWJ0ZveKbZ</a></p>&mdash; Jake VanderPlas (@jakevdp) <a href="https://twitter.com/jakevdp/status/1204765621767901185?ref_src=twsrc%5Etfw">December 11, 2019</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
+<h2 id="footnotes">Footnotes</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1">
+      <p>This is the footnote. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

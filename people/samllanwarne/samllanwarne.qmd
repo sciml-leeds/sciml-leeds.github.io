@@ -1,0 +1,34 @@
+---
+title: Sam Llanwarne
+description: very large histology tissue image, preprocessing and classification
+image: portrait_placeholder.png
+categories:
+- Deep Learning
+- CNN
+links: <a href=https://github.com/Smule11 class="btn btn-primary">Github</a><a href=https://ai-medical.leeds.ac.uk/home/student-profiles/
+  class="btn btn-secondary">Website</a>
+techniques:
+- Neural Networks
+- Segmentation, auto-encoding, classification
+- Want to use transformers and graphs more
+applications:
+- very large histology tissue image, preprocessing and classification
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Neural Networks
+- Segmentation, auto-encoding, classification
+- Want to use transformers and graphs more
+   
+##
+## Research area
+   
+- very large histology tissue image, preprocessing and classification

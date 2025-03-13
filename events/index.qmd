@@ -1,0 +1,64 @@
+
+---
+title: "Past Events"
+listing: 
+  - id: listing-Seminars
+    contents: seminar_list.yml
+    type: table
+    sort: false
+    sort-ui: false
+    fields: 
+    - title
+    - speaker
+    - date
+    - youtube
+
+    field-display-names: 
+      title: Title
+      speaker: Speaker
+      date: Date
+      youtube: Recording
+    table-striped: true
+
+
+  - id: listing-Workshops
+    contents: workshop_list.yml
+    type: table
+    sort: false
+    sort-ui: false
+    fields: 
+    - title
+    - speaker
+    - date
+    - youtube
+    - notebook
+    field-display-names: 
+      title: Title
+      speaker: Speaker
+      date: Date
+      youtube: Recording
+      notebook: Workbook
+    table-striped: true
+date-format: "Do MMM, YYYY"
+---
+![](../images/logo_final.png){width=10% fig-align="center"}
+
+Below is an overview of events organised by the SciML community. We aim to put
+recordings of each event online within a week of them taking place.
+
+[Please get in touch <i class="fa fa-envelope"></i>](mailto://{{site.contact_email}}) if you'd like to come to
+talk to us, we're a very diverse group in terms of applications in scientific
+machine learning and would <i class="fa fa-heart"></i> to hear about your work!
+
+## Seminars
+
+::: {#listing-Seminars}
+:::
+
+## Workshops
+
+::: {#listing-Workshops}
+:::
+
+
+![](../images/logo_final.png){width=10% fig-align="center"}
