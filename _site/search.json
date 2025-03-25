@@ -149,16 +149,16 @@
   {
     "objectID": "people/mirandahorne/mirandahorne.html#techniques",
     "href": "people/mirandahorne/mirandahorne.html#techniques",
-    "title": "Miranda Horne",
+    "title": "Miranda J S Horne",
     "section": "Techniques",
-    "text": "Techniques\n\nOperator Learning\nPhysics Constrained Neural Networks"
+    "text": "Techniques\n\nPhysics Informed Neural Networks\nHard Constrained Machine Learning\nFluid Dynamics PDEs"
   },
   {
     "objectID": "people/mirandahorne/mirandahorne.html#research-area",
     "href": "people/mirandahorne/mirandahorne.html#research-area",
-    "title": "Miranda Horne",
+    "title": "Miranda J S Horne",
     "section": "Research area",
-    "text": "Research area\n\nComputational Fluid Dynamics\nInverse Modelling\nInterior Air Control"
+    "text": "Research area\n\nHard physics constraints for fluids"
   },
   {
     "objectID": "people/markrichardson/markrichardson.html#techniques",
@@ -275,14 +275,14 @@
   {
     "objectID": "people/drpeymanbabakhani/drpeymanbabakhani.html#techniques",
     "href": "people/drpeymanbabakhani/drpeymanbabakhani.html#techniques",
-    "title": "Dr Peyman Babakhani",
+    "title": "Peyman Babakhani",
     "section": "Techniques",
     "text": "Techniques\n\nDeep learning\nphysics-informed ai\nrandom forest"
   },
   {
     "objectID": "people/drpeymanbabakhani/drpeymanbabakhani.html#research-area",
     "href": "people/drpeymanbabakhani/drpeymanbabakhani.html#research-area",
-    "title": "Dr Peyman Babakhani",
+    "title": "Peyman Babakhani",
     "section": "Research area",
     "text": "Research area\n\nGlobal carbon cycling\nenvironmental contaminant transport\ngroundwater modelling"
   },
@@ -375,7 +375,7 @@
     "href": "gpus/index.html",
     "title": "GPU resource list",
     "section": "",
-    "text": "Below is an overview of GPU platforms available for research by staff at the University of Leeds:\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nOrganisation\n\n\nHardware\n\n\nAccess\n\n\nNotes\n\n\n\n\n\n\nARC3\n\n\nUniversity of Leeds\n\n\n2 nodes with 2 x NVIDIA K80s, 6 nodes with 4 x NVIDIA P100s\n\n\nAnyone at Leeds\n\n\nBEING DEPRECIATED, please see AIRE\n\n\n\n\nARC4\n\n\nUniversity of Leeds\n\n\n3 nodes with 4 x NVIDIA V100s\n\n\nAnyone at Leeds\n\n\nBEING DEPRECIATED, please see AIRE\n\n\n\n\nAIRE\n\n\nUniversity of Leeds\n\n\nTBC\n\n\nAnyone at Leeds\n\n\nETA online - Nov/Dec 2024\n\n\n\n\nJASMIN\n\n\nNERC\n\n\n6x NVidia GV100GL across 3 nodes\n\n\ntbc\n\n\n \n\n\n\n\nDiRAC (Tursa)\n\n\nEPCC\n\n\n144 nodes with 4x Nvidia RedStone A100-40 each\n\n\nAnnual call for project proposals\n\n\n \n\n\n\n\nMAGEO\n\n\nPML\n\n\n5 NVIDIA DGX-1 MaxQ nodes\n\n\nNERC related research\n\n\n \n\n\n\n\nBEDE\n\n\nDurham\n\n\n38x Nvidia V100 across 38 nodes in cluster\n\n\nEPSRC funded projects (pre EPSRC-application access available)\n\n\n \n\n\n\n\nJADE II\n\n\nOxford/ATI\n\n\n63 DGX MAX-Q nodes with 8x NVidia V100 each\n\n\n \n\n\n \n\n\n\n\nLEARN\n\n\nUoL\n\n\n1 DGX A100\n\n\n \n\n\n \n\n\n\n\nGoogle Colab\n\n\nGoogle\n\n\nNVidia k80s\n\n\nFree through Google account\n\n\n \n\n\n\n\nKaggle Notebooks\n\n\nKaggle\n\n\n30 GPU hrs/week\n\n\nFree through Kaggle account\n\n\n \n\n\n\n\nGradient\n\n\nPaperspace\n\n\nM4000 in free tier\n\n\nFree or paid tiers\n\n\n \n\n\n\n\nGraphcore\n\n\nPaperspace\n\n\nGraphcore IPU-POD16\n\n\nmax_hours_per_day - 6hrs/day, Free during evaluation period\n\n\n \n\n\n\n\n\nNo matching items\n\n\n\nEuroHPC JU - supercomputers"
+    "text": "Below is an overview of GPU platforms available for research by staff at the University of Leeds:\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nOrganisation\n\n\nHardware\n\n\nAccess\n\n\nNotes\n\n\n\n\n\n\nARC3\n\n\nUniversity of Leeds\n\n\n2 nodes with 2 x NVIDIA K80s, 6 nodes with 4 x NVIDIA P100s\n\n\nAnyone at Leeds\n\n\nBEING DEPRECIATED, please see AIRE\n\n\n\n\nARC4\n\n\nUniversity of Leeds\n\n\n3 nodes with 4 x NVIDIA V100s\n\n\nAnyone at Leeds\n\n\nBEING DEPRECIATED, please see AIRE\n\n\n\n\nAIRE\n\n\nUniversity of Leeds\n\n\nTBC\n\n\nAnyone at Leeds\n\n\nETA online - Nov/Dec 2024\n\n\n\n\nJASMIN\n\n\nNERC\n\n\n6x NVidia GV100GL across 3 nodes\n\n\ntbc\n\n\n \n\n\n\n\nDiRAC (Tursa)\n\n\nEPCC\n\n\n144 nodes with 4x Nvidia RedStone A100-40 each\n\n\nAnnual call for project proposals\n\n\n \n\n\n\n\nMAGEO\n\n\nPML\n\n\n5 NVIDIA DGX-1 MaxQ nodes\n\n\nNERC related research\n\n\n \n\n\n\n\nBEDE\n\n\nDurham\n\n\n38x Nvidia V100 across 38 nodes in cluster\n\n\nEPSRC funded projects (pre EPSRC-application access available)\n\n\n \n\n\n\n\nLEARN\n\n\nUoL\n\n\n1 DGX A100\n\n\n \n\n\n \n\n\n\n\nGoogle Colab\n\n\nGoogle\n\n\nNVidia k80s\n\n\nFree through Google account\n\n\n \n\n\n\n\nKaggle Notebooks\n\n\nKaggle\n\n\n30 GPU hrs/week\n\n\nFree through Kaggle account\n\n\n \n\n\n\n\nGradient\n\n\nPaperspace\n\n\nM4000 in free tier\n\n\nFree or paid tiers\n\n\n \n\n\n\n\nGraphcore\n\n\nPaperspace\n\n\nGraphcore IPU-POD16\n\n\nmax_hours_per_day - 6hrs/day, Free during evaluation period\n\n\n \n\n\n\n\n\nNo matching items\n\n\n\nEuroHPC JU - supercomputers"
   },
   {
     "objectID": "events/2023-10-27-SINDy_Challenges.html#installing-pysindy",
@@ -416,8 +416,8 @@
     "objectID": "about/index.html#committee-members",
     "href": "about/index.html#committee-members",
     "title": "Sciml Leeds Committee",
-    "section": "",
-    "text": "We’re currently looking for new committee members! Roles are flexible depending on your time constraints, and are only during term time. If you’re interested please contact us at  sciml@leeds.ac.uk  for more infomation, or chat to any of the committee at events!\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinks:\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinks:\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinks:\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "section": "Committee Members",
+    "text": "Committee Members\nWe’re currently looking for new committee members! Roles are flexible depending on your time constraints, and are only during term time. If you’re interested please contact us at  sciml@leeds.ac.uk  for more infomation, or chat to any of the committee at events!\n\n\n\n\n\n\n\n\n\n\nDonald Cummins\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEilish O’Grady\n\n\n\n\nlinks:\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJack Smith\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiranda J S Horne\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNaomi Shakespeare-Rees\n\n\n\n\nlinks:\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOluwaseun Coker\n\n\n\n\nlinks:\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOmar Choudhry\n\n\n\n\nlinks:\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about/about.html",
@@ -487,7 +487,7 @@
     "href": "index.html",
     "title": "Scientific Machine Learning at the University of Leeds",
     "section": "",
-    "text": "Scientific Machine Learning at the University of Leeds\nHi!\nWelcome to the website for people interested in Scientific Machine Learning (SciML) at Leeds. SciML is the discipline of combining machine learning with scientific computing, for more information please see e.g. sciml.ai. This website serves to organise our work and allow others to join us.\nWe meet the first Friday of every month at 11am UK/local time in room 11.87, 11th Floor, Worsley Building, Leeds Institute for Data Analytics (Use .ics-file download to add the event to your calendar).\nWe also organise seminars and workshops, as well as send out a monthly newsletter. You can view the SciML newsletter archives here.\n\nIf you’re based at Leeds and would like to be added to the ‘members’ section, please fill out the following form!"
+    "text": "Scientific Machine Learning at the University of Leeds\n\n\n\n\n\nHi!\nWelcome to the website for people interested in Scientific Machine Learning (SciML) at Leeds. SciML is the discipline of combining machine learning with scientific computing, for more information please see e.g. sciml.ai. This website serves to organise our work and allow others to join us.\nWe meet the first Friday of every month at 11am UK/local time in room 11.87, 11th Floor, Worsley Building, Leeds Institute for Data Analytics (Use .ics-file download to add the event to your calendar). See here for directions\nWe also organise seminars and workshops, as well as send out a monthly newsletter."
   },
   {
     "objectID": "index.html#training-resources",
@@ -891,37 +891,37 @@
   {
     "objectID": "resources/index.html",
     "href": "resources/index.html",
-    "title": "SciML - University of Leeds",
+    "title": "Resources",
     "section": "",
     "text": "Below is a list of Machine Learning tutorials and resources that we have found useful. If you find something that you think should be added to the list, please let us know!"
   },
   {
     "objectID": "resources/index.html#courses",
     "href": "resources/index.html#courses",
-    "title": "SciML - University of Leeds",
+    "title": "Resources",
     "section": "Courses",
-    "text": "Courses\n\nCoursera\nCoursera is an open online course provider, and with your University of Leeds login, you can have free access to thousands of courses, from hundreds of universities.\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nHost\n\n\nDescription\n\n\n\n\n\n\nMathematics for Machine Learning Specialization\n\n\nCoursera\n\n\nPrerequisite mathematics for applications in data science and machine learning.\n\n\n\n\nMachine Learning Theory and Hands-on Practice with Python Specialization\n\n\nCoursera\n\n\nDevelop Foundational Machine Learning Skills. Add Supervised, Unsupervised, and Deep Learning techniques to your Data Science toolkit.\n\n\n\n\nDeep learning in Electronic Health Records\n\n\nCoursera\n\n\nTrain deep learning architectures such as Multi-layer perceptron, Convolutional Neural Networks and Recurrent Neural Networks for classification.\n\n\n\n\nDeep Learning with PyTorch, Image Segmentation\n\n\nCoursera\n\n\nUsing U-Net architecture for segmentation.\n\n\n\n\nTensorFlow 2 for Deep Learning Specialization\n\n\nCoursera\n\n\nTensorFlow 2.\n\n\n\n\n\nNo matching items\n\n\n\n\nUniversity of Leeds\nTo get on any University of Leeds module (to attend lectures and have access to course materials) email the module leader, explaining that you are a PhD student wanting to take their module.\nYou do not have to be in the School of Computer Science to take the computing modules, but:\n\nCheck you satisfy the prerequisites of the modules (ask your supervisor if you are unsure).\nYou should ask your supervisor if the module is relevant to your project.\nIf you are coming from another school (especially those not in Engineering and Physical Sciences faculty (EPS)) you may find your initial emails are ignored.\nYou can ask your supervisor to advocate for you, sending follow up emails on your behalf.*\n\nSciML are working on getting access to the course materials, but if you are not on minerva you will not be able to attend the lectures themselves.\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nHost\n\n\nDescription\n\n\n\n\n\n\nCOMP3611 Machine Learning\n\n\nUniversity of Leeds\n\n\n3rd year undergraduate module that runs in semester 1. Module leader is Dr Marc de Kamps (M.deKamps@leeds.ac.uk).\n\n\n\n\nCOMP5625 Deep Learning\n\n\nUniversity of Leeds\n\n\nTaught masters module that runs in semester 2. The module leader is Dr Sharib Ali (S.S.Ali@leeds.ac.uk).\n\n\n\n\n\nNo matching items"
+    "text": "Courses\n\nCoursera\nCoursera is an open online course provider, and with your University of Leeds login, you can have free access to thousands of courses, from hundreds of universities.\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nHost\n\n\nDescription\n\n\n\n\n\n\nMathematics for Machine Learning Specialization\n\n\nCoursera\n\n\nPrerequisite mathematics for applications in data science and machine learning.\n\n\n\n\nMachine Learning Theory and Hands-on Practice with Python Specialization\n\n\nCoursera\n\n\nDevelop Foundational Machine Learning Skills. Add Supervised, Unsupervised, and Deep Learning techniques to your Data Science toolkit.\n\n\n\n\nDeep learning in Electronic Health Records\n\n\nCoursera\n\n\nTrain deep learning architectures such as Multi-layer perceptron, Convolutional Neural Networks and Recurrent Neural Networks for classification.\n\n\n\n\nDeep Learning with PyTorch, Image Segmentation\n\n\nCoursera\n\n\nUsing U-Net architecture for segmentation.\n\n\n\n\nTensorFlow 2 for Deep Learning Specialization\n\n\nCoursera\n\n\nTensorFlow 2.\n\n\n\n\n\nNo matching items\n\n\n\n\nUniversity of Leeds\nTo get on any University of Leeds module (to attend lectures and have access to course materials) email the module leader, explaining that you are a PhD student wanting to take their module.\nYou do not have to be in the School of Computer Science to take the computing modules, but:\n\nCheck you satisfy the prerequisites of the modules (ask your supervisor if you are unsure).\nYou should ask your supervisor if the module is relevant to your project.\nYou may find getting on the module more challenging if you are coming from another school (especially those not in Engineering and Physical Sciences faculty (EPS)).\nYou can ask us at SciML (or your supervisor) to advocate for you to get on these modules.\n\nSciML are working on getting access to the course materials, but if you are not on minerva you will not be able to attend the lectures themselves.\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nHost\n\n\nDescription\n\n\n\n\n\n\nCOMP3611 Machine Learning\n\n\nUniversity of Leeds\n\n\n3rd year undergraduate module that runs in semester 1. Module leader is Dr Marc de Kamps (M.deKamps@leeds.ac.uk).\n\n\n\n\nCOMP5611M Machine Learning\n\n\nUniversity of Leeds\n\n\nTaught masters module that runs in semester 2. The module leader is Dr Yanlong Huang ( Y.L.Huang@leeds.ac.uk).\n\n\n\n\nCOMP5625M Deep Learning\n\n\nUniversity of Leeds\n\n\nTaught masters module that runs in semester 2. The module leader is Dr Sharib Ali (S.S.Ali@leeds.ac.uk).\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources/index.html#notebooks",
     "href": "resources/index.html#notebooks",
-    "title": "SciML - University of Leeds",
+    "title": "Resources",
     "section": "Notebooks",
     "text": "Notebooks\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nOrganisation\n\n\nDescription\n\n\n\n\n\n\nCEMAC Jupyter Notebooks\n\n\nLIFD and CEMAC, University of Leeds\n\n\nJupyter notebook tutorials on Convolutional Neural Networks (CNNs), Physics Informed Neural Networks (PINNs), Gaussian Processes, Random Forests, Generative Adversarial Networks (GANs), Auto Encoders, Dimensionality Reduction and XGBoost.\n\n\n\n\nThe Turing Way\n\n\nThe Alan Turing Institute\n\n\nHandbook to reproducible, ethical and collaborative data science. Includes information on version control, open-source code and licensing.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources/index.html#books-and-articles",
     "href": "resources/index.html#books-and-articles",
-    "title": "SciML - University of Leeds",
+    "title": "Resources",
     "section": "Books and Articles",
     "text": "Books and Articles\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nAuthor\n\n\nDescription\n\n\n\n\n\n\nDeep Learning\n\n\nIan Goodfellow, Yoshua Bengio, Aaron Courville\n\n\nComprehensive guide to all of the basic machine learning tools.\n\n\n\n\nProgramming pytorch for deep learning\n\n\nIan Pointer\n\n\nBuild basic models alongside this book, which comes with coding projects and model solutions.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members/index.html",
     "href": "members/index.html",
-    "title": "SciML - University of Leeds",
+    "title": "Members",
     "section": "",
-    "text": "Computer-aided design\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nBiomedical fluorescence microscopy\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRadar interferometry (insar)\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nDetection and location of earthquakes and icequakes\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting spatial and temporal change\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nTidewater glacier dynamics\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nGeophysical and astrophysical turbulence\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\n\nModelling Plant Behaviour across G*E\n\n\n\n\nLinks\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nPrecipitation nowcasting\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClouds\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nDeformbale Solid and Fluid Simulation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\n\nTurbulence parametrizations\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\nPINNS\n\n\n\nGlobal carbon cycling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUniversity teaching and assessment\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nHaemodynamic flow super-resolution\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSynthetic medical data generation.\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nCNN\n\n\n\nSemantic segmentation of masonry lined tunnel joints\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\n\nInSAR Time series\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nWeather nowcasting\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarine spatial planning\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nDecision Trees\n\n\n\nCrop yield estimation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\n\nStorm tracking and initiation prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nmineral system exploration\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nsegmentation of atmospheric gravity waves\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nmeso-scale cloud organisation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nEarth and planets’ gravity field modelling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nPlanetary magnetic field modelling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\nPINNS\n\n\n\nGroundwater prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMet office um\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nText analysis of historic auction records\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\n\nComputational Fluid Dynamics\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nCNN\n\n\nPINNS\n\n\n\nGeomagnetism\n\n\n\n\nLinks\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\n\nFluid Dynamics\n\n\n\n\nLinks\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nMedical image analysis\n\n\nMachine Learning\n\n\n\nMedicine\n\n\n\n\nLinks\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nReconstruction of earth/planetary magnetic fields from sparse data\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nvery large histology tissue image, preprocessing and classification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\ncrop type classification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nParallel and Distributed Deep Learning\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\n\nTropospheric ozone forcast\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nClassification of convective weather systems\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nGlacier damage identification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSynthetic medical data generation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nMonitoring volcano\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nHealth outcome prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "If you’re based at Leeds and would like to be added to this page, please fill out this form!\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAlhanof Alolyan\n\n\n\n\n\nComputer-aided design\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlistair Curd\n\n\n\nDeep Learning\n\n\n\nBiomedical fluorescence microscopy\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndy Hooper\n\n\n\n\n\nRadar interferometry (insar)\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndy Nowacki\n\n\n\nDeep Learning\n\n\n\nDetection and location of earthquakes and icequakes\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndy Turner\n\n\n\n\n\nPredicting spatial and temporal change\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBen Wallis\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nTidewater glacier dynamics\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCalum S. Skene\n\n\n\nDeep Learning\n\n\n\nGeophysical and astrophysical turbulence\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChetan Deva\n\n\n\nDecision Trees\n\n\n\nModelling Plant Behaviour across G*E\n\n\n\n\nLinks\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaire Bartholomew\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nPrecipitation nowcasting\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\nDan Hall\n\n\n\nPINNs\n\n\n\nParticle Physics\n\n\n\n\nLinks\n\n\nGithub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeclan Finney\n\n\n\n\n\nClouds\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDody Dharma\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nDeformbale Solid and Fluid Simulation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDonald Cummins\n\n\n\ncommittee\n\n\nDeep Learning\n\n\n\nTurbulence parametrizations\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEilish O’Grady\n\n\n\ncommittee\n\n\nSemantic segmentation\n\n\ndiffusion models\n\n\nInSAR\n\n\n\nInSAR\n\n\n\n\nLinks\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEric Atwell\n\n\n\n\n\nUniversity teaching and assessment\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFergus Shone\n\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nHaemodynamic flow super-resolution\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGyanateet Dutta\n\n\n\n\n\nSynthetic medical data generation.\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJack Smith\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nCNN\n\n\n\nSemantic segmentation of masonry lined tunnel joints\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJacob Connolly\n\n\n\nDecision Trees\n\n\n\nInSAR Time series\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJakub Lewandowski\n\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nWeather nowcasting\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJillian Schacher\n\n\n\n\n\nMarine spatial planning\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoe Gallear\n\n\n\nDeep Learning\n\n\nDecision Trees\n\n\n\nCrop yield estimation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoey Smith\n\n\n\nDecision Trees\n\n\n\nStorm tracking and initiation prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJohn Chong Zhang\n\n\n\nDeep Learning\n\n\n\nmineral system exploration\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonathan Coney\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nsegmentation of atmospheric gravity waves\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeif Denby\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nmeso-scale cloud organisation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeyuan Wu\n\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nEarth and planets’ gravity field modelling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLongwei Chen\n\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nPlanetary magnetic field modelling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Luisa Taccari\n\n\n\nDeep Learning\n\n\nCNN\n\n\nPINNs\n\n\n\nGroundwater prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMark Richardson\n\n\n\n\n\nMet office um\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMathew Henrickson\n\n\n\n\n\nText analysis of historic auction records\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiranda J S Horne\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nComputational Fluid Dynamics\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNaomi Shakespeare-Rees\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nCNN\n\n\nPINNs\n\n\n\nGeomagnetism\n\n\n\n\nLinks\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOluwaseun Coker\n\n\n\ncommittee\n\n\n\nFluid Dynamics\n\n\n\n\nLinks\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOmar Choudhry\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nMedical image analysis\n\n\nMachine Learning\n\n\n\nMedicine\n\n\n\n\nLinks\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeyman Babakhani\n\n\n\nDecision Trees\n\n\nPINNs\n\n\n\nGlobal carbon cycling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhil Livermore\n\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nReconstruction of earth/planetary magnetic fields from sparse data\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSam Llanwarne\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nvery large histology tissue image, preprocessing and classification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSamuel Bancroft\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\ncrop type classification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShenghao Qiu\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nParallel and Distributed Deep Learning\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShu Zhang\n\n\n\nDecision Trees\n\n\n\nTropospheric ozone forcast\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimon Peatman\n\n\n\nDeep Learning\n\n\n\nClassification of convective weather systems\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrystan Surawy-Stepney\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nGlacier damage identification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVineeth Kumar Vellala\n\n\n\n\n\nSynthetic medical data generation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYutaro Shigemitsu\n\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nMonitoring volcano\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZoe Hancox\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nHealth outcome prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members/index.html#people",
@@ -940,14 +940,14 @@
   {
     "objectID": "people/oluwaseuncoker/oluwaseuncoker.html#techniques",
     "href": "people/oluwaseuncoker/oluwaseuncoker.html#techniques",
-    "title": "SciML - University of Leeds",
+    "title": "Oluwaseun Coker",
     "section": "Techniques",
     "text": "Techniques"
   },
   {
     "objectID": "people/oluwaseuncoker/oluwaseuncoker.html#research-area",
     "href": "people/oluwaseuncoker/oluwaseuncoker.html#research-area",
-    "title": "SciML - University of Leeds",
+    "title": "Oluwaseun Coker",
     "section": "Research area",
     "text": "Research area\n\nFluid Flows"
   },
@@ -964,5 +964,68 @@
     "title": "Omar Choudhry",
     "section": "Research area",
     "text": "Research area\n\nSurgical skill assessment\nSurgical training\nModel optimisation"
+  },
+  {
+    "objectID": "directions/index.html",
+    "href": "directions/index.html",
+    "title": "Directions to Worsley 11.87",
+    "section": "",
+    "text": "From outside of the Roger Stevens building, head west past the sustainability garden on your left until you reach the map.\n\n\nTurn left and head down the “North-South access route” on level 7.\n\n\nFollow the corridor straight ahead and into the Worsley building.\n\n\nAt the end of the corridor you will walk into an open plan seating area welcoming you to the Faculty of Medicine and Health. Turn left and walk over to the lifts/stairs.\n\n\nGo up to level 11.\n\n\nOn level 11, turn left out of the lift (right out of the stairs). We are in the first room on the left (11.87).\nWe look forward to seeing you at 11:00 on the first friday of the month!"
+  },
+  {
+    "objectID": "people/danhall/danhall.html#techniques",
+    "href": "people/danhall/danhall.html#techniques",
+    "title": "Dan Hall",
+    "section": "Techniques",
+    "text": "Techniques\n\nPINNs"
+  },
+  {
+    "objectID": "people/danhall/danhall.html#research-area",
+    "href": "people/danhall/danhall.html#research-area",
+    "title": "Dan Hall",
+    "section": "Research area",
+    "text": "Research area\n\nComputational physics\nParticle physics\nSignal analysis"
+  },
+  {
+    "objectID": "nl_archive/index.html",
+    "href": "nl_archive/index.html",
+    "title": "Newsletter Archive",
+    "section": "",
+    "text": "March\nFebruary\nJanuary\n\n\n\n\n\nDecember\nNovember\nOctober\nMay\nApril\nMarch\nFebruary\n\n\n\n\n\nDecember\nNovember\nOctober\nJuly"
+  },
+  {
+    "objectID": "nl_archive/index.html#section",
+    "href": "nl_archive/index.html#section",
+    "title": "Newsletter Archive",
+    "section": "",
+    "text": "March\nFebruary\nJanuary"
+  },
+  {
+    "objectID": "nl_archive/index.html#section-1",
+    "href": "nl_archive/index.html#section-1",
+    "title": "Newsletter Archive",
+    "section": "",
+    "text": "December\nNovember\nOctober\nMay\nApril\nMarch\nFebruary"
+  },
+  {
+    "objectID": "nl_archive/index.html#section-2",
+    "href": "nl_archive/index.html#section-2",
+    "title": "Newsletter Archive",
+    "section": "",
+    "text": "December\nNovember\nOctober\nJuly"
+  },
+  {
+    "objectID": "people/eilishogrady/eilishogrady.html#techniques",
+    "href": "people/eilishogrady/eilishogrady.html#techniques",
+    "title": "Eilish O’Grady",
+    "section": "Techniques",
+    "text": "Techniques\n\nSemantic segmentation\nDiffusion models\nInSAR"
+  },
+  {
+    "objectID": "people/eilishogrady/eilishogrady.html#research-area",
+    "href": "people/eilishogrady/eilishogrady.html#research-area",
+    "title": "Eilish O’Grady",
+    "section": "Research area",
+    "text": "Research area\n\nGeodesy\nInterferometric Synthetic Aperature Radar (InSAR)\nPhase Unwrapping"
   }
 ]

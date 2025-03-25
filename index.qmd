@@ -11,7 +11,7 @@ This website serves to organise our work and allow others to join us.
 
 We meet the first Friday of every month at 11am UK/local time in room 11.87, 11th Floor, Worsley Building, Leeds
 Institute for Data Analytics (Use [.ics-file download](assets/SciML_community_monthly_coffee-chat.ics) to add
-the event to your calendar). 
+the event to your calendar). [See here for directions](/directions/)
 
 We also organise [seminars and workshops](/events), as well as send out a monthly newsletter.
 

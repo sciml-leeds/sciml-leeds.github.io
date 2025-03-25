@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d19aaff0441ffe538fac26ca03b5f350.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -111,6 +111,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./gpus/index.html"> 
 <span class="menu-text">GPUS</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./nl_archive/index.html"> 
+<span class="menu-text">Newsletter Archive</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
@@ -139,20 +143,25 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
 
 
 
 
 <section id="scientific-machine-learning-at-the-university-of-leeds" class="level1">
 <h1>Scientific Machine Learning at the University of Leeds</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/logo_final.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:10.0%"></p>
+</figure>
+</div>
 <p>Hi!</p>
 <p>Welcome to the website for people interested in Scientific Machine Learning (SciML) at Leeds. SciML is the discipline of combining machine learning with scientific computing, for more information please see e.g.&nbsp;<a href="https://sciml.ai/roadmap/">sciml.ai</a>. This website serves to organise our work and allow others to join us.</p>
-<p>We meet the first Friday of every month at 11am UK/local time in room 11.87, 11th Floor, Worsley Building, Leeds Institute for Data Analytics (Use <a href="assets/SciML_community_monthly_coffee-chat.ics">.ics-file download</a> to add the event to your calendar).</p>
-<p>We also organise <a href=".\events">seminars and workshops</a>, as well as send out a monthly newsletter. You can view the <a href="https://us10.campaign-archive.com/home/?u=1e7160a87211972265ca1180b&amp;id=79fe3dd86f">SciML newsletter archives here</a>.</p>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Europe%2FLondon&amp;showPrint=0&amp;src=bGVlZHN1bml2ZXJzaXR5c2NpbWxAZ21haWwuY29t&amp;color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-<p>If you’re based at Leeds and would like to be added to the ‘members’ section, please fill out the following form!</p>
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y7Bcdk9kSC1KptqPvBBQQ_hUMEoxUUdSWlE1NE45VjFBWlcxMjVPUzBIUC4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
+<p>We meet the first Friday of every month at 11am UK/local time in room 11.87, 11th Floor, Worsley Building, Leeds Institute for Data Analytics (Use <a href="assets/SciML_community_monthly_coffee-chat.ics">.ics-file download</a> to add the event to your calendar). <a href=".\directions/">See here for directions</a></p>
+<p>We also organise <a href=".\events">seminars and workshops</a>, as well as send out a monthly newsletter.</p>
+<div class="googleCalendar"> 
+  <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Europe%2FLondon&amp;showPrint=0&amp;src=bGVlZHN1bml2ZXJzaXR5c2NpbWxAZ21haWwuY29t&amp;color=%23039BE5" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+</div> 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="./images/logo_final.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:10.0%"></p>
@@ -245,6 +254,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -355,6 +366,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
