@@ -1,0 +1,33 @@
+---
+title: Flo Greaves
+description: Cloud organisation
+image: flogreaves.jpg
+categories:
+- CNN
+links: <a href=https://github.com/flogrows class="btn btn-primary">Github</a><a href=https://environment.leeds.ac.uk/see/pgr/12045/flo-greaves
+  class="btn btn-secondary">Website</a>
+techniques:
+- Self-supervised learning
+- convolutional neural networks
+applications:
+- Cloud organisation
+- cloud dynamics
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Self-supervised learning
+- Convolutional neural networks
+   
+##
+## Research area
+   
+- Cloud organisation
+- Cloud dynamics
