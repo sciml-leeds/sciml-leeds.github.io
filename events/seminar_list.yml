@@ -1,8 +1,18 @@
+  - title: Using AI approaches to inform our climate risk
+    date: 2025-02-28T11:00:00Z
+    speaker: Ben Booth (UK Met Office)
+    youtube: <a href=https://www.youtube.com/watch?v=vzaKV862Ork&ab_channel=LIDA-LeedsInstituteforDataAnalytics-" class="btn btn-primary">Link</a>
+
+  - title: An image-based nowcasting approach for dust storms by predicting SEVIRI desert dust RGB composites
+    date: 2024-12-13T11:00:00Z
+    speaker: Kilian Hermes (University of Leeds)
+ 
+    youtube: <a href=https://www.youtube.com/watch?v=J-XQuKyV8f4&ab_channel=LIDA-LeedsInstituteforDataAnalytics-" class="btn btn-primary">Link</a>
   - title: Regional climate model emulator based on deep learning
     date: 2024-11-29T11:00:00Z
     speaker: Antoine Doury (French National Centre for Meteorological Research)
- 
     youtube: <a href=https://www.youtube.com/watch?v=UDB1c0XIEuE&ab_channel=LIDA-LeedsInstituteforDataAnalytics-" class="btn btn-primary">Link</a>
+
   - title: Rapid Spatio-Temporal Flood Modeling - Hydraulic GNN Approach
     date: 2023-02-16T11:00:00Z
     speaker: Roberto Bentivoglio (Delft University of Technology)
