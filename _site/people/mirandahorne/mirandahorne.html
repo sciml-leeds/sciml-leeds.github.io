@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="description" content="Computational Fluid Dynamics">
 
-<title>Miranda Horne – SciML - Leeds</title>
+<title>Miranda J S Horne – SciML - University of Leeds</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-d19aaff0441ffe538fac26ca03b5f350.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -77,11 +77,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../images/logo_final.png" alt="" class="navbar-logo">
-    </a>
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">SciML - Leeds</span>
+    <span class="navbar-title">SciML - University of Leeds</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -95,23 +92,38 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../gpus/index.html"> 
-<span class="menu-text">GPUS</span></a>
+    <a class="nav-link" href="../../about/index.html"> 
+<span class="menu-text">Committee</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../members/index.html"> 
+<span class="menu-text">Members</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../events/index.html"> 
 <span class="menu-text">Events</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../about/index.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="../../resources/index.html"> 
+<span class="menu-text">Resources</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../gpus/index.html"> 
+<span class="menu-text">GPUS</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../nl_archive/index.html"> 
+<span class="menu-text">Newsletter Archive</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/sciml-leeds/"> <i class="bi bi-github" role="img">
-</i> 
-<span class="menu-text"></span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="https://forms.office.com/pages/responsepage.aspx?id=qO3qvR3IzkWGPlIypTW3y3I2D-tf-_xJodI5_Ex_by9UNzVSSEFIRk8wTjUzQzI0UEZGOTA3R0tROS4u&amp;route=shorturl/"> 
+<span class="menu-text"><span class="btn btn-success">Click here to join the mailing list</span></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="mailto: sciml@leeds.ac.uk> sciml@leeds.ac.uk"> 
+<span class="menu-text"><span class="btn btn-info">Contact Us</span></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://teams.microsoft.com/l/channel/19%3A7983fce929d04155936c6deab6cbd595%40thread.tacv2/SciML%20Community?groupId=5293870c-9eac-462b-a99b-76ba9804eb41&amp;tenantId=bdeaeda8-c81d-45ce-863e-5232a535b7cb"> <i class="bi bi-Teams" role="img">
@@ -141,10 +153,11 @@ ul.task-list li input[type="checkbox"] {
   round " style="height: 15em; width: 15em;">
  <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Miranda Horne</h1>
+<h1 class="title">Miranda J S Horne</h1>
   <div class="quarto-categories">
     <div class="quarto-category">committee</div>
     <div class="quarto-category">Deep Learning</div>
+    <div class="quarto-category">PINNs</div>
   </div>
   </div>
 <div>
@@ -164,8 +177,9 @@ ul.task-list li input[type="checkbox"] {
 <section id="techniques" class="level2">
 <h2 data-anchor-id="techniques">Techniques</h2>
 <ul>
-<li>Operator Learning</li>
-<li>Physics Constrained Neural Networks</li>
+<li>Physics Informed Neural Networks</li>
+<li>Hard Constrained Machine Learning</li>
+<li>Fluid Dynamics PDEs</li>
 </ul>
 </section>
 <section id="section-1" class="level2">
@@ -174,9 +188,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="research-area" class="level2">
 <h2 data-anchor-id="research-area">Research area</h2>
 <ul>
-<li>Computational Fluid Dynamics</li>
-<li>Inverse Modelling</li>
-<li>Interior Air Control</li>
+<li>Hard physics constraints for fluids</li>
 </ul>
 
 
@@ -259,6 +271,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -369,6 +383,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

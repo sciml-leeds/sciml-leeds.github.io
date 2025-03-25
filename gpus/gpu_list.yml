@@ -3,21 +3,21 @@
   organization: University of Leeds
   hardware: 2 nodes with 2 x NVIDIA K80s, 6 nodes with 4 x NVIDIA P100s
   access: Anyone at Leeds
-  notes: BEING DEPRECIATED, please see AIRE
+  notes: DEPRECIATED, please see AIRE
 
 - name: ARC4
   path: https://arcdocs.leeds.ac.uk/getting_started/request_hpc_acct.html
   organization: University of Leeds
   hardware: 3 nodes with 4 x NVIDIA V100s
   access: Anyone at Leeds
-  notes: BEING DEPRECIATED, please see AIRE
+  notes: DEPRECIATED, please see AIRE
 
 - name: AIRE
-  path: https://arcdocs.leeds.ac.uk/getting_started/request_hpc_acct.html
+  path: https://arc.leeds.ac.uk/platforms/aire/
   organization: University of Leeds
-  hardware: TBC
+  hardware: 28 nodes with 3 x NVIDIA L40S 48GB GPUs each
   access: Anyone at Leeds
-  notes: ETA online - Nov/Dec 2024
+  notes: Replacing ARC3 and ARC4
 
 - name: JASMIN
   path: https://www.jasmin.ac.uk
