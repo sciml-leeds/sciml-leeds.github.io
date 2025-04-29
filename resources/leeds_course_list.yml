@@ -1,8 +1,7 @@
 - name: COMP3611 Machine Learning
   path: "https://catalogue.leeds.ac.uk/Module/UG/COMP/3611/202425"
   host: University of Leeds
-  description:  3rd year undergraduate module that runs in semester 1. Module leader is Dr Marc de Kamps (M.deKamps@leeds.ac.uk). Additional resources, as well as full notes, 
-  available at www.github.com/dekamps/ML-Reader/tree/main 
+  description:  3rd year undergraduate module that runs in semester 1. Module leader is Dr Marc de Kamps (M.deKamps@leeds.ac.uk).
   
   
 - name: COMP5611M Machine Learning 
