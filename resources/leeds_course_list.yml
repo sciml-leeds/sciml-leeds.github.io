@@ -1,8 +1,8 @@
 - name: COMP3611 Machine Learning
   path: "https://github.com/dekamps/ML-Reader/tree/main"
   host: University of Leeds
-  description:  "3rd year undergraduate module that runs in semester 1. Module leader is Dr Marc de Kamps (M.deKamps@leeds.ac.uk). 
-  Additional resources and full notes can be found on on Dr de Kamps\' github by following the link."
+  description:  3rd year undergraduate module that runs in semester 1. Module leader is Dr Marc de Kamps (M.deKamps@leeds.ac.uk). 
+  Additional resources and full notes can be found on on Dr de Kamps github by following the link.
   
   
 - name: COMP5611M Machine Learning 
