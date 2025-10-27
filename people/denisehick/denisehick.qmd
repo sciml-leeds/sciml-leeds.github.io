@@ -1,0 +1,36 @@
+---
+title: Denise Hick
+description: Soil property prediction
+image: denisehick.png
+categories:
+- committee
+- Machine learning
+- Remote sensing
+links: <a href=https://github.com/DeniseHck class="btn btn-primary">Github</a>
+  <a href=https://environment.leeds.ac.uk/see/pgr/12767/denise-hick class="btn
+      btn-secondary">Website</a>
+techniques:
+- Machine Learning (Random Forest)
+applications:
+- Digital soil property mapping
+- Tracking conservation agriculture uptake
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Machine Learning (Random Forest)
+- Remote sensing
+- Spectroscopy
+   
+##
+## Research area
+   
+- Soil
+- Agriculture
