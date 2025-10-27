@@ -1,0 +1,36 @@
+---
+title: Martin Parker
+description: Crop modelling
+image: portrait_placeholder.png
+categories:
+- committee
+- Probabilistic/statistical modelling
+- Machine learning
+links: 
+  <a href=https://environment.leeds.ac.uk/pgr/12985/martin-parker class="btn
+      btn-secondary">Website</a>
+techniques:
+- Machine Learning
+- Probabilistic/statistical modelling
+- Remote Sensing
+applications:
+- Crop Modelling
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- Remote Sensing
+- Machine Learning
+- Probabilistic/statistical modelling
+   
+##
+## Research area
+   
+- Crop modelling
