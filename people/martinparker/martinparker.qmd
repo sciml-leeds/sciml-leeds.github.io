@@ -1,7 +1,7 @@
 ---
 title: Martin Parker
 description: Crop modelling
-image: portrait_placeholder.png
+image: MP_Face_cropped.JPG
 categories:
 - committee
 - Probabilistic/statistical modelling
