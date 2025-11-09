@@ -3,8 +3,8 @@
 ![](../images/logo_final.png){width=10% fig-align="center"}
 
 ## 2025
-* <a href="03Nov25_SciML_newsletter.pdf" download="">November</a>
-* <a href="29sept25_SciML_newsletter.pdf" download="">October</a>
+* <a href="November 25 newsletter pdf.pdf" download="">November</a>
+* <a href="October 25 newsletter pdf.pdf" download="">October</a>
 * <a href="8May25 newsletter pdf.pdf" download="">May</a>
 * <a href="April 25 newsletter pdf.pdf" download="">April</a>
 * <a href="SciML_Leeds_Mar25_newsletter.pdf" download="">March</a>
