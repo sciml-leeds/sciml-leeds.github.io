@@ -1,6 +1,16 @@
+- title: "From Accurate to Trustworthy: Uncertainty Quantification and Physical Consistency in Scientific Machine Learning"
+  date: 2025-11-21T11:00:00Z
+  speaker: "Honglin Wen (Shanghai Jiao Tong University, Imperial College London)"
+  youtube: "<a href=\"https://www.youtube.com/watch?v=8zpxfELic28\" class=\"btn btn-primary\">Link</a>"
+
+- title: "FTorch: a library for coupling PyTorch models to Fortran"
+  date: 2025-07-18T11:00:00Z
+  speaker: "Jack Atkinson (University of Cambridge)"
+  youtube: "<a href=\"https://www.youtube.com/watch?v=je7St0t_W9A\" class=\"btn btn-primary\">Link</a>"
+
 - title: "Advancing Dexterous Manipulation: From Grasp Synthesis to Long Horizon Task Planning"
   date: 2025-06-27T11:00:00Z
-  speaker: "Kunpeng Yao"
+  speaker: "Kunpeng Yao (University of Leeds)"
   youtube: "<a href=\"https://www.youtube.com/watch?v=joKAm9Mcrog\" class=\"btn btn-primary\">Link</a>"
 
 - title: "Applying Computer Vision to InSAR Data for Volcanic Unrest Monitoring"
