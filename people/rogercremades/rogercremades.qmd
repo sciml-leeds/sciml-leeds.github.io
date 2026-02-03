@@ -1,0 +1,32 @@
+---
+title: Roger Cremades
+description: Cascading events in socio-technical systems
+image: portrait_placeholder.png
+categories:
+- Complex systems science
+- Cellular automata
+links: <a href=https://environment.leeds.ac.uk/sustainability-research-institute/staff/13034/dr-roger-cremades class="btn
+      btn-secondary">Website</a>
+techniques:
+- Complex systems science
+- Cellular automata
+applications:
+- Cascading events in socio-technical systems
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- complex systems science
+- cellular automata
+   
+##
+## Research area
+   
+- cascading events in socio-technical systems
