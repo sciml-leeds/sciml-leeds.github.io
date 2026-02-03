@@ -5,7 +5,7 @@ image: MP_Face_cropped.JPG
 categories:
 - committee
 - Probabilistic/statistical modelling
-- Machine learning
+- Machine Learning
 links: 
   <a href=https://environment.leeds.ac.uk/pgr/12985/martin-parker class="btn
       btn-secondary">Website</a>

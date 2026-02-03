@@ -4,13 +4,13 @@ description: Soil property prediction
 image: denisehick.png
 categories:
 - committee
-- Machine learning
+- Machine Learning
 - Remote sensing
 links: <a href=https://github.com/DeniseHck class="btn btn-primary">Github</a>
   <a href=https://environment.leeds.ac.uk/see/pgr/12767/denise-hick class="btn
       btn-secondary">Website</a>
 techniques:
-- Machine Learning (Random Forest)
+- Machine Learning
 applications:
 - Digital soil property mapping
 - Tracking conservation agriculture uptake
@@ -25,7 +25,7 @@ about:
 ##
 ## Techniques
    
-- Machine Learning (Random Forest)
+- Machine Learning
 - Remote sensing
 - Spectroscopy
    
