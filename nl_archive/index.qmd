@@ -3,6 +3,7 @@
 ![](../images/logo_final.png){width=10% fig-align="center"}
 
 ## 2026
+* <a href="sciml_newsletter_26_11.pdf" download="">November</a>
 * <a href="October 26 newsletter.pdf" download="">October</a>
 * <a href="June 26 newsletter pdf.pdf" download="">June</a>
 * <a href="May 26 newsletter pdf.pdf" download="">May</a>

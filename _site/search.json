@@ -1,801 +1,45 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Below is a list of Machine Learning tutorials and resources that we have found useful. If you find something that you think should be added to the list, please let us know!"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "objectID": "resources/index.html#courses",
+    "href": "resources/index.html#courses",
+    "title": "Resources",
+    "section": "Courses",
+    "text": "Courses\n\nCoursera\nCoursera is an open online course provider, and with your University of Leeds login, you can have free access to thousands of courses, from hundreds of universities.\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nHost\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMathematics for Machine Learning Specialization\n\n\nCoursera\n\n\nPrerequisite mathematics for applications in data science and machine learning.\n\n\n\n\n\n\nMachine Learning Theory and Hands-on Practice with Python Specialization\n\n\nCoursera\n\n\nDevelop Foundational Machine Learning Skills. Add Supervised, Unsupervised, and Deep Learning techniques to your Data Science toolkit.\n\n\n\n\n\n\nDeep learning in Electronic Health Records\n\n\nCoursera\n\n\nTrain deep learning architectures such as Multi-layer perceptron, Convolutional Neural Networks and Recurrent Neural Networks for classification.\n\n\n\n\n\n\nDeep Learning with PyTorch, Image Segmentation\n\n\nCoursera\n\n\nUsing U-Net architecture for segmentation.\n\n\n\n\n\n\nTensorFlow 2 for Deep Learning Specialization\n\n\nCoursera\n\n\nTensorFlow 2.\n\n\n\n\n\n\nNo matching items\n\n\n\nUniversity of Leeds\nTo get on any University of Leeds module (to attend lectures and have access to course materials) email the module leader, explaining that you are a PhD student wanting to take their module.\nYou do not have to be in the School of Computer Science to take the computing modules, but:\n\nCheck you satisfy the prerequisites of the modules (ask your supervisor if you are unsure).\nYou should ask your supervisor if the module is relevant to your project.\nYou may find getting on the module more challenging if you are coming from another school (especially those not in Engineering and Physical Sciences faculty (EPS)).\nYou can ask us at SciML (or your supervisor) to advocate for you to get on these modules.\n\nSciML are working on getting access to the course materials, but if you are not on minerva you will not be able to attend the lectures themselves.\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nHost\n\n\n\nDescription\n\n\n\n\n\n\n\n\nCOMP3611 Machine Learning\n\n\nUniversity of Leeds\n\n\n3rd year undergraduate module that runs in semester 1. Module leader is Dr Marc de Kamps (M.deKamps@leeds.ac.uk).\n\n\n\n\n\n\nCOMP5611M Machine Learning\n\n\nUniversity of Leeds\n\n\nTaught masters module that runs in semester 2. The module leader is Dr Yanlong Huang ( Y.L.Huang@leeds.ac.uk).\n\n\n\n\n\n\nCOMP5625M Deep Learning\n\n\nUniversity of Leeds\n\n\nTaught masters module that runs in semester 2. The module leader is Dr Sharib Ali (S.S.Ali@leeds.ac.uk).\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/2020-01-14-test-markdown-post.html",
-    "href": "posts/2020-01-14-test-markdown-post.html",
-    "title": "An Example Markdown Post",
-    "section": "",
-    "text": "Jekyll requires blog post files to be named according to the following format:\nYEAR-MONTH-DAY-filename.md\nWhere YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files.\nThe first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above.\n\n\n\nYou can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule:\n\n\n\n\nHere’s a list:\n\nitem 1\nitem 2\n\nAnd a numbered list:\n\nitem 1\nitem 2\n\n\n\n\n\nThis is a quotation\n\n{% include alert.html text=“You can include alert boxes” %}\n…and…\n{% include info.html text=“You can include info boxes” %}\n\n\n\n\n\n\n\nYou can format text and code per usual\nGeneral preformatted text:\n# Do a thing\ndo_thing()\nPython code and output:\n# Prints '2'\nprint(1+1)\n2\nFormatting text as shell commands:\necho \"hello world\"\n./some_script.sh --option \"value\"\nwget https://example.com/cat_photo1.png\nFormatting text as YAML:\nkey: value\n- another_key: \"another value\"\n\n\n\n\n\n\nColumn 1\nColumn 2\n\n\n\n\nA thing\nAnother thing\n\n\n\n\n\n\n{% twitter https://twitter.com/jakevdp/status/1204765621767901185?s=20 %}"
+    "objectID": "resources/index.html#notebooks",
+    "href": "resources/index.html#notebooks",
+    "title": "Resources",
+    "section": "Notebooks",
+    "text": "Notebooks\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nOrganisation\n\n\n\nDescription\n\n\n\n\n\n\n\n\nCEMAC Jupyter Notebooks\n\n\nLIFD and CEMAC, University of Leeds\n\n\nJupyter notebook tutorials on Convolutional Neural Networks (CNNs), Physics Informed Neural Networks (PINNs), Gaussian Processes, Random Forests, Generative Adversarial Networks (GANs), Auto Encoders, Dimensionality Reduction and XGBoost.\n\n\n\n\n\n\nThe Turing Way\n\n\nThe Alan Turing Institute\n\n\nHandbook to reproducible, ethical and collaborative data science. Includes information on version control, open-source code and licensing.\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/2020-01-14-test-markdown-post.html#basic-setup",
-    "href": "posts/2020-01-14-test-markdown-post.html#basic-setup",
-    "title": "An Example Markdown Post",
-    "section": "",
-    "text": "Jekyll requires blog post files to be named according to the following format:\nYEAR-MONTH-DAY-filename.md\nWhere YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files.\nThe first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above."
+    "objectID": "resources/index.html#books-and-articles",
+    "href": "resources/index.html#books-and-articles",
+    "title": "Resources",
+    "section": "Books and Articles",
+    "text": "Books and Articles\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nAuthor\n\n\n\nDescription\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nIan Goodfellow, Yoshua Bengio, Aaron Courville\n\n\nComprehensive guide to all of the basic machine learning tools.\n\n\n\n\n\n\nProgramming pytorch for deep learning\n\n\nIan Pointer\n\n\nBuild basic models alongside this book, which comes with coding projects and model solutions.\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/2020-01-14-test-markdown-post.html#basic-formatting",
-    "href": "posts/2020-01-14-test-markdown-post.html#basic-formatting",
-    "title": "An Example Markdown Post",
-    "section": "",
-    "text": "You can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule:"
-  },
-  {
-    "objectID": "posts/2020-01-14-test-markdown-post.html#lists",
-    "href": "posts/2020-01-14-test-markdown-post.html#lists",
-    "title": "An Example Markdown Post",
-    "section": "",
-    "text": "Here’s a list:\n\nitem 1\nitem 2\n\nAnd a numbered list:\n\nitem 1\nitem 2"
-  },
-  {
-    "objectID": "posts/2020-01-14-test-markdown-post.html#boxes-and-stuff",
-    "href": "posts/2020-01-14-test-markdown-post.html#boxes-and-stuff",
-    "title": "An Example Markdown Post",
-    "section": "",
-    "text": "This is a quotation\n\n{% include alert.html text=“You can include alert boxes” %}\n…and…\n{% include info.html text=“You can include info boxes” %}"
-  },
-  {
-    "objectID": "posts/2020-01-14-test-markdown-post.html#code",
-    "href": "posts/2020-01-14-test-markdown-post.html#code",
-    "title": "An Example Markdown Post",
-    "section": "",
-    "text": "You can format text and code per usual\nGeneral preformatted text:\n# Do a thing\ndo_thing()\nPython code and output:\n# Prints '2'\nprint(1+1)\n2\nFormatting text as shell commands:\necho \"hello world\"\n./some_script.sh --option \"value\"\nwget https://example.com/cat_photo1.png\nFormatting text as YAML:\nkey: value\n- another_key: \"another value\""
-  },
-  {
-    "objectID": "posts/2020-01-14-test-markdown-post.html#tables",
-    "href": "posts/2020-01-14-test-markdown-post.html#tables",
-    "title": "An Example Markdown Post",
-    "section": "",
-    "text": "Column 1\nColumn 2\n\n\n\n\nA thing\nAnother thing"
-  },
-  {
-    "objectID": "posts/2020-01-14-test-markdown-post.html#tweetcards",
-    "href": "posts/2020-01-14-test-markdown-post.html#tweetcards",
-    "title": "An Example Markdown Post",
-    "section": "",
-    "text": "{% twitter https://twitter.com/jakevdp/status/1204765621767901185?s=20 %}"
-  },
-  {
-    "objectID": "posts/2020-01-14-test-markdown-post.html#footnotes",
-    "href": "posts/2020-01-14-test-markdown-post.html#footnotes",
-    "title": "An Example Markdown Post",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis is the footnote.↩︎"
-  },
-  {
-    "objectID": "people/yutaroshigemitsu/yutaroshigemitsu.html#techniques",
-    "href": "people/yutaroshigemitsu/yutaroshigemitsu.html#techniques",
-    "title": "Yutaro Shigemitsu",
-    "section": "Techniques",
-    "text": "Techniques\n\nInterferometric sar (insar)\ndrone sar\npinn (under training)"
-  },
-  {
-    "objectID": "people/yutaroshigemitsu/yutaroshigemitsu.html#research-area",
-    "href": "people/yutaroshigemitsu/yutaroshigemitsu.html#research-area",
-    "title": "Yutaro Shigemitsu",
-    "section": "Research area",
-    "text": "Research area\n\nMonitoring volcano\nmonitoring seasonal deformation changes"
-  },
-  {
-    "objectID": "people/trystansurawy-stepney/trystansurawy-stepney.html#techniques",
-    "href": "people/trystansurawy-stepney/trystansurawy-stepney.html#techniques",
-    "title": "Trystan Surawy-Stepney",
-    "section": "Techniques",
-    "text": "Techniques\n\nWeakly-supervised learning\nConvolutional networks\nNumerical modelling"
-  },
-  {
-    "objectID": "people/trystansurawy-stepney/trystansurawy-stepney.html#research-area",
-    "href": "people/trystansurawy-stepney/trystansurawy-stepney.html#research-area",
-    "title": "Trystan Surawy-Stepney",
-    "section": "Research area",
-    "text": "Research area\n\nGlacier damage identification\nSAR data\nGlacial process modelling"
-  },
-  {
-    "objectID": "people/shuzhang/shuzhang.html#techniques",
-    "href": "people/shuzhang/shuzhang.html#techniques",
-    "title": "Shu Zhang",
-    "section": "Techniques",
-    "text": "Techniques\n\nRandom Forests\nXGBoost\nLSTM"
-  },
-  {
-    "objectID": "people/shuzhang/shuzhang.html#research-area",
-    "href": "people/shuzhang/shuzhang.html#research-area",
-    "title": "Shu Zhang",
-    "section": "Research area",
-    "text": "Research area\n\nTropospheric ozone forcast\nWeather classification\nTime series decomposition of air pollutants"
-  },
-  {
-    "objectID": "people/samuelbancroft/samuelbancroft.html#techniques",
-    "href": "people/samuelbancroft/samuelbancroft.html#techniques",
-    "title": "Samuel Bancroft",
-    "section": "Techniques",
-    "text": "Techniques\n\nSemi-supervised/self-supervised learning\nconvolutional networks"
-  },
-  {
-    "objectID": "people/samuelbancroft/samuelbancroft.html#research-area",
-    "href": "people/samuelbancroft/samuelbancroft.html#research-area",
-    "title": "Samuel Bancroft",
-    "section": "Research area",
-    "text": "Research area\n\ncrop type classification\nsatellite time series classification\ncrop yield estimation"
-  },
-  {
-    "objectID": "people/phillivermore/phillivermore.html#techniques",
-    "href": "people/phillivermore/phillivermore.html#techniques",
-    "title": "Phil Livermore",
-    "section": "Techniques",
-    "text": "Techniques\n\nPhysics informed neural networks"
-  },
-  {
-    "objectID": "people/phillivermore/phillivermore.html#research-area",
-    "href": "people/phillivermore/phillivermore.html#research-area",
-    "title": "Phil Livermore",
-    "section": "Research area",
-    "text": "Research area\n\nReconstruction of earth/planetary magnetic fields from sparse data\ndeep earth geophysics\ninverse theory"
-  },
-  {
-    "objectID": "people/mirandahorne/mirandahorne.html#techniques",
-    "href": "people/mirandahorne/mirandahorne.html#techniques",
-    "title": "Miranda J S Horne",
-    "section": "Techniques",
-    "text": "Techniques\n\nPhysics Informed Neural Networks\nHard Constrained Machine Learning\nFluid Dynamics PDEs"
-  },
-  {
-    "objectID": "people/mirandahorne/mirandahorne.html#research-area",
-    "href": "people/mirandahorne/mirandahorne.html#research-area",
-    "title": "Miranda J S Horne",
-    "section": "Research area",
-    "text": "Research area\n\nHard physics constraints for fluids"
-  },
-  {
-    "objectID": "people/markrichardson/markrichardson.html#techniques",
-    "href": "people/markrichardson/markrichardson.html#techniques",
-    "title": "Mark Richardson",
-    "section": "Techniques",
-    "text": "Techniques\n\nFortran\nmpi\nopenmp"
-  },
-  {
-    "objectID": "people/markrichardson/markrichardson.html#research-area",
-    "href": "people/markrichardson/markrichardson.html#research-area",
-    "title": "Mark Richardson",
-    "section": "Research area",
-    "text": "Research area\n\nMet office um\ndynamo\ncesm"
-  },
-  {
-    "objectID": "people/longweichen/longweichen.html#techniques",
-    "href": "people/longweichen/longweichen.html#techniques",
-    "title": "Longwei Chen",
-    "section": "Techniques",
-    "text": "Techniques\n\nPhysics-informed neural networks\ndeeponet\nBayesian PINN"
-  },
-  {
-    "objectID": "people/longweichen/longweichen.html#research-area",
-    "href": "people/longweichen/longweichen.html#research-area",
-    "title": "Longwei Chen",
-    "section": "Research area",
-    "text": "Research area\n\nPlanetary magnetic field modelling\nasteroid gravity modelling\ngeophysical inverse problem"
-  },
-  {
-    "objectID": "people/leifdenby/leifdenby.html#techniques",
-    "href": "people/leifdenby/leifdenby.html#techniques",
-    "title": "Leif Denby",
-    "section": "Techniques",
-    "text": "Techniques\n\nSelf-supervised/unsupervised learning\nconvolutional networks"
-  },
-  {
-    "objectID": "people/leifdenby/leifdenby.html#research-area",
-    "href": "people/leifdenby/leifdenby.html#research-area",
-    "title": "Leif Denby",
-    "section": "Research area",
-    "text": "Research area\n\nmeso-scale cloud organisation\ndenoising of LIDAR water vapour observations"
-  },
-  {
-    "objectID": "people/johnchongzhang/johnchongzhang.html#techniques",
-    "href": "people/johnchongzhang/johnchongzhang.html#techniques",
-    "title": "John Chong Zhang",
-    "section": "Techniques",
-    "text": "Techniques\n\nNeural networks\ninversions\nfilters"
-  },
-  {
-    "objectID": "people/johnchongzhang/johnchongzhang.html#research-area",
-    "href": "people/johnchongzhang/johnchongzhang.html#research-area",
-    "title": "John Chong Zhang",
-    "section": "Research area",
-    "text": "Research area\n\nmineral system exploration\nsubsurface structure\ngeophysical potential fields"
-  },
-  {
-    "objectID": "people/joegallear/joegallear.html#techniques",
-    "href": "people/joegallear/joegallear.html#techniques",
-    "title": "Joe Gallear",
-    "section": "Techniques",
-    "text": "Techniques\n\nSupervised learning\nneural networks\nrandom forests"
-  },
-  {
-    "objectID": "people/joegallear/joegallear.html#research-area",
-    "href": "people/joegallear/joegallear.html#research-area",
-    "title": "Joe Gallear",
-    "section": "Research area",
-    "text": "Research area\n\nCrop yield estimation\nimpacts of climate variability\neffects of extreme events"
-  },
-  {
-    "objectID": "people/jakublewandowski/jakublewandowski.html#techniques",
-    "href": "people/jakublewandowski/jakublewandowski.html#techniques",
-    "title": "Jakub Lewandowski",
-    "section": "Techniques",
-    "text": "Techniques\n\nSupervised learning\nphysics-informed neural networks"
-  },
-  {
-    "objectID": "people/jakublewandowski/jakublewandowski.html#research-area",
-    "href": "people/jakublewandowski/jakublewandowski.html#research-area",
-    "title": "Jakub Lewandowski",
-    "section": "Research area",
-    "text": "Research area\n\nWeather nowcasting\nparametrization of atmospheric processes"
-  },
-  {
-    "objectID": "people/jacksmith/jacksmith.html#techniques",
-    "href": "people/jacksmith/jacksmith.html#techniques",
-    "title": "Jack Smith",
-    "section": "Techniques",
-    "text": "Techniques\n\nCnns\nsynthetic data\ngans"
-  },
-  {
-    "objectID": "people/jacksmith/jacksmith.html#research-area",
-    "href": "people/jacksmith/jacksmith.html#research-area",
-    "title": "Jack Smith",
-    "section": "Research area",
-    "text": "Research area\n\nSemantic segmentation of masonry lined tunnel joints\nstructural condition assessment"
-  },
-  {
-    "objectID": "people/fergusshone/fergusshone.html#techniques",
-    "href": "people/fergusshone/fergusshone.html#techniques",
-    "title": "Fergus Shone",
-    "section": "Techniques",
-    "text": "Techniques\n\nInformed machine learning\nPhysics-informed neural networks"
-  },
-  {
-    "objectID": "people/fergusshone/fergusshone.html#research-area",
-    "href": "people/fergusshone/fergusshone.html#research-area",
-    "title": "Fergus Shone",
-    "section": "Research area",
-    "text": "Research area\n\nHaemodynamic flow super-resolution\n4D-flow MRI\nLeft ventricular remodelling"
-  },
-  {
-    "objectID": "people/drpeymanbabakhani/drpeymanbabakhani.html#techniques",
-    "href": "people/drpeymanbabakhani/drpeymanbabakhani.html#techniques",
-    "title": "Peyman Babakhani",
-    "section": "Techniques",
-    "text": "Techniques\n\nDeep learning\nphysics-informed ai\nrandom forest"
-  },
-  {
-    "objectID": "people/drpeymanbabakhani/drpeymanbabakhani.html#research-area",
-    "href": "people/drpeymanbabakhani/drpeymanbabakhani.html#research-area",
-    "title": "Peyman Babakhani",
-    "section": "Research area",
-    "text": "Research area\n\nGlobal carbon cycling\nenvironmental contaminant transport\ngroundwater modelling"
-  },
-  {
-    "objectID": "people/dodydharma/dodydharma.html#techniques",
-    "href": "people/dodydharma/dodydharma.html#techniques",
-    "title": "Dody Dharma",
-    "section": "Techniques",
-    "text": "Techniques\n\nSupervised learning\nContinuous Convolution\nGraph Neural Networks\nMultilayer Perceptron\nLSTM"
-  },
-  {
-    "objectID": "people/dodydharma/dodydharma.html#research-area",
-    "href": "people/dodydharma/dodydharma.html#research-area",
-    "title": "Dody Dharma",
-    "section": "Research area",
-    "text": "Research area\n\nDeformbale Solid and Fluid Simulation\nVorticity Conservation"
-  },
-  {
-    "objectID": "people/clairebartholomew/clairebartholomew.html#techniques",
-    "href": "people/clairebartholomew/clairebartholomew.html#techniques",
-    "title": "Claire Bartholomew",
-    "section": "Techniques",
-    "text": "Techniques\n\nSupervised learning\nCNNs"
-  },
-  {
-    "objectID": "people/clairebartholomew/clairebartholomew.html#research-area",
-    "href": "people/clairebartholomew/clairebartholomew.html#research-area",
-    "title": "Claire Bartholomew",
-    "section": "Research area",
-    "text": "Research area\n\nPrecipitation nowcasting\nConvection / thunderstorm prediction"
-  },
-  {
-    "objectID": "people/calums.skene/calums.skene.html#techniques",
-    "href": "people/calums.skene/calums.skene.html#techniques",
-    "title": "Calum S. Skene",
-    "section": "Techniques",
-    "text": "Techniques\n\nNeural networks\nNeural operators\nReservoir computing"
-  },
-  {
-    "objectID": "people/calums.skene/calums.skene.html#research-area",
-    "href": "people/calums.skene/calums.skene.html#research-area",
-    "title": "Calum S. Skene",
-    "section": "Research area",
-    "text": "Research area\n\nGeophysical and astrophysical turbulence"
-  },
-  {
-    "objectID": "people/andyturner/andyturner.html#techniques",
-    "href": "people/andyturner/andyturner.html#techniques",
-    "title": "Andy Turner",
-    "section": "Techniques",
-    "text": "Techniques\n\nMulti-layered Perceptron\nFuzzy Inference"
-  },
-  {
-    "objectID": "people/andyturner/andyturner.html#research-area",
-    "href": "people/andyturner/andyturner.html#research-area",
-    "title": "Andy Turner",
-    "section": "Research area",
-    "text": "Research area\n\nPredicting spatial and temporal change\nForecasting climate change impacts\nRiver level forecating"
-  },
-  {
-    "objectID": "people/andyhooper/andyhooper.html#techniques",
-    "href": "people/andyhooper/andyhooper.html#techniques",
-    "title": "Andy Hooper",
-    "section": "Techniques",
-    "text": "Techniques\n\nIca\ndeep learning"
-  },
-  {
-    "objectID": "people/andyhooper/andyhooper.html#research-area",
-    "href": "people/andyhooper/andyhooper.html#research-area",
-    "title": "Andy Hooper",
-    "section": "Research area",
-    "text": "Research area\n\nRadar interferometry (insar)\nvolcano deformation\ntectonic deformation"
-  },
-  {
-    "objectID": "people/alhanofalolyan/alhanofalolyan.html#techniques",
-    "href": "people/alhanofalolyan/alhanofalolyan.html#techniques",
-    "title": "Alhanof Alolyan",
-    "section": "Techniques",
-    "text": "Techniques\n\nDeep reinforcement learning\ndeep learning"
-  },
-  {
-    "objectID": "people/alhanofalolyan/alhanofalolyan.html#research-area",
-    "href": "people/alhanofalolyan/alhanofalolyan.html#research-area",
-    "title": "Alhanof Alolyan",
-    "section": "Research area",
-    "text": "Research area\n\nComputer-aided design\ncrowd simulation"
-  },
-  {
-    "objectID": "gpus/index.html",
-    "href": "gpus/index.html",
-    "title": "GPU resource list",
-    "section": "",
-    "text": "Below is an overview of GPU platforms available for research by staff at the University of Leeds:\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nOrganisation\n\n\nHardware\n\n\nAccess\n\n\nNotes\n\n\n\n\n\n\nARC3\n\n\nUniversity of Leeds\n\n\n2 nodes with 2 x NVIDIA K80s, 6 nodes with 4 x NVIDIA P100s\n\n\nAnyone at Leeds\n\n\nBEING DEPRECIATED, please see AIRE\n\n\n\n\nARC4\n\n\nUniversity of Leeds\n\n\n3 nodes with 4 x NVIDIA V100s\n\n\nAnyone at Leeds\n\n\nBEING DEPRECIATED, please see AIRE\n\n\n\n\nAIRE\n\n\nUniversity of Leeds\n\n\nTBC\n\n\nAnyone at Leeds\n\n\nETA online - Nov/Dec 2024\n\n\n\n\nJASMIN\n\n\nNERC\n\n\n6x NVidia GV100GL across 3 nodes\n\n\ntbc\n\n\n \n\n\n\n\nDiRAC (Tursa)\n\n\nEPCC\n\n\n144 nodes with 4x Nvidia RedStone A100-40 each\n\n\nAnnual call for project proposals\n\n\n \n\n\n\n\nMAGEO\n\n\nPML\n\n\n5 NVIDIA DGX-1 MaxQ nodes\n\n\nNERC related research\n\n\n \n\n\n\n\nBEDE\n\n\nDurham\n\n\n38x Nvidia V100 across 38 nodes in cluster\n\n\nEPSRC funded projects (pre EPSRC-application access available)\n\n\n \n\n\n\n\nLEARN\n\n\nUoL\n\n\n1 DGX A100\n\n\n \n\n\n \n\n\n\n\nGoogle Colab\n\n\nGoogle\n\n\nNVidia k80s\n\n\nFree through Google account\n\n\n \n\n\n\n\nKaggle Notebooks\n\n\nKaggle\n\n\n30 GPU hrs/week\n\n\nFree through Kaggle account\n\n\n \n\n\n\n\nGradient\n\n\nPaperspace\n\n\nM4000 in free tier\n\n\nFree or paid tiers\n\n\n \n\n\n\n\nGraphcore\n\n\nPaperspace\n\n\nGraphcore IPU-POD16\n\n\nmax_hours_per_day - 6hrs/day, Free during evaluation period\n\n\n \n\n\n\n\n\nNo matching items\n\n\n\nEuroHPC JU - supercomputers"
-  },
-  {
-    "objectID": "events/2023-10-27-SINDy_Challenges.html#installing-pysindy",
-    "href": "events/2023-10-27-SINDy_Challenges.html#installing-pysindy",
+    "objectID": "posts/test_post_v2.html#installing-pysindy",
+    "href": "posts/test_post_v2.html#installing-pysindy",
     "title": "SINDy - Challenge",
     "section": "Installing PySINDy",
     "text": "Installing PySINDy\nTo install the newest version of PySINDy, you must follow the instructions on the documentation. The version available through Conda is much older than the newest release. See https://pysindy.readthedocs.io/en/latest/index.html#installation.\n!pip install pysindy --quiet\n\u001b[2K     \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m121.0/121.0 kB\u001b[0m \u001b[31m3.1 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\n\u001b[?25h\nimport matplotlib.pyplot as plt\nfrom mpl_toolkits.mplot3d import Axes3D\nimport numpy as np\nfrom scipy.integrate import solve_ivp\nfrom sklearn.metrics import mean_squared_error\n\nimport os\n#print(os.getcwd())\n#os.chdir(\"../PhD/PhD/ANAET\")\nfrom pysindy.utils import lorenz, lorenz_control, enzyme\nimport pysindy as ps\n\n# bad code but allows us to ignore warnings\nimport warnings\nfrom scipy.integrate.odepack import ODEintWarning\nwarnings.simplefilter(\"ignore\", category=UserWarning)\nwarnings.simplefilter(\"ignore\", category=FutureWarning)\nwarnings.simplefilter(\"ignore\", category=ODEintWarning)\n\n# Seed the random number generators for reproducibility\nnp.random.seed(100)\n\n# Initialize integrator keywords for solve_ivp to replicate the odeint defaults\nintegrator_keywords = {}\nintegrator_keywords['rtol'] = 1e-12\nintegrator_keywords['method'] = 'LSODA'\nintegrator_keywords['atol'] = 1e-12\n\nimport matplotlib as mpl\nmpl.rcParams[\"xtick.labelsize\"]=22\nmpl.rcParams[\"ytick.labelsize\"]=22\nmpl.rcParams[\"axes.labelsize\"]=26\nmpl.rcParams['mathtext.fontset'] = 'stix'\nmpl.rcParams['font.family'] = 'STIXGeneral'\n&lt;ipython-input-3-92171691bfc6&gt;:15: DeprecationWarning: Please use `ODEintWarning` from the `scipy.integrate` namespace, the `scipy.integrate.odepack` namespace is deprecated.\n  from scipy.integrate.odepack import ODEintWarning"
   },
   {
-    "objectID": "events/2023-10-27-SINDy_Challenges.html#mean-field-model",
-    "href": "events/2023-10-27-SINDy_Challenges.html#mean-field-model",
+    "objectID": "posts/test_post_v2.html#mean-field-model",
+    "href": "posts/test_post_v2.html#mean-field-model",
     "title": "SINDy - Challenge",
     "section": "Mean field model",
     "text": "Mean field model\nOne reduced-order model of flow past a cylinder is the coupled system of equations \\[\\begin{align}\n\\dot{x} &= \\mu x- \\omega y - xz,\\\\\n\\dot{y} &= \\mu y + \\omega x -yz,\\\\\n\\dot{z} & = -z + x^2 + y^2\n\\end{align}\\] where \\(\\mu\\) and \\(\\omega\\) are scalars. \\(\\omega\\) gives the frequency of oscillation.\nTasks: 1. Generate a training set of data using the initial conditions \\([0.01, 0.01, 0.1]\\), \\(\\omega=1\\) and \\(\\mu=0.1\\). Use SINDy to identify the model. 2. Now fit a SINDy model to data only when the model is on the stable limit cycle (the data is only oscillating). What happens to the model?\nmu = 0.1\nomega =1\nA=-1\nlam = 1\ndef cylinder_wake(t, xv):\n    x,y,z = xv\n    return [mu*x-omega*y+A*x*z,\n            omega*x + mu*y + A*y*z,\n            -z+x**2+y**2]\ny0 = [0.01, 0.01, 0.1]"
-  },
-  {
-    "objectID": "events/2023-05-05-Reinforcement_learning_Challenges.html#import-packages-and-setup-your-environment",
-    "href": "events/2023-05-05-Reinforcement_learning_Challenges.html#import-packages-and-setup-your-environment",
-    "title": "Reinforcement learning introduction - Challenge",
-    "section": "Import packages and setup your environment",
-    "text": "Import packages and setup your environment\nimport numpy as np\nimport random\nFirst, we define the FrozenLake environment as a class, with methods for resetting the environment, taking actions, rendering the current state, and showing the current Q-table and policy.\nclass FrozenLake:\n    def __init__(self, size=4):\n        self.size = size\n        self.grid = np.zeros((4, 4), dtype=int) # spcifiy grid size please\n        self.start_state = (0, 0)\n        self.goal_state = (3, 3) # can you state the goal state in the grid (row, column)\n        self.hole_states = [(1, 1), (2, 3), (3, 0)]\n        for i, j in self.hole_states:\n            self.grid[i][j] = 1\n    \n    def reset(self):\n        self.current_state = self.start_state\n        return self.current_state\n    \n    def step(self, action): # could you please set the actions as numbers\n        i, j = self.current_state\n        if action == 0: # move up\n            i = max(i-1, 0)\n        elif action == 1: # move down\n            i = min(i+1, self.size-1)\n        elif action == 2: # move left\n            j = max(j-1, 0)\n        elif action == 3: # move right\n            j = min(j+1, self.size-1)\n        \n        self.current_state = (i, j)\n        \n        # what is your rewads?\n        if self.current_state == self.goal_state: \n            reward = 1 # winning reward?\n            done = True\n        elif self.current_state in self.hole_states:\n            reward = -1 # losing for hole states, reward?\n            done = True\n        else:\n            reward = 0 # else?\n            done = False\n        \n        return self.current_state, reward, done\n\n\n    def render(self):\n        print('\\n')\n        for i in range(self.size):\n            for j in range(self.size):\n                if self.grid[i][j] == 0:\n                    if (i, j) == self.current_state:\n                        print('S', end=' ')\n                    elif (i, j) == self.goal_state:\n                        print('G', end=' ')\n                    else:\n                        print('.', end=' ')\n                elif self.grid[i][j] == 1:\n                    if (i, j) == self.current_state:\n                        print('S', end=' ')\n                    else:\n                        print('X', end=' ')\n            print()\n        print()\n    \n    \n    def show_q_table(self, q_table):\n\n        print('-----------------------------------------------------------------')\n        print('Q-Table:')\n        print('-----------------------------------------------------------------')\n\n        for i in range(self.size):\n            for j in range(self.size):\n                if self.grid[i][j] == 0:\n                    print( '%.2f' % q_table[i][j][0], end='\\t')\n                    print('%.2f' % q_table[i][j][1], end='\\t')\n                    print('%.2f' % q_table[i][j][2], end='\\t')\n                    print('%.2f' % q_table[i][j][3])\n                else:\n                    print('NULL', end='\\t')\n                    print('NULL', end='\\t')\n                    print('NULL', end='\\t')\n                    print('NULL')\n            print()\n\n\n    # In one text line show the policy (the sequence of actions that agent take )\n    def show_policy(self, q_table):\n        print('\\n Policy:')\n        for i in range(self.size):\n            for j in range(self.size):\n                if self.grid[i][j] == 0:\n                    action = np.argmax(q_table[i][j])\n                    if action == 0:\n                        print('UP', end=' ')\n                    elif action == 1:\n                        print('DOWN', end=' ')\n                    elif action == 2:\n                        print('LEFT', end=' ')\n                    elif action == 3:\n                        print('RIGTH', end=' ')\n                else:\n                    print('STAY', end=' ')\nNext, we create an instance of the environment and initialize the Q-table with zeros.\nenv = FrozenLake()\nq_table = np.zeros((env.size, env.size, 4))"
-  },
-  {
-    "objectID": "events/2023-05-05-Reinforcement_learning_Challenges.html#hyperparameters",
-    "href": "events/2023-05-05-Reinforcement_learning_Challenges.html#hyperparameters",
-    "title": "Reinforcement learning introduction - Challenge",
-    "section": "Hyperparameters",
-    "text": "Hyperparameters\nWe then set some hyperparameters for the Q-learning algorithm, such as the number of episodes to run, the maximum number of steps per episode, the learning rate, the discount factor, the starting exploration rate (epsilon), the minimum exploration rate, and the rate at which epsilon decays over time.\n# Could you please set your hyperparameters?\nnum_episodes = 2000\nmax_steps_per_episode = 10\nlearning_rate = 0.05\ndiscount_factor = 0.99\n\nepsilon = 1.0\nmin_epsilon = 0.01\nepsilon_decay_rate = 0.001\nWe define an epsilon-greedy policy for selecting actions, which chooses a random action with probability epsilon or the greedy action (i.e., the action with the highest Q-value) with probability 1 - epsilon.\n\n\n\nScreen Shot 2023-04-16 at 2.11.38 PM.png\n\n\n# Define epsilon-greedy policy\ndef epsilon_greedy_policy(state):\n    if random.uniform(0, 1) &lt; epsilon:\n        return random.randint(0, 3)\n    else:\n        return np.argmax(q_table[state[0]][state[1]])\nWe train the agent by running a loop over the specified number of episodes. In each episode, we start by resetting the environment and selecting actions according to the epsilon-greedy policy. We then update the Q-values for the current state-action pair using the Q-learning update rule. Finally, we update the current state and repeat until the episode ends (either because the agent reaches the goal or exceeds the maximum number of steps).\nWe decay the exploration rate (epsilon) after each episode to gradually shift the agent from exploration to exploitation over time.\nPeriodically, we render the current state of the environment and display the current Q-table and policy for visualization.\nfor episode in range(num_episodes):\n    state = env.reset()\n    done = False\n    t = 0\n    while not done and t &lt; max_steps_per_episode:\n\n        action = epsilon_greedy_policy(state)\n\n        next_state, reward, done = env.step(action)\n\n        # what is missing to update the Q value?\n        #q_table[state[0]][state[1]][action] += learning_rate * (reward + discount_factor * np.max(q_table[next_state[0]][next_state[1]]) - q_table[state[0]][state[1]][action])\n        q_table[state[0]][state[1]][action] += learning_rate * (reward + discount_factor * np.max(q_table[next_state[0]][next_state[1]]) - q_table[state[0]][state[1]][action])\n\n        state = next_state\n\n        t += 1\n\n    epsilon = max(min_epsilon, epsilon * (1 - epsilon_decay_rate))\n\n    # Show progress\n    if episode % 1000 == 0:\n        env.render()\n        env.show_q_table(q_table)\n        env.show_policy(q_table)\n. . . . \n. S . . \n. . . X \nX . . G \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.00    0.00    0.00    0.00\n0.00    -0.05   0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n0.00    0.00    0.00    0.00\nNULL    NULL    NULL    NULL\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nUP UP UP UP UP STAY UP UP UP UP UP STAY STAY UP UP UP \n\n. . . . \n. S . . \n. . . X \nX . . G \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.00    0.00    0.00    0.00\n0.00    -1.00   0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n0.00    0.00    0.00    -1.00\nNULL    NULL    NULL    NULL\n0.00    0.00    -0.64   0.00\n0.00    -0.19   0.00    0.00\n\n0.00    -0.74   0.00    0.00\n-0.26   0.00    0.00    0.00\n0.00    0.00    0.00    -0.05\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.00    0.00    -0.10   0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nUP UP UP UP UP STAY UP UP UP DOWN UP STAY STAY UP UP UP \n\nOnce training is complete, we test the agent by running a loop until the agent reaches the goal or exceeds the maximum number of steps. In each step, we select the greedy action (i.e., the action with the highest Q-value) and update the current state. We render the environment at each step for visualization.\n# Test agent\nstate = env.reset()\ndone = False\nwhile not done:\n    action = np.argmax(q_table[state[0]][state[1]])\n    next_state, reward, done = env.step(action)\n    env.render()\n    state = next_state\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G"
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "Sciml Leeds Committee",
-    "section": "",
-    "text": "We’re currently looking for new committee members! Roles are flexible depending on your time constraints, and are only during term time. If you’re interested please contact us at  sciml@leeds.ac.uk  for more infomation, or chat to any of the committee at events!\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinks:\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinks:\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlinks:\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about/index.html#committee-members",
-    "href": "about/index.html#committee-members",
-    "title": "Sciml Leeds Committee",
-    "section": "Committee Members",
-    "text": "Committee Members\nWe’re currently looking for new committee members! Roles are flexible depending on your time constraints, and are only during term time. If you’re interested please contact us at  sciml@leeds.ac.uk  for more infomation, or chat to any of the committee at events!\n\n\n\n\n\n\n\n\n\n\nDonald Cummins\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEilish O’Grady\n\n\n\n\nlinks:\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJack Smith\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiranda J S Horne\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNaomi Shakespeare-Rees\n\n\n\n\nlinks:\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOluwaseun Coker\n\n\n\n\nlinks:\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOmar Choudhry\n\n\n\n\nlinks:\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about/about.html",
-    "href": "about/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "events/2023-05-05-Reinforcement_learning_Solution.html#import-packages-and-setup-your-environment",
-    "href": "events/2023-05-05-Reinforcement_learning_Solution.html#import-packages-and-setup-your-environment",
-    "title": "Reinforcement learning introduction - Solution",
-    "section": "Import packages and setup your environment",
-    "text": "Import packages and setup your environment\nThis code imports the FrozenLake environment from the OpenAI Gym library and creates an instance of the environment.\nimport gym\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n\n# Create the FrozenLake environment\nenv = gym.make('FrozenLake-v1')\nThis code initializes the Q-table to zeros. The Q-table is a matrix where the rows represent the possible states of the environment and the columns represent the possible actions that the agent can take.\n# Initialize the Q-table to zeros\nQ = np.zeros([env.observation_space.n, env.action_space.n])"
-  },
-  {
-    "objectID": "events/2023-05-05-Reinforcement_learning_Solution.html#hyperparameters",
-    "href": "events/2023-05-05-Reinforcement_learning_Solution.html#hyperparameters",
-    "title": "Reinforcement learning introduction - Solution",
-    "section": "Hyperparameters 📈",
-    "text": "Hyperparameters 📈\n# Set hyperparameters\nlr = 0.8  # learning rate\ngamma = 0.95  # discount factor\nnum_episodes = 2000  # number of training episodes"
-  },
-  {
-    "objectID": "events/2023-05-05-Reinforcement_learning_Solution.html#train-your-agent",
-    "href": "events/2023-05-05-Reinforcement_learning_Solution.html#train-your-agent",
-    "title": "Reinforcement learning introduction - Solution",
-    "section": "TRAIN YOUR AGENT 🤖 ❄",
-    "text": "TRAIN YOUR AGENT 🤖 ❄\nThis code trains the agent using Q-learning. During training, the agent interacts with the environment by selecting actions based on the Q-table and updating the Q-table based on the observed reward. The hyperparameters lr and gamma control how much the agent values immediate rewards versus future rewards. The num_episodes parameter controls how many times the agent interacts with the environment.\n# Keep track of the total reward for each episode \nrewards = np.zeros(num_episodes)\n\n# Train the agent using Q-learning\nfor i in range(num_episodes):\n    # Reset the environment for each episode\n    s = env.reset()\n    done = False\n    while not done:\n        # Choose an action based on the Q-table, with some random noise\n        a = np.argmax(Q[s,:] + np.random.randn(1, env.action_space.n)*(1./(i+1)))\n        \n        # Take the chosen action and observe the next state and reward\n        s_new, r, done, _ = env.step(a)\n        \n        # Update the Q-table based on the observed reward\n        Q[s,a] = Q[s,a] + lr*(r + gamma*np.max(Q[s_new,:]) - Q[s,a])\n        \n        \n        # Add the reward to the total reward for the episode\n        rewards[i] += r\n        \n        # Set the current state to the next state\n        s = s_new"
-  },
-  {
-    "objectID": "events/2023-05-05-Reinforcement_learning_Solution.html#test-your-agent",
-    "href": "events/2023-05-05-Reinforcement_learning_Solution.html#test-your-agent",
-    "title": "Reinforcement learning introduction - Solution",
-    "section": "TEST YOUR AGENT 🧪",
-    "text": "TEST YOUR AGENT 🧪\nThis code tests the agent on 100 episodes after training. During testing, the agent chooses actions based on the Q-table and tries to reach the goal state. The code keeps track of the number of successful episodes (where the agent reaches the goal state) and prints the success rate at the end.\n# Test the agent on 100 episodes \nnum_successes = 0\nfor i in range(100):\n    s = env.reset()\n    done = False\n    while not done:\n        # Choose an action based on the Q-table\n        a = np.argmax(Q[s,:])\n        s, r, done, _ = env.step(a)\n    if r == 1:\n        num_successes += 1\n\n# Print the success rate\nprint(\"Success rate:\", num_successes/100)\nSuccess rate: 0.54"
-  },
-  {
-    "objectID": "events/2023-05-05-Reinforcement_learning_Solution.html#hyperparameters-1",
-    "href": "events/2023-05-05-Reinforcement_learning_Solution.html#hyperparameters-1",
-    "title": "Reinforcement learning introduction - Solution",
-    "section": "Hyperparameters 📈",
-    "text": "Hyperparameters 📈\nWe then set some hyperparameters for the Q-learning algorithm, such as the number of episodes to run, the maximum number of steps per episode, the learning rate, the discount factor, the starting exploration rate (epsilon), the minimum exploration rate, and the rate at which epsilon decays over time.\n# Set hyperparameters\nnum_episodes = 10000\nmax_steps_per_episode = 100\nlearning_rate = 0.1\ndiscount_factor = 0.99\nepsilon = 1.0\nmin_epsilon = 0.01\nepsilon_decay_rate = 0.001\nWe define an epsilon-greedy policy for selecting actions, which chooses a random action with probability epsilon or the greedy action (i.e., the action with the highest Q-value) with probability 1 - epsilon.\n\n\n\nScreen Shot 2023-04-16 at 2.11.38 PM.png\n\n\n# Define epsilon-greedy policy\ndef epsilon_greedy_policy(state):\n    if random.uniform(0, 1) &lt; epsilon:\n        return random.randint(0, 3)\n    else:\n        return np.argmax(q_table[state[0]][state[1]])\nWe train the agent by running a loop over the specified number of episodes. In each episode, we start by resetting the environment and selecting actions according to the epsilon-greedy policy. We then update the Q-values for the current state-action pair using the Q-learning update rule. Finally, we update the current state and repeat until the episode ends (either because the agent reaches the goal or exceeds the maximum number of steps).\nWe decay the exploration rate (epsilon) after each episode to gradually shift the agent from exploration to exploitation over time.\nPeriodically, we render the current state of the environment and display the current Q-table and policy for visualization.\n# Train agent\nfor episode in range(num_episodes):\n    state = env.reset()\n    done = False\n    t = 0\n    while not done and t &lt; max_steps_per_episode:\n        action = epsilon_greedy_policy(state)\n        next_state, reward, done = env.step(action)\n        q_table[state[0]][state[1]][action] += learning_rate * \\\n            (reward + discount_factor * np.max(q_table[next_state[0]][next_state[1]]) - q_table[state[0]][state[1]][action])\n        state = next_state\n        t += 1\n    epsilon = max(min_epsilon, epsilon * (1 - epsilon_decay_rate))\n\n    # Show progress\n    if episode % 1000 == 0:\n        env.render()\n        env.show_q_table(q_table)\n        env.show_policy(q_table)\n. . . . \n. S . . \n. . . X \nX . . G \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n0.00    0.00    0.00    -0.10\nNULL    NULL    NULL    NULL\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nUP UP UP UP UP STAY UP UP UP UP UP STAY STAY UP UP UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.84    0.85    0.96    0.82\n\n0.94    0.58    0.85    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.65    -0.95   0.97    0.80\n\n0.47    -1.00   0.32    0.81\n-0.95   0.72    0.45    0.98\n0.97    0.99    0.96    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.58    0.71    -0.81   0.98\n0.98    0.99    0.94    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.88    0.91    0.96    0.90\n\n0.94    0.69    0.88    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.91\n-0.95   0.79    0.66    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.65    0.84    -0.88   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.90\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.91\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.91\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.91\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.91\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.91\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.91\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \nOnce training is complete, we test the agent by running a loop until the agent reaches the goal or exceeds the maximum number of steps. In each step, we select the greedy action (i.e., the action with the highest Q-value) and update the current state. We render the environment at each step for visualization.\n\n# Test agent\nstate = env.reset()\ndone = False\nwhile not done:\n    action = np.argmax(q_table[state[0]][state[1]])\n    next_state, reward, done = env.step(action)\n    env.render()\n    state = next_state\n. S . . \n. X . . \n. . . X \nX . . G \n\n\n\n. . S . \n. X . . \n. . . X \nX . . G \n\n\n\n. . . . \n. X S . \n. . . X \nX . . G \n\n\n\n. . . . \n. X . . \n. . S X \nX . . G \n\n\n\n. . . . \n. X . . \n. . . X \nX . S G \n\n\n\n. . . . \n. X . . \n. . . X \nX . . S"
-  },
-  {
-    "objectID": "events/index.html",
-    "href": "events/index.html",
-    "title": "Past Events",
-    "section": "",
-    "text": "Below is an overview of events organised by the SciML community. We aim to put recordings of each event online within a week of them taking place.\nPlease get in touch  if you’d like to come to talk to us, we’re a very diverse group in terms of applications in scientific machine learning and would  to hear about your work!"
-  },
-  {
-    "objectID": "events/index.html#seminars",
-    "href": "events/index.html#seminars",
-    "title": "Past Events",
-    "section": "Seminars",
-    "text": "Seminars\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nSpeaker\n\n\nDate\n\n\nRecording\n\n\n\n\n\n\nRegional climate model emulator based on deep learning\n\n\nAntoine Doury (French National Centre for Meteorological Research)\n\n\n29th Nov, 2024\n\n\nLink\n\n\n\n\nRapid Spatio-Temporal Flood Modeling - Hydraulic GNN Approach\n\n\nRoberto Bentivoglio (Delft University of Technology)\n\n\n16th Feb, 2023\n\n\nLink\n\n\n\n\nForecasting Global Weather with Graph Neural Networks\n\n\nRyan Keisler (KoBold Metals)\n\n\n10th Nov, 2023\n\n\nLink\n\n\n\n\nCould deep learning methods replace numerical weather models?\n\n\nMariana Clare (European Centre for Medium Range Weather Forecasts)\n\n\n20th Oct, 2023\n\n\nLink\n\n\n\n\nFeature-Preserving Point Cloud Simplification with Gaussian Processes\n\n\nThomas. M. McDonald (University of Manchester)\n\n\n14th Jul, 2023\n\n\nLink\n\n\n\n\nPhysics-based domain adaptation for dynamical systems forecasting\n\n\nZack Xuereb Conti (Alan Turing Institute)\n\n\n19th May, 2023\n\n\nLink\n\n\n\n\nClimaX: A foundation model for weather and climate\n\n\nTung Nguyen (UCLA)\n\n\n17th Mar, 2023\n\n\nLink\n\n\n\n\nSea ice detection from concurrent visible and SAR imagery using a convolutional neural network\n\n\nMartin Rogers (British Antarctic Survey)\n\n\n24th Feb, 2023\n\n\nLink\n\n\n\n\nPhysics-informed Machine Learning for Trustworthy Climate Emulators\n\n\nBjörn Lütjens (MIT)\n\n\n10th Feb, 2023\n\n\nLink\n\n\n\n\nExplainable AI for identifying regional climate change patterns\n\n\nZack Labe (Princeton)\n\n\n13th Jan, 2023\n\n\nLink\n\n\n\n\nExtending the capabilities of data-driven reduced-order models to make predictions for unseen scenarios\n\n\nClaire Heaney (Imperial College)\n\n\n18th Nov, 2022\n\n\nLink\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "events/index.html#workshops",
-    "href": "events/index.html#workshops",
-    "title": "Past Events",
-    "section": "Workshops",
-    "text": "Workshops\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nSpeaker\n\n\nDate\n\n\nRecording\n\n\nWorkbook\n\n\n\n\n\n\nAn introduction to testing and writing packages in Python\n\n\nZoe Hancox (University of Leeds)\n\n\n28th Jun, 2024\n\n\n \n\n\nLink\n\n\n\n\nSINDy\n\n\nAlasdair Roy (University of Leeds)\n\n\n27th Oct, 2023\n\n\nLink\n\n\nLink\n\n\n\n\nReinforcement Learning (Challenges)\n\n\nAlhanof Alolyan (University of Leeds)\n\n\n17th Apr, 2023\n\n\n \n\n\nLink\n\n\n\n\nReinforcement Learning (Solutions)\n\n\nAlhanof Alolyan (University of Leeds)\n\n\n17th Apr, 2023\n\n\n \n\n\nLink\n\n\n\n\nPhysics-informed neural networks (PINNs)\n\n\nFergus Shone (University of Leeds)\n\n\n17th Feb, 2023\n\n\nLink\n\n\n \n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Scientific Machine Learning at the University of Leeds",
-    "section": "",
-    "text": "Scientific Machine Learning at the University of Leeds\n\n\n\n\n\nHi!\nWelcome to the website for people interested in Scientific Machine Learning (SciML) at Leeds. SciML is the discipline of combining machine learning with scientific computing, for more information please see e.g. sciml.ai. This website serves to organise our work and allow others to join us.\nWe meet the first Friday of every month at 11am UK/local time in room 11.87, 11th Floor, Worsley Building, Leeds Institute for Data Analytics (Use .ics-file download to add the event to your calendar). See here for directions\nWe also organise seminars and workshops, as well as send out a monthly newsletter."
-  },
-  {
-    "objectID": "index.html#training-resources",
-    "href": "index.html#training-resources",
-    "title": "Scientific Machine Learning at the University of Leeds",
-    "section": "",
-    "text": "Hands-on SciML Workbooks\nLIFD Jupyter Tutorials on various machine learning topics."
-  },
-  {
-    "objectID": "index.html#people",
-    "href": "index.html#people",
-    "title": "Scientific Machine Learning at the University of Leeds",
-    "section": "",
-    "text": "Computer-aided design\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nBiomedical fluorescence microscopy\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRadar interferometry (insar)\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nDetection and location of earthquakes and icequakes\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting spatial and temporal change\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nTidewater glacier dynamics\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nGeophysical and astrophysical turbulence\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\n\nModelling Plant Behaviour across G*E\n\n\n\n\nLinks\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nPrecipitation nowcasting\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClouds\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nDeformbale Solid and Fluid Simulation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\n\nTurbulence parametrizations\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\nPINNS\n\n\n\nGlobal carbon cycling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUniversity teaching and assessment\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nHaemodynamic flow super-resolution\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSynthetic medical data generation.\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nCNN\n\n\n\nSemantic segmentation of masonry lined tunnel joints\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\n\nInSAR Time series\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nWeather nowcasting\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarine spatial planning\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nDecision Trees\n\n\n\nCrop yield estimation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\n\nStorm tracking and initiation prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nmineral system exploration\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nsegmentation of atmospheric gravity waves\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nmeso-scale cloud organisation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nEarth and planets’ gravity field modelling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nPlanetary magnetic field modelling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\nPINNS\n\n\n\nGroundwater prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMet office um\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nText analysis of historic auction records\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\n\nComputational Fluid Dynamics\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nCNN\n\n\nPINNS\n\n\n\nGeomagnetism\n\n\n\n\nLinks\n\n\nGithub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nReconstruction of earth/planetary magnetic fields from sparse data\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nvery large histology tissue image, preprocessing and classification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\ncrop type classification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nParallel and Distributed Deep Learning\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\n\nTropospheric ozone forcast\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nClassification of convective weather systems\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nGlacier damage identification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSynthetic medical data generation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nMonitoring volcano\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nHealth outcome prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people/alistaircurd/alistaircurd.html#techniques",
-    "href": "people/alistaircurd/alistaircurd.html#techniques",
-    "title": "Alistair Curd",
-    "section": "Techniques",
-    "text": "Techniques\n\nExplainable neural networks\nmodels for images and point patterns,\nclassification"
-  },
-  {
-    "objectID": "people/alistaircurd/alistaircurd.html#research-area",
-    "href": "people/alistaircurd/alistaircurd.html#research-area",
-    "title": "Alistair Curd",
-    "section": "Research area",
-    "text": "Research area\n\nBiomedical fluorescence microscopy\nPathology methods\nSuper-resolution fluorescence microsopy7\nSingle-molecule localisation microscopy"
-  },
-  {
-    "objectID": "people/andynowacki/andynowacki.html#techniques",
-    "href": "people/andynowacki/andynowacki.html#techniques",
-    "title": "Andy Nowacki",
-    "section": "Techniques",
-    "text": "Techniques\n\nNeural networks\nclassification"
-  },
-  {
-    "objectID": "people/andynowacki/andynowacki.html#research-area",
-    "href": "people/andynowacki/andynowacki.html#research-area",
-    "title": "Andy Nowacki",
-    "section": "Research area",
-    "text": "Research area\n\nDetection and location of earthquakes and icequakes\nsubsurface structure and characterisation"
-  },
-  {
-    "objectID": "people/benwallis/benwallis.html#techniques",
-    "href": "people/benwallis/benwallis.html#techniques",
-    "title": "Ben Wallis",
-    "section": "Techniques",
-    "text": "Techniques\n\nSupervised learning\nConvolutional networks\nBayesian methods"
-  },
-  {
-    "objectID": "people/benwallis/benwallis.html#research-area",
-    "href": "people/benwallis/benwallis.html#research-area",
-    "title": "Ben Wallis",
-    "section": "Research area",
-    "text": "Research area\n\nTidewater glacier dynamics\nIce ocean interaction"
-  },
-  {
-    "objectID": "people/chetandeva/chetandeva.html#techniques",
-    "href": "people/chetandeva/chetandeva.html#techniques",
-    "title": "Chetan Deva",
-    "section": "Techniques",
-    "text": "Techniques\n\nRandom Forests\nXGBoost\nLong Short-Term Memory"
-  },
-  {
-    "objectID": "people/chetandeva/chetandeva.html#research-area",
-    "href": "people/chetandeva/chetandeva.html#research-area",
-    "title": "Chetan Deva",
-    "section": "Research area",
-    "text": "Research area\n\nModelling Plant Behaviour across G*E\nTime Series Forecasting of Vegetation Dynamics"
-  },
-  {
-    "objectID": "people/declanfinney/declanfinney.html#techniques",
-    "href": "people/declanfinney/declanfinney.html#techniques",
-    "title": "Declan Finney",
-    "section": "Techniques",
-    "text": "Techniques\n\nChatgpt :p"
-  },
-  {
-    "objectID": "people/declanfinney/declanfinney.html#research-area",
-    "href": "people/declanfinney/declanfinney.html#research-area",
-    "title": "Declan Finney",
-    "section": "Research area",
-    "text": "Research area\n\nClouds\nradiation\nclimate change"
-  },
-  {
-    "objectID": "people/donaldcummins/donaldcummins.html#techniques",
-    "href": "people/donaldcummins/donaldcummins.html#techniques",
-    "title": "Donald Cummins",
-    "section": "Techniques",
-    "text": "Techniques\n\nNeural networks\nstate-space modelling"
-  },
-  {
-    "objectID": "people/donaldcummins/donaldcummins.html#research-area",
-    "href": "people/donaldcummins/donaldcummins.html#research-area",
-    "title": "Donald Cummins",
-    "section": "Research area",
-    "text": "Research area\n\nTurbulence parametrizations\nsimple climate models\nstatistical climatology"
-  },
-  {
-    "objectID": "people/ericatwell/ericatwell.html#techniques",
-    "href": "people/ericatwell/ericatwell.html#techniques",
-    "title": "Eric Atwell",
-    "section": "Techniques",
-    "text": "Techniques\n\nText analytics\nsketchengine\nchatbots"
-  },
-  {
-    "objectID": "people/ericatwell/ericatwell.html#research-area",
-    "href": "people/ericatwell/ericatwell.html#research-area",
-    "title": "Eric Atwell",
-    "section": "Research area",
-    "text": "Research area\n\nUniversity teaching and assessment\nunderstanding quran and hadith\ndetecting bias and fake news"
-  },
-  {
-    "objectID": "people/gyanateetdutta/gyanateetdutta.html#techniques",
-    "href": "people/gyanateetdutta/gyanateetdutta.html#techniques",
-    "title": "Gyanateet Dutta",
-    "section": "Techniques",
-    "text": "Techniques\n\nDeep learning\nGenerative Adversarial Networks\nTransformers"
-  },
-  {
-    "objectID": "people/gyanateetdutta/gyanateetdutta.html#research-area",
-    "href": "people/gyanateetdutta/gyanateetdutta.html#research-area",
-    "title": "Gyanateet Dutta",
-    "section": "Research area",
-    "text": "Research area\n\nSynthetic medical data generation.\nFuture frame prediction for medical videos.\nSynthetic procedural mesh generation."
-  },
-  {
-    "objectID": "people/jacobconnolly/jacobconnolly.html#techniques",
-    "href": "people/jacobconnolly/jacobconnolly.html#techniques",
-    "title": "Jacob Connolly",
-    "section": "Techniques",
-    "text": "Techniques\n\nSupervised learning\nRandom Forests"
-  },
-  {
-    "objectID": "people/jacobconnolly/jacobconnolly.html#research-area",
-    "href": "people/jacobconnolly/jacobconnolly.html#research-area",
-    "title": "Jacob Connolly",
-    "section": "Research area",
-    "text": "Research area\n\nInSAR Time series\nNoise reduction in SAR data"
-  },
-  {
-    "objectID": "people/jillianschacher/jillianschacher.html#techniques",
-    "href": "people/jillianschacher/jillianschacher.html#techniques",
-    "title": "Jillian Schacher",
-    "section": "Techniques",
-    "text": "Techniques\n\nGis\nnvivo\nwizard"
-  },
-  {
-    "objectID": "people/jillianschacher/jillianschacher.html#research-area",
-    "href": "people/jillianschacher/jillianschacher.html#research-area",
-    "title": "Jillian Schacher",
-    "section": "Research area",
-    "text": "Research area\n\nMarine spatial planning\nspecies distribution\ncluster mapping"
-  },
-  {
-    "objectID": "people/joeysmith/joeysmith.html#techniques",
-    "href": "people/joeysmith/joeysmith.html#techniques",
-    "title": "Joey Smith",
-    "section": "Techniques",
-    "text": "Techniques\n\nRandom Forests\nGANs"
-  },
-  {
-    "objectID": "people/joeysmith/joeysmith.html#research-area",
-    "href": "people/joeysmith/joeysmith.html#research-area",
-    "title": "Joey Smith",
-    "section": "Research area",
-    "text": "Research area\n\nStorm tracking and initiation prediction\nPrecipitation nowcasting"
-  },
-  {
-    "objectID": "people/jonathanconey/jonathanconey.html#techniques",
-    "href": "people/jonathanconey/jonathanconey.html#techniques",
-    "title": "Jonathan Coney",
-    "section": "Techniques",
-    "text": "Techniques\n\nSupervised learning\nconvolutional networks"
-  },
-  {
-    "objectID": "people/jonathanconey/jonathanconey.html#research-area",
-    "href": "people/jonathanconey/jonathanconey.html#research-area",
-    "title": "Jonathan Coney",
-    "section": "Research area",
-    "text": "Research area\n\nsegmentation of atmospheric gravity waves\nlearning physical characteristics from model output"
-  },
-  {
-    "objectID": "people/leyuanwu/leyuanwu.html#techniques",
-    "href": "people/leyuanwu/leyuanwu.html#techniques",
-    "title": "Leyuan Wu",
-    "section": "Techniques",
-    "text": "Techniques\n\nPhysics informed neural networks"
-  },
-  {
-    "objectID": "people/leyuanwu/leyuanwu.html#research-area",
-    "href": "people/leyuanwu/leyuanwu.html#research-area",
-    "title": "Leyuan Wu",
-    "section": "Research area",
-    "text": "Research area\n\nEarth and planets’ gravity field modelling"
-  },
-  {
-    "objectID": "people/marialuisataccari/marialuisataccari.html#techniques",
-    "href": "people/marialuisataccari/marialuisataccari.html#techniques",
-    "title": "Maria Luisa Taccari",
-    "section": "Techniques",
-    "text": "Techniques\n\nOperator learning\nPINNs\nSupervised learning\nConvolutional networks"
-  },
-  {
-    "objectID": "people/marialuisataccari/marialuisataccari.html#research-area",
-    "href": "people/marialuisataccari/marialuisataccari.html#research-area",
-    "title": "Maria Luisa Taccari",
-    "section": "Research area",
-    "text": "Research area\n\nGroundwater prediction\nSurrogate modelling"
-  },
-  {
-    "objectID": "people/mathewhenrickson/mathewhenrickson.html#techniques",
-    "href": "people/mathewhenrickson/mathewhenrickson.html#techniques",
-    "title": "Mathew Henrickson",
-    "section": "Techniques",
-    "text": "Techniques\n\nLanguage modelling\ndata mining"
-  },
-  {
-    "objectID": "people/mathewhenrickson/mathewhenrickson.html#research-area",
-    "href": "people/mathewhenrickson/mathewhenrickson.html#research-area",
-    "title": "Mathew Henrickson",
-    "section": "Research area",
-    "text": "Research area\n\nText analysis of historic auction records"
-  },
-  {
-    "objectID": "people/naomishakespeare-rees/naomishakespeare-rees.html#techniques",
-    "href": "people/naomishakespeare-rees/naomishakespeare-rees.html#techniques",
-    "title": "Naomi Shakespeare-Rees",
-    "section": "Techniques",
-    "text": "Techniques\n\nPINNs\nConvolutional Networks\nAutoencoders"
-  },
-  {
-    "objectID": "people/naomishakespeare-rees/naomishakespeare-rees.html#research-area",
-    "href": "people/naomishakespeare-rees/naomishakespeare-rees.html#research-area",
-    "title": "Naomi Shakespeare-Rees",
-    "section": "Research area",
-    "text": "Research area\n\nGeomagnetism\nFluid Flows"
-  },
-  {
-    "objectID": "people/samllanwarne/samllanwarne.html#techniques",
-    "href": "people/samllanwarne/samllanwarne.html#techniques",
-    "title": "Sam Llanwarne",
-    "section": "Techniques",
-    "text": "Techniques\n\nNeural Networks\nSegmentation, auto-encoding, classification\nWant to use transformers and graphs more"
-  },
-  {
-    "objectID": "people/samllanwarne/samllanwarne.html#research-area",
-    "href": "people/samllanwarne/samllanwarne.html#research-area",
-    "title": "Sam Llanwarne",
-    "section": "Research area",
-    "text": "Research area\n\nvery large histology tissue image, preprocessing and classification"
-  },
-  {
-    "objectID": "people/shenghaoqiu/shenghaoqiu.html#techniques",
-    "href": "people/shenghaoqiu/shenghaoqiu.html#techniques",
-    "title": "Shenghao Qiu",
-    "section": "Techniques",
-    "text": "Techniques\n\nMachine learning Compiler\nGraph Neural Network\nSelf-supervised learning\nConvolutional Networks"
-  },
-  {
-    "objectID": "people/shenghaoqiu/shenghaoqiu.html#research-area",
-    "href": "people/shenghaoqiu/shenghaoqiu.html#research-area",
-    "title": "Shenghao Qiu",
-    "section": "Research area",
-    "text": "Research area\n\nParallel and Distributed Deep Learning\nModels acceleration\nTensors and models backend graph optimization"
-  },
-  {
-    "objectID": "people/simonpeatman/simonpeatman.html#techniques",
-    "href": "people/simonpeatman/simonpeatman.html#techniques",
-    "title": "Simon Peatman",
-    "section": "Techniques",
-    "text": "Techniques\n\nNeural networks"
-  },
-  {
-    "objectID": "people/simonpeatman/simonpeatman.html#research-area",
-    "href": "people/simonpeatman/simonpeatman.html#research-area",
-    "title": "Simon Peatman",
-    "section": "Research area",
-    "text": "Research area\n\nClassification of convective weather systems"
-  },
-  {
-    "objectID": "people/vineethkumarvellala/vineethkumarvellala.html#techniques",
-    "href": "people/vineethkumarvellala/vineethkumarvellala.html#techniques",
-    "title": "Vineeth Kumar Vellala",
-    "section": "Techniques",
-    "text": "Techniques\n\nDeep learning\ndata wrangling\nstatistical modelling"
-  },
-  {
-    "objectID": "people/vineethkumarvellala/vineethkumarvellala.html#research-area",
-    "href": "people/vineethkumarvellala/vineethkumarvellala.html#research-area",
-    "title": "Vineeth Kumar Vellala",
-    "section": "Research area",
-    "text": "Research area\n\nSynthetic medical data generation\nobject detection and tracking for 360° videos\nmaster data management"
-  },
-  {
-    "objectID": "people/zoehancox/zoehancox.html#techniques",
-    "href": "people/zoehancox/zoehancox.html#techniques",
-    "title": "Zoe Hancox",
-    "section": "Techniques",
-    "text": "Techniques\n\nTemporal graphs\n3d convolutional neural networks\nhypergraphs"
-  },
-  {
-    "objectID": "people/zoehancox/zoehancox.html#research-area",
-    "href": "people/zoehancox/zoehancox.html#research-area",
-    "title": "Zoe Hancox",
-    "section": "Research area",
-    "text": "Research area\n\nHealth outcome prediction\npatient trajectory visualisation\nehr analysis"
   },
   {
     "objectID": "posts/2020-02-20-test.html",
@@ -875,67 +119,88 @@
     "text": "Footnotes\nYou can have footnotes in notebooks, however the syntax is different compared to markdown documents. This guide provides more detail about this syntax, which looks like this:\n{% raw %}For example, here is a footnote {% fn 1 %}.\nAnd another {% fn 2 %}\n{{ 'This is the footnote.' | fndetail: 1 }}\n{{ 'This is the other footnote. You can even have a [link](www.github.com)!' | fndetail: 2 }}{% endraw %}\nFor example, here is a footnote {% fn 1 %}.\nAnd another {% fn 2 %}\n{{ ‘This is the footnote.’ | fndetail: 1 }} {{ ‘This is the other footnote. You can even have a link!’ | fndetail: 2 }}"
   },
   {
-    "objectID": "posts/test_post_v2.html#installing-pysindy",
-    "href": "posts/test_post_v2.html#installing-pysindy",
-    "title": "SINDy - Challenge",
-    "section": "Installing PySINDy",
-    "text": "Installing PySINDy\nTo install the newest version of PySINDy, you must follow the instructions on the documentation. The version available through Conda is much older than the newest release. See https://pysindy.readthedocs.io/en/latest/index.html#installation.\n!pip install pysindy --quiet\n\u001b[2K     \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m121.0/121.0 kB\u001b[0m \u001b[31m3.1 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\n\u001b[?25h\nimport matplotlib.pyplot as plt\nfrom mpl_toolkits.mplot3d import Axes3D\nimport numpy as np\nfrom scipy.integrate import solve_ivp\nfrom sklearn.metrics import mean_squared_error\n\nimport os\n#print(os.getcwd())\n#os.chdir(\"../PhD/PhD/ANAET\")\nfrom pysindy.utils import lorenz, lorenz_control, enzyme\nimport pysindy as ps\n\n# bad code but allows us to ignore warnings\nimport warnings\nfrom scipy.integrate.odepack import ODEintWarning\nwarnings.simplefilter(\"ignore\", category=UserWarning)\nwarnings.simplefilter(\"ignore\", category=FutureWarning)\nwarnings.simplefilter(\"ignore\", category=ODEintWarning)\n\n# Seed the random number generators for reproducibility\nnp.random.seed(100)\n\n# Initialize integrator keywords for solve_ivp to replicate the odeint defaults\nintegrator_keywords = {}\nintegrator_keywords['rtol'] = 1e-12\nintegrator_keywords['method'] = 'LSODA'\nintegrator_keywords['atol'] = 1e-12\n\nimport matplotlib as mpl\nmpl.rcParams[\"xtick.labelsize\"]=22\nmpl.rcParams[\"ytick.labelsize\"]=22\nmpl.rcParams[\"axes.labelsize\"]=26\nmpl.rcParams['mathtext.fontset'] = 'stix'\nmpl.rcParams['font.family'] = 'STIXGeneral'\n&lt;ipython-input-3-92171691bfc6&gt;:15: DeprecationWarning: Please use `ODEintWarning` from the `scipy.integrate` namespace, the `scipy.integrate.odepack` namespace is deprecated.\n  from scipy.integrate.odepack import ODEintWarning"
+    "objectID": "people/zoehancox/zoehancox.html#techniques",
+    "href": "people/zoehancox/zoehancox.html#techniques",
+    "title": "Zoe Hancox",
+    "section": "Techniques",
+    "text": "Techniques\n\nTemporal graphs\n3d convolutional neural networks\nhypergraphs"
   },
   {
-    "objectID": "posts/test_post_v2.html#mean-field-model",
-    "href": "posts/test_post_v2.html#mean-field-model",
-    "title": "SINDy - Challenge",
-    "section": "Mean field model",
-    "text": "Mean field model\nOne reduced-order model of flow past a cylinder is the coupled system of equations \\[\\begin{align}\n\\dot{x} &= \\mu x- \\omega y - xz,\\\\\n\\dot{y} &= \\mu y + \\omega x -yz,\\\\\n\\dot{z} & = -z + x^2 + y^2\n\\end{align}\\] where \\(\\mu\\) and \\(\\omega\\) are scalars. \\(\\omega\\) gives the frequency of oscillation.\nTasks: 1. Generate a training set of data using the initial conditions \\([0.01, 0.01, 0.1]\\), \\(\\omega=1\\) and \\(\\mu=0.1\\). Use SINDy to identify the model. 2. Now fit a SINDy model to data only when the model is on the stable limit cycle (the data is only oscillating). What happens to the model?\nmu = 0.1\nomega =1\nA=-1\nlam = 1\ndef cylinder_wake(t, xv):\n    x,y,z = xv\n    return [mu*x-omega*y+A*x*z,\n            omega*x + mu*y + A*y*z,\n            -z+x**2+y**2]\ny0 = [0.01, 0.01, 0.1]"
+    "objectID": "people/zoehancox/zoehancox.html#research-area",
+    "href": "people/zoehancox/zoehancox.html#research-area",
+    "title": "Zoe Hancox",
+    "section": "Research area",
+    "text": "Research area\n\nHealth outcome prediction\npatient trajectory visualisation\nehr analysis"
   },
   {
-    "objectID": "resources/index.html",
-    "href": "resources/index.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Below is a list of Machine Learning tutorials and resources that we have found useful. If you find something that you think should be added to the list, please let us know!"
+    "objectID": "people/vineethkumarvellala/vineethkumarvellala.html#techniques",
+    "href": "people/vineethkumarvellala/vineethkumarvellala.html#techniques",
+    "title": "Vineeth Kumar Vellala",
+    "section": "Techniques",
+    "text": "Techniques\n\nDeep learning\ndata wrangling\nstatistical modelling"
   },
   {
-    "objectID": "resources/index.html#courses",
-    "href": "resources/index.html#courses",
-    "title": "Resources",
-    "section": "Courses",
-    "text": "Courses\n\nCoursera\nCoursera is an open online course provider, and with your University of Leeds login, you can have free access to thousands of courses, from hundreds of universities.\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nHost\n\n\nDescription\n\n\n\n\n\n\nMathematics for Machine Learning Specialization\n\n\nCoursera\n\n\nPrerequisite mathematics for applications in data science and machine learning.\n\n\n\n\nMachine Learning Theory and Hands-on Practice with Python Specialization\n\n\nCoursera\n\n\nDevelop Foundational Machine Learning Skills. Add Supervised, Unsupervised, and Deep Learning techniques to your Data Science toolkit.\n\n\n\n\nDeep learning in Electronic Health Records\n\n\nCoursera\n\n\nTrain deep learning architectures such as Multi-layer perceptron, Convolutional Neural Networks and Recurrent Neural Networks for classification.\n\n\n\n\nDeep Learning with PyTorch, Image Segmentation\n\n\nCoursera\n\n\nUsing U-Net architecture for segmentation.\n\n\n\n\nTensorFlow 2 for Deep Learning Specialization\n\n\nCoursera\n\n\nTensorFlow 2.\n\n\n\n\n\nNo matching items\n\n\n\n\nUniversity of Leeds\nTo get on any University of Leeds module (to attend lectures and have access to course materials) email the module leader, explaining that you are a PhD student wanting to take their module.\nYou do not have to be in the School of Computer Science to take the computing modules, but:\n\nCheck you satisfy the prerequisites of the modules (ask your supervisor if you are unsure).\nYou should ask your supervisor if the module is relevant to your project.\nYou may find getting on the module more challenging if you are coming from another school (especially those not in Engineering and Physical Sciences faculty (EPS)).\nYou can ask us at SciML (or your supervisor) to advocate for you to get on these modules.\n\nSciML are working on getting access to the course materials, but if you are not on minerva you will not be able to attend the lectures themselves.\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nHost\n\n\nDescription\n\n\n\n\n\n\nCOMP3611 Machine Learning\n\n\nUniversity of Leeds\n\n\n3rd year undergraduate module that runs in semester 1. Module leader is Dr Marc de Kamps (M.deKamps@leeds.ac.uk).\n\n\n\n\nCOMP5611M Machine Learning\n\n\nUniversity of Leeds\n\n\nTaught masters module that runs in semester 2. The module leader is Dr Yanlong Huang ( Y.L.Huang@leeds.ac.uk).\n\n\n\n\nCOMP5625M Deep Learning\n\n\nUniversity of Leeds\n\n\nTaught masters module that runs in semester 2. The module leader is Dr Sharib Ali (S.S.Ali@leeds.ac.uk).\n\n\n\n\n\nNo matching items"
+    "objectID": "people/vineethkumarvellala/vineethkumarvellala.html#research-area",
+    "href": "people/vineethkumarvellala/vineethkumarvellala.html#research-area",
+    "title": "Vineeth Kumar Vellala",
+    "section": "Research area",
+    "text": "Research area\n\nSynthetic medical data generation\nobject detection and tracking for 360° videos\nmaster data management"
   },
   {
-    "objectID": "resources/index.html#notebooks",
-    "href": "resources/index.html#notebooks",
-    "title": "Resources",
-    "section": "Notebooks",
-    "text": "Notebooks\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nOrganisation\n\n\nDescription\n\n\n\n\n\n\nCEMAC Jupyter Notebooks\n\n\nLIFD and CEMAC, University of Leeds\n\n\nJupyter notebook tutorials on Convolutional Neural Networks (CNNs), Physics Informed Neural Networks (PINNs), Gaussian Processes, Random Forests, Generative Adversarial Networks (GANs), Auto Encoders, Dimensionality Reduction and XGBoost.\n\n\n\n\nThe Turing Way\n\n\nThe Alan Turing Institute\n\n\nHandbook to reproducible, ethical and collaborative data science. Includes information on version control, open-source code and licensing.\n\n\n\n\n\nNo matching items"
+    "objectID": "people/simonpeatman/simonpeatman.html#techniques",
+    "href": "people/simonpeatman/simonpeatman.html#techniques",
+    "title": "Simon Peatman",
+    "section": "Techniques",
+    "text": "Techniques\n\nNeural networks"
   },
   {
-    "objectID": "resources/index.html#books-and-articles",
-    "href": "resources/index.html#books-and-articles",
-    "title": "Resources",
-    "section": "Books and Articles",
-    "text": "Books and Articles\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nAuthor\n\n\nDescription\n\n\n\n\n\n\nDeep Learning\n\n\nIan Goodfellow, Yoshua Bengio, Aaron Courville\n\n\nComprehensive guide to all of the basic machine learning tools.\n\n\n\n\nProgramming pytorch for deep learning\n\n\nIan Pointer\n\n\nBuild basic models alongside this book, which comes with coding projects and model solutions.\n\n\n\n\n\nNo matching items"
+    "objectID": "people/simonpeatman/simonpeatman.html#research-area",
+    "href": "people/simonpeatman/simonpeatman.html#research-area",
+    "title": "Simon Peatman",
+    "section": "Research area",
+    "text": "Research area\n\nClassification of convective weather systems"
   },
   {
-    "objectID": "members/index.html",
-    "href": "members/index.html",
-    "title": "Members",
-    "section": "",
-    "text": "If you’re based at Leeds and would like to be added to this page, please fill out this form!\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAlhanof Alolyan\n\n\n\n\n\nComputer-aided design\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlistair Curd\n\n\n\nDeep Learning\n\n\n\nBiomedical fluorescence microscopy\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndy Hooper\n\n\n\n\n\nRadar interferometry (insar)\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndy Nowacki\n\n\n\nDeep Learning\n\n\n\nDetection and location of earthquakes and icequakes\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndy Turner\n\n\n\n\n\nPredicting spatial and temporal change\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBen Wallis\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nTidewater glacier dynamics\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCalum S. Skene\n\n\n\nDeep Learning\n\n\n\nGeophysical and astrophysical turbulence\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChetan Deva\n\n\n\nDecision Trees\n\n\n\nModelling Plant Behaviour across G*E\n\n\n\n\nLinks\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaire Bartholomew\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nPrecipitation nowcasting\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\nDan Hall\n\n\n\nPINNs\n\n\n\nParticle Physics\n\n\n\n\nLinks\n\n\nGithub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeclan Finney\n\n\n\n\n\nClouds\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDody Dharma\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nDeformbale Solid and Fluid Simulation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDonald Cummins\n\n\n\ncommittee\n\n\nDeep Learning\n\n\n\nTurbulence parametrizations\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEilish O’Grady\n\n\n\ncommittee\n\n\nSemantic segmentation\n\n\ndiffusion models\n\n\nInSAR\n\n\n\nInSAR\n\n\n\n\nLinks\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEric Atwell\n\n\n\n\n\nUniversity teaching and assessment\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFergus Shone\n\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nHaemodynamic flow super-resolution\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGyanateet Dutta\n\n\n\n\n\nSynthetic medical data generation.\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJack Smith\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nCNN\n\n\n\nSemantic segmentation of masonry lined tunnel joints\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJacob Connolly\n\n\n\nDecision Trees\n\n\n\nInSAR Time series\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJakub Lewandowski\n\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nWeather nowcasting\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJillian Schacher\n\n\n\n\n\nMarine spatial planning\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoe Gallear\n\n\n\nDeep Learning\n\n\nDecision Trees\n\n\n\nCrop yield estimation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoey Smith\n\n\n\nDecision Trees\n\n\n\nStorm tracking and initiation prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJohn Chong Zhang\n\n\n\nDeep Learning\n\n\n\nmineral system exploration\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonathan Coney\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nsegmentation of atmospheric gravity waves\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeif Denby\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nmeso-scale cloud organisation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeyuan Wu\n\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nEarth and planets’ gravity field modelling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLongwei Chen\n\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nPlanetary magnetic field modelling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Luisa Taccari\n\n\n\nDeep Learning\n\n\nCNN\n\n\nPINNs\n\n\n\nGroundwater prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMark Richardson\n\n\n\n\n\nMet office um\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMathew Henrickson\n\n\n\n\n\nText analysis of historic auction records\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiranda J S Horne\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nComputational Fluid Dynamics\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNaomi Shakespeare-Rees\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nCNN\n\n\nPINNs\n\n\n\nGeomagnetism\n\n\n\n\nLinks\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOluwaseun Coker\n\n\n\ncommittee\n\n\n\nFluid Dynamics\n\n\n\n\nLinks\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOmar Choudhry\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nMedical image analysis\n\n\nMachine Learning\n\n\n\nMedicine\n\n\n\n\nLinks\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeyman Babakhani\n\n\n\nDecision Trees\n\n\nPINNs\n\n\n\nGlobal carbon cycling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhil Livermore\n\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nReconstruction of earth/planetary magnetic fields from sparse data\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSam Llanwarne\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nvery large histology tissue image, preprocessing and classification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSamuel Bancroft\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\ncrop type classification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShenghao Qiu\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nParallel and Distributed Deep Learning\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShu Zhang\n\n\n\nDecision Trees\n\n\n\nTropospheric ozone forcast\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimon Peatman\n\n\n\nDeep Learning\n\n\n\nClassification of convective weather systems\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrystan Surawy-Stepney\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nGlacier damage identification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVineeth Kumar Vellala\n\n\n\n\n\nSynthetic medical data generation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYutaro Shigemitsu\n\n\n\nDeep Learning\n\n\nPINNs\n\n\n\nMonitoring volcano\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZoe Hancox\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nHealth outcome prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "objectID": "people/shenghaoqiu/shenghaoqiu.html#techniques",
+    "href": "people/shenghaoqiu/shenghaoqiu.html#techniques",
+    "title": "Shenghao Qiu",
+    "section": "Techniques",
+    "text": "Techniques\n\nMachine learning Compiler\nGraph Neural Network\nSelf-supervised learning\nConvolutional Networks"
   },
   {
-    "objectID": "members/index.html#people",
-    "href": "members/index.html#people",
-    "title": "SciML - University of Leeds",
-    "section": "",
-    "text": "Computer-aided design\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nBiomedical fluorescence microscopy\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRadar interferometry (insar)\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nDetection and location of earthquakes and icequakes\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting spatial and temporal change\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nTidewater glacier dynamics\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nGeophysical and astrophysical turbulence\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\n\nModelling Plant Behaviour across G*E\n\n\n\n\nLinks\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nPrecipitation nowcasting\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClouds\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nDeformbale Solid and Fluid Simulation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\n\nTurbulence parametrizations\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\nPINNS\n\n\n\nGlobal carbon cycling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUniversity teaching and assessment\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nHaemodynamic flow super-resolution\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSynthetic medical data generation.\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nCNN\n\n\n\nSemantic segmentation of masonry lined tunnel joints\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\n\nInSAR Time series\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nWeather nowcasting\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarine spatial planning\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nDecision Trees\n\n\n\nCrop yield estimation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\n\nStorm tracking and initiation prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nmineral system exploration\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nsegmentation of atmospheric gravity waves\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nmeso-scale cloud organisation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nEarth and planets’ gravity field modelling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nPlanetary magnetic field modelling\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\nPINNS\n\n\n\nGroundwater prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMet office um\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nText analysis of historic auction records\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\n\nComputational Fluid Dynamics\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nCNN\n\n\nPINNS\n\n\n\nGeomagnetism\n\n\n\n\nLinks\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\n\nFluid Dynamics\n\n\n\n\nLinks\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncommittee\n\n\nDeep Learning\n\n\nMedical image analysis\n\n\nMachine Learning\n\n\n\nMedicine\n\n\n\n\nLinks\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nReconstruction of earth/planetary magnetic fields from sparse data\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nvery large histology tissue image, preprocessing and classification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\ncrop type classification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nParallel and Distributed Deep Learning\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Trees\n\n\n\nTropospheric ozone forcast\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\n\nClassification of convective weather systems\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nGlacier damage identification\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSynthetic medical data generation\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nPINNS\n\n\n\nMonitoring volcano\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning\n\n\nCNN\n\n\n\nHealth outcome prediction\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "objectID": "people/shenghaoqiu/shenghaoqiu.html#research-area",
+    "href": "people/shenghaoqiu/shenghaoqiu.html#research-area",
+    "title": "Shenghao Qiu",
+    "section": "Research area",
+    "text": "Research area\n\nParallel and Distributed Deep Learning\nModels acceleration\nTensors and models backend graph optimization"
   },
   {
-    "objectID": "people/oluwaseuncoker/oluwaseuncoker.html",
-    "href": "people/oluwaseuncoker/oluwaseuncoker.html",
-    "title": "SciML - University of Leeds",
-    "section": "",
-    "text": "title: Oluwaseun Coker\ndescription: Fluid Dynamics image: categories: - committee links: techniques: - applications: - Fluid Flows about: id: person-profile template: jolla"
+    "objectID": "people/samllanwarne/samllanwarne.html#techniques",
+    "href": "people/samllanwarne/samllanwarne.html#techniques",
+    "title": "Sam Llanwarne",
+    "section": "Techniques",
+    "text": "Techniques\n\nNeural Networks\nSegmentation, auto-encoding, classification\nWant to use transformers and graphs more"
+  },
+  {
+    "objectID": "people/samllanwarne/samllanwarne.html#research-area",
+    "href": "people/samllanwarne/samllanwarne.html#research-area",
+    "title": "Sam Llanwarne",
+    "section": "Research area",
+    "text": "Research area\n\nvery large histology tissue image, preprocessing and classification"
+  },
+  {
+    "objectID": "people/phillivermore/phillivermore.html#techniques",
+    "href": "people/phillivermore/phillivermore.html#techniques",
+    "title": "Phil Livermore",
+    "section": "Techniques",
+    "text": "Techniques\n\nPhysics informed neural networks"
+  },
+  {
+    "objectID": "people/phillivermore/phillivermore.html#research-area",
+    "href": "people/phillivermore/phillivermore.html#research-area",
+    "title": "Phil Livermore",
+    "section": "Research area",
+    "text": "Research area\n\nReconstruction of earth/planetary magnetic fields from sparse data\ndeep earth geophysics\ninverse theory"
   },
   {
     "objectID": "people/oluwaseuncoker/oluwaseuncoker.html#techniques",
@@ -952,25 +217,186 @@
     "text": "Research area\n\nFluid Flows"
   },
   {
-    "objectID": "people/omarchoudhry/omarchoudhry.html#techniques",
-    "href": "people/omarchoudhry/omarchoudhry.html#techniques",
-    "title": "Omar Choudhry",
+    "objectID": "people/mirandahorne/mirandahorne.html#techniques",
+    "href": "people/mirandahorne/mirandahorne.html#techniques",
+    "title": "Miranda J S Horne",
     "section": "Techniques",
-    "text": "Techniques\n\nMedical image analysis\nDeep Learning"
+    "text": "Techniques\n\nPhysics Informed Neural Networks\nHard Constrained Machine Learning\nFluid Dynamics PDEs"
   },
   {
-    "objectID": "people/omarchoudhry/omarchoudhry.html#research-area",
-    "href": "people/omarchoudhry/omarchoudhry.html#research-area",
-    "title": "Omar Choudhry",
+    "objectID": "people/mirandahorne/mirandahorne.html#research-area",
+    "href": "people/mirandahorne/mirandahorne.html#research-area",
+    "title": "Miranda J S Horne",
     "section": "Research area",
-    "text": "Research area\n\nSurgical skill assessment\nSurgical training\nModel optimisation"
+    "text": "Research area\n\nHard physics constraints for fluids"
   },
   {
-    "objectID": "directions/index.html",
-    "href": "directions/index.html",
-    "title": "Directions to Worsley 11.87",
-    "section": "",
-    "text": "From outside of the Roger Stevens building, head west past the sustainability garden on your left until you reach the map.\n\n\nTurn left and head down the “North-South access route” on level 7.\n\n\nFollow the corridor straight ahead and into the Worsley building.\n\n\nAt the end of the corridor you will walk into an open plan seating area welcoming you to the Faculty of Medicine and Health. Turn left and walk over to the lifts/stairs.\n\n\nGo up to level 11.\n\n\nOn level 11, turn left out of the lift (right out of the stairs). We are in the first room on the left (11.87).\nWe look forward to seeing you at 11:00 on the first friday of the month!"
+    "objectID": "people/martinparker/martinparker.html#techniques",
+    "href": "people/martinparker/martinparker.html#techniques",
+    "title": "Martin Parker",
+    "section": "Techniques",
+    "text": "Techniques\n\nRemote Sensing\nMachine Learning\nProbabilistic/statistical modelling"
+  },
+  {
+    "objectID": "people/martinparker/martinparker.html#research-area",
+    "href": "people/martinparker/martinparker.html#research-area",
+    "title": "Martin Parker",
+    "section": "Research area",
+    "text": "Research area\n\nCrop modelling"
+  },
+  {
+    "objectID": "people/marialuisataccari/marialuisataccari.html#techniques",
+    "href": "people/marialuisataccari/marialuisataccari.html#techniques",
+    "title": "Maria Luisa Taccari",
+    "section": "Techniques",
+    "text": "Techniques\n\nOperator learning\nPINNs\nSupervised learning\nConvolutional networks"
+  },
+  {
+    "objectID": "people/marialuisataccari/marialuisataccari.html#research-area",
+    "href": "people/marialuisataccari/marialuisataccari.html#research-area",
+    "title": "Maria Luisa Taccari",
+    "section": "Research area",
+    "text": "Research area\n\nGroundwater prediction\nSurrogate modelling"
+  },
+  {
+    "objectID": "people/leyuanwu/leyuanwu.html#techniques",
+    "href": "people/leyuanwu/leyuanwu.html#techniques",
+    "title": "Leyuan Wu",
+    "section": "Techniques",
+    "text": "Techniques\n\nPhysics informed neural networks"
+  },
+  {
+    "objectID": "people/leyuanwu/leyuanwu.html#research-area",
+    "href": "people/leyuanwu/leyuanwu.html#research-area",
+    "title": "Leyuan Wu",
+    "section": "Research area",
+    "text": "Research area\n\nEarth and planets’ gravity field modelling"
+  },
+  {
+    "objectID": "people/jonathanconey/jonathanconey.html#techniques",
+    "href": "people/jonathanconey/jonathanconey.html#techniques",
+    "title": "Jonathan Coney",
+    "section": "Techniques",
+    "text": "Techniques\n\nSupervised learning\nconvolutional networks"
+  },
+  {
+    "objectID": "people/jonathanconey/jonathanconey.html#research-area",
+    "href": "people/jonathanconey/jonathanconey.html#research-area",
+    "title": "Jonathan Coney",
+    "section": "Research area",
+    "text": "Research area\n\nsegmentation of atmospheric gravity waves\nlearning physical characteristics from model output"
+  },
+  {
+    "objectID": "people/joeysmith/joeysmith.html#techniques",
+    "href": "people/joeysmith/joeysmith.html#techniques",
+    "title": "Joey Smith",
+    "section": "Techniques",
+    "text": "Techniques\n\nRandom Forests\nGANs"
+  },
+  {
+    "objectID": "people/joeysmith/joeysmith.html#research-area",
+    "href": "people/joeysmith/joeysmith.html#research-area",
+    "title": "Joey Smith",
+    "section": "Research area",
+    "text": "Research area\n\nStorm tracking and initiation prediction\nPrecipitation nowcasting"
+  },
+  {
+    "objectID": "people/jillianschacher/jillianschacher.html#techniques",
+    "href": "people/jillianschacher/jillianschacher.html#techniques",
+    "title": "Jillian Schacher",
+    "section": "Techniques",
+    "text": "Techniques\n\nGis\nnvivo\nwizard"
+  },
+  {
+    "objectID": "people/jillianschacher/jillianschacher.html#research-area",
+    "href": "people/jillianschacher/jillianschacher.html#research-area",
+    "title": "Jillian Schacher",
+    "section": "Research area",
+    "text": "Research area\n\nMarine spatial planning\nspecies distribution\ncluster mapping"
+  },
+  {
+    "objectID": "people/jacobconnolly/jacobconnolly.html#techniques",
+    "href": "people/jacobconnolly/jacobconnolly.html#techniques",
+    "title": "Jacob Connolly",
+    "section": "Techniques",
+    "text": "Techniques\n\nSupervised learning\nRandom Forests"
+  },
+  {
+    "objectID": "people/jacobconnolly/jacobconnolly.html#research-area",
+    "href": "people/jacobconnolly/jacobconnolly.html#research-area",
+    "title": "Jacob Connolly",
+    "section": "Research area",
+    "text": "Research area\n\nInSAR Time series\nNoise reduction in SAR data"
+  },
+  {
+    "objectID": "people/gyanateetdutta/gyanateetdutta.html#techniques",
+    "href": "people/gyanateetdutta/gyanateetdutta.html#techniques",
+    "title": "Gyanateet Dutta",
+    "section": "Techniques",
+    "text": "Techniques\n\nDeep learning\nGenerative Adversarial Networks\nTransformers"
+  },
+  {
+    "objectID": "people/gyanateetdutta/gyanateetdutta.html#research-area",
+    "href": "people/gyanateetdutta/gyanateetdutta.html#research-area",
+    "title": "Gyanateet Dutta",
+    "section": "Research area",
+    "text": "Research area\n\nSynthetic medical data generation.\nFuture frame prediction for medical videos.\nSynthetic procedural mesh generation."
+  },
+  {
+    "objectID": "people/fergusshone/fergusshone.html#techniques",
+    "href": "people/fergusshone/fergusshone.html#techniques",
+    "title": "Fergus Shone",
+    "section": "Techniques",
+    "text": "Techniques\n\nInformed machine learning\nPhysics-informed neural networks"
+  },
+  {
+    "objectID": "people/fergusshone/fergusshone.html#research-area",
+    "href": "people/fergusshone/fergusshone.html#research-area",
+    "title": "Fergus Shone",
+    "section": "Research area",
+    "text": "Research area\n\nHaemodynamic flow super-resolution\n4D-flow MRI\nLeft ventricular remodelling"
+  },
+  {
+    "objectID": "people/eilishogrady/eilishogrady.html#techniques",
+    "href": "people/eilishogrady/eilishogrady.html#techniques",
+    "title": "Eilish O’Grady",
+    "section": "Techniques",
+    "text": "Techniques\n\nSemantic segmentation\nDiffusion models\nInSAR"
+  },
+  {
+    "objectID": "people/eilishogrady/eilishogrady.html#research-area",
+    "href": "people/eilishogrady/eilishogrady.html#research-area",
+    "title": "Eilish O’Grady",
+    "section": "Research area",
+    "text": "Research area\n\nGeodesy\nInterferometric Synthetic Aperature Radar (InSAR)\nPhase Unwrapping"
+  },
+  {
+    "objectID": "people/donaldcummins/donaldcummins.html#techniques",
+    "href": "people/donaldcummins/donaldcummins.html#techniques",
+    "title": "Donald Cummins",
+    "section": "Techniques",
+    "text": "Techniques\n\nNeural networks\nstate-space modelling"
+  },
+  {
+    "objectID": "people/donaldcummins/donaldcummins.html#research-area",
+    "href": "people/donaldcummins/donaldcummins.html#research-area",
+    "title": "Donald Cummins",
+    "section": "Research area",
+    "text": "Research area\n\nTurbulence parametrizations\nsimple climate models\nstatistical climatology"
+  },
+  {
+    "objectID": "people/denisehick/denisehick.html#techniques",
+    "href": "people/denisehick/denisehick.html#techniques",
+    "title": "Denise Hick",
+    "section": "Techniques",
+    "text": "Techniques\n\nMachine Learning\nRemote sensing\nSpectroscopy"
+  },
+  {
+    "objectID": "people/denisehick/denisehick.html#research-area",
+    "href": "people/denisehick/denisehick.html#research-area",
+    "title": "Denise Hick",
+    "section": "Research area",
+    "text": "Research area\n\nSoil\nAgriculture"
   },
   {
     "objectID": "people/danhall/danhall.html#techniques",
@@ -987,45 +413,661 @@
     "text": "Research area\n\nComputational physics\nParticle physics\nSignal analysis"
   },
   {
+    "objectID": "people/chetandeva/chetandeva.html#techniques",
+    "href": "people/chetandeva/chetandeva.html#techniques",
+    "title": "Chetan Deva",
+    "section": "Techniques",
+    "text": "Techniques\n\nRandom Forests\nXGBoost\nLong Short-Term Memory"
+  },
+  {
+    "objectID": "people/chetandeva/chetandeva.html#research-area",
+    "href": "people/chetandeva/chetandeva.html#research-area",
+    "title": "Chetan Deva",
+    "section": "Research area",
+    "text": "Research area\n\nModelling Plant Behaviour across G*E\nTime Series Forecasting of Vegetation Dynamics"
+  },
+  {
+    "objectID": "people/benwallis/benwallis.html#techniques",
+    "href": "people/benwallis/benwallis.html#techniques",
+    "title": "Ben Wallis",
+    "section": "Techniques",
+    "text": "Techniques\n\nSupervised learning\nConvolutional networks\nBayesian methods"
+  },
+  {
+    "objectID": "people/benwallis/benwallis.html#research-area",
+    "href": "people/benwallis/benwallis.html#research-area",
+    "title": "Ben Wallis",
+    "section": "Research area",
+    "text": "Research area\n\nTidewater glacier dynamics\nIce ocean interaction"
+  },
+  {
+    "objectID": "people/andyturner/andyturner.html#techniques",
+    "href": "people/andyturner/andyturner.html#techniques",
+    "title": "Andy Turner",
+    "section": "Techniques",
+    "text": "Techniques\n\nMulti-layered Perceptron\nFuzzy Inference"
+  },
+  {
+    "objectID": "people/andyturner/andyturner.html#research-area",
+    "href": "people/andyturner/andyturner.html#research-area",
+    "title": "Andy Turner",
+    "section": "Research area",
+    "text": "Research area\n\nPredicting spatial and temporal change\nForecasting climate change impacts\nRiver level forecating"
+  },
+  {
+    "objectID": "people/andyhooper/andyhooper.html#techniques",
+    "href": "people/andyhooper/andyhooper.html#techniques",
+    "title": "Andy Hooper",
+    "section": "Techniques",
+    "text": "Techniques\n\nIca\ndeep learning"
+  },
+  {
+    "objectID": "people/andyhooper/andyhooper.html#research-area",
+    "href": "people/andyhooper/andyhooper.html#research-area",
+    "title": "Andy Hooper",
+    "section": "Research area",
+    "text": "Research area\n\nRadar interferometry (insar)\nvolcano deformation\ntectonic deformation"
+  },
+  {
+    "objectID": "people/alhanofalolyan/alhanofalolyan.html#techniques",
+    "href": "people/alhanofalolyan/alhanofalolyan.html#techniques",
+    "title": "Alhanof Alolyan",
+    "section": "Techniques",
+    "text": "Techniques\n\nDeep reinforcement learning\ndeep learning"
+  },
+  {
+    "objectID": "people/alhanofalolyan/alhanofalolyan.html#research-area",
+    "href": "people/alhanofalolyan/alhanofalolyan.html#research-area",
+    "title": "Alhanof Alolyan",
+    "section": "Research area",
+    "text": "Research area\n\nComputer-aided design\ncrowd simulation"
+  },
+  {
+    "objectID": "members/index.html",
+    "href": "members/index.html",
+    "title": "Members",
+    "section": "",
+    "text": "If you’re based at Leeds and would like to be added to this page, please fill out this form!\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAlhanof Alolyan\n\n\n\n\n\nComputer-aided design\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlistair Curd\n\n\n\nDeep Learning\n\n\n\nBiomedical fluorescence microscopy\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndy Hooper\n\n\n\n\n\nRadar interferometry (insar)\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndy Nowacki\n\n\n\nDeep Learning\n\n\n\nDetection and location of earthquakes and icequakes\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndy Turner\n\n\n\n\n\nPredicting spatial and temporal change\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArash Rabbani\n\n\n\nDeep Learning\n\nMachine Vision\n\nImage processing\n\n\n\nAI-driven 3D imaging and computational modeling of materials and biological microstructures.\n\n\n\n\n\nLinks\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBen Wallis\n\n\n\nDeep Learning\n\nCNN\n\n\n\nTidewater glacier dynamics\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCalum S. Skene\n\n\n\nDeep Learning\n\n\n\nGeophysical and astrophysical turbulence\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChetan Deva\n\n\n\nDecision Trees\n\n\n\nModelling Plant Behaviour across G*E\n\n\n\n\n\nLinks\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaire Bartholomew\n\n\n\nDeep Learning\n\nCNN\n\n\n\nPrecipitation nowcasting\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\nDan Hall\n\n\n\nPINNs\n\n\n\nParticle Physics\n\n\n\n\n\nLinks\n\n\nGithub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeclan Finney\n\n\n\n\n\nClouds\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDenise Hick\n\n\n\ncommittee\n\nMachine Learning\n\nRemote sensing\n\n\n\nSoil property prediction\n\n\n\n\n\nLinks\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDody Dharma\n\n\n\nDeep Learning\n\nCNN\n\n\n\nDeformbale Solid and Fluid Simulation\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDonald Cummins\n\n\n\ncommittee\n\nDeep Learning\n\n\n\nTurbulence parametrizations\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEilish O’Grady\n\n\n\ncommittee\n\nSemantic segmentation\n\ndiffusion models\n\nInSAR\n\n\n\nInSAR\n\n\n\n\n\nLinks\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEric Atwell\n\n\n\n\n\nUniversity teaching and assessment\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFergus Shone\n\n\n\nDeep Learning\n\nPINNs\n\n\n\nHaemodynamic flow super-resolution\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFlo Greaves\n\n\n\nCNN\n\n\n\nCloud organisation\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGyanateet Dutta\n\n\n\n\n\nSynthetic medical data generation.\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJack Smith\n\n\n\ncommittee\n\nDeep Learning\n\nCNN\n\n\n\nSemantic segmentation of masonry lined tunnel joints\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJacob Connolly\n\n\n\nDecision Trees\n\n\n\nInSAR Time series\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJakub Lewandowski\n\n\n\nDeep Learning\n\nPINNs\n\n\n\nWeather nowcasting\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJillian Schacher\n\n\n\n\n\nMarine spatial planning\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoe Gallear\n\n\n\nDeep Learning\n\nDecision Trees\n\n\n\nCrop yield estimation\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoey Smith\n\n\n\nDecision Trees\n\n\n\nStorm tracking and initiation prediction\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJohn Chong Zhang\n\n\n\nDeep Learning\n\n\n\nmineral system exploration\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonathan Coney\n\n\n\nDeep Learning\n\nCNN\n\n\n\nsegmentation of atmospheric gravity waves\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeif Denby\n\n\n\nDeep Learning\n\nCNN\n\n\n\nmeso-scale cloud organisation\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeyuan Wu\n\n\n\nDeep Learning\n\nPINNs\n\n\n\nEarth and planets’ gravity field modelling\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLongwei Chen\n\n\n\nDeep Learning\n\nPINNs\n\n\n\nPlanetary magnetic field modelling\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Luisa Taccari\n\n\n\nDeep Learning\n\nCNN\n\nPINNs\n\n\n\nGroundwater prediction\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMark Richardson\n\n\n\n\n\nMet office um\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMartin Parker\n\n\n\ncommittee\n\nProbabilistic/statistical modelling\n\nMachine Learning\n\n\n\nCrop modelling\n\n\n\n\n\nLinks\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMathew Henrickson\n\n\n\n\n\nText analysis of historic auction records\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiranda J S Horne\n\n\n\ncommittee\n\nDeep Learning\n\nPINNs\n\n\n\nComputational Fluid Dynamics\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNaomi Shakespeare-Rees\n\n\n\ncommittee\n\nDeep Learning\n\nCNN\n\nPINNs\n\n\n\nGeomagnetism\n\n\n\n\n\nLinks\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOluwaseun Coker\n\n\n\ncommittee\n\n\n\nFluid Dynamics\n\n\n\n\n\nLinks\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOmar Choudhry\n\n\n\ncommittee\n\nDeep Learning\n\nMedical image analysis\n\nMachine Learning\n\n\n\nMedicine\n\n\n\n\n\nLinks\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeyman Babakhani\n\n\n\nDecision Trees\n\nPINNs\n\n\n\nGlobal carbon cycling\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhil Livermore\n\n\n\nDeep Learning\n\nPINNs\n\n\n\nReconstruction of earth/planetary magnetic fields from sparse data\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRoger Cremades\n\n\n\nComplex systems science\n\nCellular automata\n\n\n\nCascading events in socio-technical systems\n\n\n\n\n\nLinks\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSam Llanwarne\n\n\n\nDeep Learning\n\nCNN\n\n\n\nvery large histology tissue image, preprocessing and classification\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSamuel Bancroft\n\n\n\nDeep Learning\n\nCNN\n\n\n\ncrop type classification\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShenghao Qiu\n\n\n\nDeep Learning\n\nCNN\n\n\n\nParallel and Distributed Deep Learning\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShu Zhang\n\n\n\nDecision Trees\n\n\n\nTropospheric ozone forcast\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimon Peatman\n\n\n\nDeep Learning\n\n\n\nClassification of convective weather systems\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrystan Surawy-Stepney\n\n\n\nDeep Learning\n\nCNN\n\n\n\nGlacier damage identification\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVineeth Kumar Vellala\n\n\n\n\n\nSynthetic medical data generation\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYutaro Shigemitsu\n\n\n\nDeep Learning\n\nPINNs\n\n\n\nMonitoring volcano\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZoe Hancox\n\n\n\nDeep Learning\n\nCNN\n\n\n\nHealth outcome prediction\n\n\n\n\n\nLinks\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "gpus/index.html",
+    "href": "gpus/index.html",
+    "title": "GPU resource list",
+    "section": "",
+    "text": "Below is an overview of GPU platforms available for research by staff at the University of Leeds:\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nOrganisation\n\n\n\nHardware\n\n\n\nAccess\n\n\n\nNotes\n\n\n\n\n\n\n\n\nARC3\n\n\nUniversity of Leeds\n\n\n2 nodes with 2 x NVIDIA K80s, 6 nodes with 4 x NVIDIA P100s\n\n\nAnyone at Leeds\n\n\nDEPRECIATED, please see AIRE\n\n\n\n\n\n\nARC4\n\n\nUniversity of Leeds\n\n\n3 nodes with 4 x NVIDIA V100s\n\n\nAnyone at Leeds\n\n\nDEPRECIATED, please see AIRE\n\n\n\n\n\n\nAIRE\n\n\nUniversity of Leeds\n\n\n28 nodes with 3 x NVIDIA L40S 48GB GPUs each\n\n\nAnyone at Leeds\n\n\nReplacing ARC3 and ARC4\n\n\n\n\n\n\nJASMIN\n\n\nNERC\n\n\n6x NVidia GV100GL across 3 nodes\n\n\ntbc\n\n\n \n\n\n\n\n\n\nDiRAC (Tursa)\n\n\nEPCC\n\n\n144 nodes with 4x Nvidia RedStone A100-40 each\n\n\nAnnual call for project proposals\n\n\n \n\n\n\n\n\n\nMAGEO\n\n\nPML\n\n\n5 NVIDIA DGX-1 MaxQ nodes\n\n\nNERC related research\n\n\n \n\n\n\n\n\n\nBEDE\n\n\nDurham\n\n\n38x Nvidia V100 across 38 nodes in cluster\n\n\nEPSRC funded projects (pre EPSRC-application access available)\n\n\n \n\n\n\n\n\n\nLEARN\n\n\nUoL\n\n\n1 DGX A100\n\n\n \n\n\n \n\n\n\n\n\n\nGoogle Colab\n\n\nGoogle\n\n\nNVidia k80s\n\n\nFree through Google account\n\n\n \n\n\n\n\n\n\nKaggle Notebooks\n\n\nKaggle\n\n\n30 GPU hrs/week\n\n\nFree through Kaggle account\n\n\n \n\n\n\n\n\n\nGradient\n\n\nPaperspace\n\n\nM4000 in free tier\n\n\nFree or paid tiers\n\n\n \n\n\n\n\n\n\nGraphcore\n\n\nPaperspace\n\n\nGraphcore IPU-POD16\n\n\nmax_hours_per_day - 6hrs/day, Free during evaluation period\n\n\n \n\n\n\n\n\n\nNo matching items\n\n\nEuroHPC JU - supercomputers"
+  },
+  {
+    "objectID": "events/2023-10-27-SINDy_Challenges.html#installing-pysindy",
+    "href": "events/2023-10-27-SINDy_Challenges.html#installing-pysindy",
+    "title": "SINDy - Challenge",
+    "section": "Installing PySINDy",
+    "text": "Installing PySINDy\nTo install the newest version of PySINDy, you must follow the instructions on the documentation. The version available through Conda is much older than the newest release. See https://pysindy.readthedocs.io/en/latest/index.html#installation.\n!pip install pysindy --quiet\n\u001b[2K     \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m121.0/121.0 kB\u001b[0m \u001b[31m3.1 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\n\u001b[?25h\nimport matplotlib.pyplot as plt\nfrom mpl_toolkits.mplot3d import Axes3D\nimport numpy as np\nfrom scipy.integrate import solve_ivp\nfrom sklearn.metrics import mean_squared_error\n\nimport os\n#print(os.getcwd())\n#os.chdir(\"../PhD/PhD/ANAET\")\nfrom pysindy.utils import lorenz, lorenz_control, enzyme\nimport pysindy as ps\n\n# bad code but allows us to ignore warnings\nimport warnings\nfrom scipy.integrate.odepack import ODEintWarning\nwarnings.simplefilter(\"ignore\", category=UserWarning)\nwarnings.simplefilter(\"ignore\", category=FutureWarning)\nwarnings.simplefilter(\"ignore\", category=ODEintWarning)\n\n# Seed the random number generators for reproducibility\nnp.random.seed(100)\n\n# Initialize integrator keywords for solve_ivp to replicate the odeint defaults\nintegrator_keywords = {}\nintegrator_keywords['rtol'] = 1e-12\nintegrator_keywords['method'] = 'LSODA'\nintegrator_keywords['atol'] = 1e-12\n\nimport matplotlib as mpl\nmpl.rcParams[\"xtick.labelsize\"]=22\nmpl.rcParams[\"ytick.labelsize\"]=22\nmpl.rcParams[\"axes.labelsize\"]=26\nmpl.rcParams['mathtext.fontset'] = 'stix'\nmpl.rcParams['font.family'] = 'STIXGeneral'\n&lt;ipython-input-3-92171691bfc6&gt;:15: DeprecationWarning: Please use `ODEintWarning` from the `scipy.integrate` namespace, the `scipy.integrate.odepack` namespace is deprecated.\n  from scipy.integrate.odepack import ODEintWarning"
+  },
+  {
+    "objectID": "events/2023-10-27-SINDy_Challenges.html#mean-field-model",
+    "href": "events/2023-10-27-SINDy_Challenges.html#mean-field-model",
+    "title": "SINDy - Challenge",
+    "section": "Mean field model",
+    "text": "Mean field model\nOne reduced-order model of flow past a cylinder is the coupled system of equations \\[\\begin{align}\n\\dot{x} &= \\mu x- \\omega y - xz,\\\\\n\\dot{y} &= \\mu y + \\omega x -yz,\\\\\n\\dot{z} & = -z + x^2 + y^2\n\\end{align}\\] where \\(\\mu\\) and \\(\\omega\\) are scalars. \\(\\omega\\) gives the frequency of oscillation.\nTasks: 1. Generate a training set of data using the initial conditions \\([0.01, 0.01, 0.1]\\), \\(\\omega=1\\) and \\(\\mu=0.1\\). Use SINDy to identify the model. 2. Now fit a SINDy model to data only when the model is on the stable limit cycle (the data is only oscillating). What happens to the model?\nmu = 0.1\nomega =1\nA=-1\nlam = 1\ndef cylinder_wake(t, xv):\n    x,y,z = xv\n    return [mu*x-omega*y+A*x*z,\n            omega*x + mu*y + A*y*z,\n            -z+x**2+y**2]\ny0 = [0.01, 0.01, 0.1]"
+  },
+  {
+    "objectID": "events/2023-05-05-Reinforcement_learning_Challenges.html#import-packages-and-setup-your-environment",
+    "href": "events/2023-05-05-Reinforcement_learning_Challenges.html#import-packages-and-setup-your-environment",
+    "title": "Reinforcement learning introduction - Challenge",
+    "section": "Import packages and setup your environment",
+    "text": "Import packages and setup your environment\nimport numpy as np\nimport random\nFirst, we define the FrozenLake environment as a class, with methods for resetting the environment, taking actions, rendering the current state, and showing the current Q-table and policy.\nclass FrozenLake:\n    def __init__(self, size=4):\n        self.size = size\n        self.grid = np.zeros((4, 4), dtype=int) # spcifiy grid size please\n        self.start_state = (0, 0)\n        self.goal_state = (3, 3) # can you state the goal state in the grid (row, column)\n        self.hole_states = [(1, 1), (2, 3), (3, 0)]\n        for i, j in self.hole_states:\n            self.grid[i][j] = 1\n    \n    def reset(self):\n        self.current_state = self.start_state\n        return self.current_state\n    \n    def step(self, action): # could you please set the actions as numbers\n        i, j = self.current_state\n        if action == 0: # move up\n            i = max(i-1, 0)\n        elif action == 1: # move down\n            i = min(i+1, self.size-1)\n        elif action == 2: # move left\n            j = max(j-1, 0)\n        elif action == 3: # move right\n            j = min(j+1, self.size-1)\n        \n        self.current_state = (i, j)\n        \n        # what is your rewads?\n        if self.current_state == self.goal_state: \n            reward = 1 # winning reward?\n            done = True\n        elif self.current_state in self.hole_states:\n            reward = -1 # losing for hole states, reward?\n            done = True\n        else:\n            reward = 0 # else?\n            done = False\n        \n        return self.current_state, reward, done\n\n\n    def render(self):\n        print('\\n')\n        for i in range(self.size):\n            for j in range(self.size):\n                if self.grid[i][j] == 0:\n                    if (i, j) == self.current_state:\n                        print('S', end=' ')\n                    elif (i, j) == self.goal_state:\n                        print('G', end=' ')\n                    else:\n                        print('.', end=' ')\n                elif self.grid[i][j] == 1:\n                    if (i, j) == self.current_state:\n                        print('S', end=' ')\n                    else:\n                        print('X', end=' ')\n            print()\n        print()\n    \n    \n    def show_q_table(self, q_table):\n\n        print('-----------------------------------------------------------------')\n        print('Q-Table:')\n        print('-----------------------------------------------------------------')\n\n        for i in range(self.size):\n            for j in range(self.size):\n                if self.grid[i][j] == 0:\n                    print( '%.2f' % q_table[i][j][0], end='\\t')\n                    print('%.2f' % q_table[i][j][1], end='\\t')\n                    print('%.2f' % q_table[i][j][2], end='\\t')\n                    print('%.2f' % q_table[i][j][3])\n                else:\n                    print('NULL', end='\\t')\n                    print('NULL', end='\\t')\n                    print('NULL', end='\\t')\n                    print('NULL')\n            print()\n\n\n    # In one text line show the policy (the sequence of actions that agent take )\n    def show_policy(self, q_table):\n        print('\\n Policy:')\n        for i in range(self.size):\n            for j in range(self.size):\n                if self.grid[i][j] == 0:\n                    action = np.argmax(q_table[i][j])\n                    if action == 0:\n                        print('UP', end=' ')\n                    elif action == 1:\n                        print('DOWN', end=' ')\n                    elif action == 2:\n                        print('LEFT', end=' ')\n                    elif action == 3:\n                        print('RIGTH', end=' ')\n                else:\n                    print('STAY', end=' ')\nNext, we create an instance of the environment and initialize the Q-table with zeros.\nenv = FrozenLake()\nq_table = np.zeros((env.size, env.size, 4))"
+  },
+  {
+    "objectID": "events/2023-05-05-Reinforcement_learning_Challenges.html#hyperparameters",
+    "href": "events/2023-05-05-Reinforcement_learning_Challenges.html#hyperparameters",
+    "title": "Reinforcement learning introduction - Challenge",
+    "section": "Hyperparameters",
+    "text": "Hyperparameters\nWe then set some hyperparameters for the Q-learning algorithm, such as the number of episodes to run, the maximum number of steps per episode, the learning rate, the discount factor, the starting exploration rate (epsilon), the minimum exploration rate, and the rate at which epsilon decays over time.\n# Could you please set your hyperparameters?\nnum_episodes = 2000\nmax_steps_per_episode = 10\nlearning_rate = 0.05\ndiscount_factor = 0.99\n\nepsilon = 1.0\nmin_epsilon = 0.01\nepsilon_decay_rate = 0.001\nWe define an epsilon-greedy policy for selecting actions, which chooses a random action with probability epsilon or the greedy action (i.e., the action with the highest Q-value) with probability 1 - epsilon.\n\n\n\nScreen Shot 2023-04-16 at 2.11.38 PM.png\n\n\n# Define epsilon-greedy policy\ndef epsilon_greedy_policy(state):\n    if random.uniform(0, 1) &lt; epsilon:\n        return random.randint(0, 3)\n    else:\n        return np.argmax(q_table[state[0]][state[1]])\nWe train the agent by running a loop over the specified number of episodes. In each episode, we start by resetting the environment and selecting actions according to the epsilon-greedy policy. We then update the Q-values for the current state-action pair using the Q-learning update rule. Finally, we update the current state and repeat until the episode ends (either because the agent reaches the goal or exceeds the maximum number of steps).\nWe decay the exploration rate (epsilon) after each episode to gradually shift the agent from exploration to exploitation over time.\nPeriodically, we render the current state of the environment and display the current Q-table and policy for visualization.\nfor episode in range(num_episodes):\n    state = env.reset()\n    done = False\n    t = 0\n    while not done and t &lt; max_steps_per_episode:\n\n        action = epsilon_greedy_policy(state)\n\n        next_state, reward, done = env.step(action)\n\n        # what is missing to update the Q value?\n        #q_table[state[0]][state[1]][action] += learning_rate * (reward + discount_factor * np.max(q_table[next_state[0]][next_state[1]]) - q_table[state[0]][state[1]][action])\n        q_table[state[0]][state[1]][action] += learning_rate * (reward + discount_factor * np.max(q_table[next_state[0]][next_state[1]]) - q_table[state[0]][state[1]][action])\n\n        state = next_state\n\n        t += 1\n\n    epsilon = max(min_epsilon, epsilon * (1 - epsilon_decay_rate))\n\n    # Show progress\n    if episode % 1000 == 0:\n        env.render()\n        env.show_q_table(q_table)\n        env.show_policy(q_table)\n. . . . \n. S . . \n. . . X \nX . . G \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.00    0.00    0.00    0.00\n0.00    -0.05   0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n0.00    0.00    0.00    0.00\nNULL    NULL    NULL    NULL\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nUP UP UP UP UP STAY UP UP UP UP UP STAY STAY UP UP UP \n\n. . . . \n. S . . \n. . . X \nX . . G \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.00    0.00    0.00    0.00\n0.00    -1.00   0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n0.00    0.00    0.00    -1.00\nNULL    NULL    NULL    NULL\n0.00    0.00    -0.64   0.00\n0.00    -0.19   0.00    0.00\n\n0.00    -0.74   0.00    0.00\n-0.26   0.00    0.00    0.00\n0.00    0.00    0.00    -0.05\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.00    0.00    -0.10   0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nUP UP UP UP UP STAY UP UP UP DOWN UP STAY STAY UP UP UP \n\nOnce training is complete, we test the agent by running a loop until the agent reaches the goal or exceeds the maximum number of steps. In each step, we select the greedy action (i.e., the action with the highest Q-value) and update the current state. We render the environment at each step for visualization.\n# Test agent\nstate = env.reset()\ndone = False\nwhile not done:\n    action = np.argmax(q_table[state[0]][state[1]])\n    next_state, reward, done = env.step(action)\n    env.render()\n    state = next_state\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G \n\n\n\nS . . . \n. X . . \n. . . X \nX . . G"
+  },
+  {
+    "objectID": "about/about.html",
+    "href": "about/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "about/index.html#committee-members",
+    "href": "about/index.html#committee-members",
+    "title": "Sciml Leeds Committee",
+    "section": "Committee Members",
+    "text": "Committee Members\nWe’re currently looking for new committee members! Roles are flexible depending on your time constraints, and are only during term time. If you’re interested please contact us at  sciml@leeds.ac.uk  for more infomation, or chat to any of the committee at events!\n\n\n\n\n\n\n\n\n\n\nDenise Hick\n\n\n\n\nlinks:\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDonald Cummins\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEilish O’Grady\n\n\n\n\nlinks:\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJack Smith\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMartin Parker\n\n\n\n\nlinks:\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiranda J S Horne\n\n\n\n\nlinks:\n\n\nGithubWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNaomi Shakespeare-Rees\n\n\n\n\nlinks:\n\n\nGithub Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOluwaseun Coker\n\n\n\n\nlinks:\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOmar Choudhry\n\n\n\n\nlinks:\n\n\nGithub Website\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "directions/index.html",
+    "href": "directions/index.html",
+    "title": "Directions to Worsley 11.87",
+    "section": "",
+    "text": "From outside of the Roger Stevens building, head west past the sustainability garden on your left until you reach the map.\n\n\nTurn left and head down the “North-South access route” on level 7.\n\n\nFollow the corridor straight ahead and into the Worsley building.\n\n\nAt the end of the corridor you will walk into an open plan seating area welcoming you to the Faculty of Medicine and Health. Turn left and walk over to the lifts/stairs.\n\n\nGo up to level 11.\n\n\nOn level 11, turn left out of the lift (right out of the stairs). We are in the first room on the left (11.87).\nWe look forward to seeing you at 11:00 on the first friday of the month!"
+  },
+  {
+    "objectID": "events/2023-05-05-Reinforcement_learning_Solution.html#import-packages-and-setup-your-environment",
+    "href": "events/2023-05-05-Reinforcement_learning_Solution.html#import-packages-and-setup-your-environment",
+    "title": "Reinforcement learning introduction - Solution",
+    "section": "Import packages and setup your environment",
+    "text": "Import packages and setup your environment\nThis code imports the FrozenLake environment from the OpenAI Gym library and creates an instance of the environment.\nimport gym\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n\n# Create the FrozenLake environment\nenv = gym.make('FrozenLake-v1')\nThis code initializes the Q-table to zeros. The Q-table is a matrix where the rows represent the possible states of the environment and the columns represent the possible actions that the agent can take.\n# Initialize the Q-table to zeros\nQ = np.zeros([env.observation_space.n, env.action_space.n])"
+  },
+  {
+    "objectID": "events/2023-05-05-Reinforcement_learning_Solution.html#hyperparameters",
+    "href": "events/2023-05-05-Reinforcement_learning_Solution.html#hyperparameters",
+    "title": "Reinforcement learning introduction - Solution",
+    "section": "Hyperparameters 📈",
+    "text": "Hyperparameters 📈\n# Set hyperparameters\nlr = 0.8  # learning rate\ngamma = 0.95  # discount factor\nnum_episodes = 2000  # number of training episodes"
+  },
+  {
+    "objectID": "events/2023-05-05-Reinforcement_learning_Solution.html#train-your-agent",
+    "href": "events/2023-05-05-Reinforcement_learning_Solution.html#train-your-agent",
+    "title": "Reinforcement learning introduction - Solution",
+    "section": "TRAIN YOUR AGENT 🤖 ❄",
+    "text": "TRAIN YOUR AGENT 🤖 ❄\nThis code trains the agent using Q-learning. During training, the agent interacts with the environment by selecting actions based on the Q-table and updating the Q-table based on the observed reward. The hyperparameters lr and gamma control how much the agent values immediate rewards versus future rewards. The num_episodes parameter controls how many times the agent interacts with the environment.\n# Keep track of the total reward for each episode \nrewards = np.zeros(num_episodes)\n\n# Train the agent using Q-learning\nfor i in range(num_episodes):\n    # Reset the environment for each episode\n    s = env.reset()\n    done = False\n    while not done:\n        # Choose an action based on the Q-table, with some random noise\n        a = np.argmax(Q[s,:] + np.random.randn(1, env.action_space.n)*(1./(i+1)))\n        \n        # Take the chosen action and observe the next state and reward\n        s_new, r, done, _ = env.step(a)\n        \n        # Update the Q-table based on the observed reward\n        Q[s,a] = Q[s,a] + lr*(r + gamma*np.max(Q[s_new,:]) - Q[s,a])\n        \n        \n        # Add the reward to the total reward for the episode\n        rewards[i] += r\n        \n        # Set the current state to the next state\n        s = s_new"
+  },
+  {
+    "objectID": "events/2023-05-05-Reinforcement_learning_Solution.html#test-your-agent",
+    "href": "events/2023-05-05-Reinforcement_learning_Solution.html#test-your-agent",
+    "title": "Reinforcement learning introduction - Solution",
+    "section": "TEST YOUR AGENT 🧪",
+    "text": "TEST YOUR AGENT 🧪\nThis code tests the agent on 100 episodes after training. During testing, the agent chooses actions based on the Q-table and tries to reach the goal state. The code keeps track of the number of successful episodes (where the agent reaches the goal state) and prints the success rate at the end.\n# Test the agent on 100 episodes \nnum_successes = 0\nfor i in range(100):\n    s = env.reset()\n    done = False\n    while not done:\n        # Choose an action based on the Q-table\n        a = np.argmax(Q[s,:])\n        s, r, done, _ = env.step(a)\n    if r == 1:\n        num_successes += 1\n\n# Print the success rate\nprint(\"Success rate:\", num_successes/100)\nSuccess rate: 0.54"
+  },
+  {
+    "objectID": "events/2023-05-05-Reinforcement_learning_Solution.html#hyperparameters-1",
+    "href": "events/2023-05-05-Reinforcement_learning_Solution.html#hyperparameters-1",
+    "title": "Reinforcement learning introduction - Solution",
+    "section": "Hyperparameters 📈",
+    "text": "Hyperparameters 📈\nWe then set some hyperparameters for the Q-learning algorithm, such as the number of episodes to run, the maximum number of steps per episode, the learning rate, the discount factor, the starting exploration rate (epsilon), the minimum exploration rate, and the rate at which epsilon decays over time.\n# Set hyperparameters\nnum_episodes = 10000\nmax_steps_per_episode = 100\nlearning_rate = 0.1\ndiscount_factor = 0.99\nepsilon = 1.0\nmin_epsilon = 0.01\nepsilon_decay_rate = 0.001\nWe define an epsilon-greedy policy for selecting actions, which chooses a random action with probability epsilon or the greedy action (i.e., the action with the highest Q-value) with probability 1 - epsilon.\n\n\n\nScreen Shot 2023-04-16 at 2.11.38 PM.png\n\n\n# Define epsilon-greedy policy\ndef epsilon_greedy_policy(state):\n    if random.uniform(0, 1) &lt; epsilon:\n        return random.randint(0, 3)\n    else:\n        return np.argmax(q_table[state[0]][state[1]])\nWe train the agent by running a loop over the specified number of episodes. In each episode, we start by resetting the environment and selecting actions according to the epsilon-greedy policy. We then update the Q-values for the current state-action pair using the Q-learning update rule. Finally, we update the current state and repeat until the episode ends (either because the agent reaches the goal or exceeds the maximum number of steps).\nWe decay the exploration rate (epsilon) after each episode to gradually shift the agent from exploration to exploitation over time.\nPeriodically, we render the current state of the environment and display the current Q-table and policy for visualization.\n# Train agent\nfor episode in range(num_episodes):\n    state = env.reset()\n    done = False\n    t = 0\n    while not done and t &lt; max_steps_per_episode:\n        action = epsilon_greedy_policy(state)\n        next_state, reward, done = env.step(action)\n        q_table[state[0]][state[1]][action] += learning_rate * \\\n            (reward + discount_factor * np.max(q_table[next_state[0]][next_state[1]]) - q_table[state[0]][state[1]][action])\n        state = next_state\n        t += 1\n    epsilon = max(min_epsilon, epsilon * (1 - epsilon_decay_rate))\n\n    # Show progress\n    if episode % 1000 == 0:\n        env.render()\n        env.show_q_table(q_table)\n        env.show_policy(q_table)\n. . . . \n. S . . \n. . . X \nX . . G \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n0.00    0.00    0.00    -0.10\nNULL    NULL    NULL    NULL\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nUP UP UP UP UP STAY UP UP UP UP UP STAY STAY UP UP UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.84    0.85    0.96    0.82\n\n0.94    0.58    0.85    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.65    -0.95   0.97    0.80\n\n0.47    -1.00   0.32    0.81\n-0.95   0.72    0.45    0.98\n0.97    0.99    0.96    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.58    0.71    -0.81   0.98\n0.98    0.99    0.94    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.88    0.91    0.96    0.90\n\n0.94    0.69    0.88    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.91\n-0.95   0.79    0.66    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.65    0.84    -0.88   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.90\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.91\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.91\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.91\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.91\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.91\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \n\n. . . . \n. X . . \n. . . X \nX . . S \n\n-----------------------------------------------------------------\nQ-Table:\n-----------------------------------------------------------------\n0.94    0.93    0.94    0.95\n0.95    -1.00   0.94    0.96\n0.96    0.97    0.95    0.95\n0.89    0.91    0.96    0.91\n\n0.94    0.73    0.89    -1.00\nNULL    NULL    NULL    NULL\n0.96    0.98    -1.00   0.96\n0.81    -0.96   0.97    0.90\n\n0.56    -1.00   0.37    0.92\n-0.96   0.81    0.69    0.98\n0.97    0.99    0.97    -1.00\nNULL    NULL    NULL    NULL\n\nNULL    NULL    NULL    NULL\n0.68    0.84    -0.89   0.99\n0.98    0.99    0.98    1.00\n0.00    0.00    0.00    0.00\n\n\nPolicy:\nRIGHT RIGHT DOWN LEFT UP STAY DOWN LEFT RIGHT RIGHT DOWN STAY STAY RIGHT RIGHT UP \nOnce training is complete, we test the agent by running a loop until the agent reaches the goal or exceeds the maximum number of steps. In each step, we select the greedy action (i.e., the action with the highest Q-value) and update the current state. We render the environment at each step for visualization.\n\n# Test agent\nstate = env.reset()\ndone = False\nwhile not done:\n    action = np.argmax(q_table[state[0]][state[1]])\n    next_state, reward, done = env.step(action)\n    env.render()\n    state = next_state\n. S . . \n. X . . \n. . . X \nX . . G \n\n\n\n. . S . \n. X . . \n. . . X \nX . . G \n\n\n\n. . . . \n. X S . \n. . . X \nX . . G \n\n\n\n. . . . \n. X . . \n. . S X \nX . . G \n\n\n\n. . . . \n. X . . \n. . . X \nX . S G \n\n\n\n. . . . \n. X . . \n. . . X \nX . . S"
+  },
+  {
+    "objectID": "events/index.html",
+    "href": "events/index.html",
+    "title": "Past Events",
+    "section": "",
+    "text": "Below is an overview of events organised by the SciML community. We aim to put recordings of each event online within a week of them taking place.\nPlease get in touch  if you’d like to come to talk to us, we’re a very diverse group in terms of applications in scientific machine learning and would  to hear about your work!"
+  },
+  {
+    "objectID": "events/index.html#seminars",
+    "href": "events/index.html#seminars",
+    "title": "Past Events",
+    "section": "Seminars",
+    "text": "Seminars\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nSpeaker\n\n\n\nDate\n\n\n\nRecording\n\n\n\n\n\n\n\n\nSample-Efficient Optimisation and Surrogate Learning for Fluid Dynamics-Driven Engineering Design\n\n\nNausheen Basha (University of Manchester)\n\n\n17th Jul, 2026\n\n\nLink\n\n\n\n\n\n\nPredicting large scale behaviours of active matter models with graph networks\n\n\nXietao Wang-Lin (University of Warwick)\n\n\n19th Jun, 2026\n\n\nLink\n\n\n\n\n\n\nMachine Learning directly into Computational Fluid Dynamics Models\n\n\nMatthew Juniper (University of Cambridge)\n\n\n12th Jun, 2026\n\n\nLink\n\n\n\n\n\n\nAdvancing Flood Forecasting with Machine Learning at ECMWF\n\n\nMaria Luisa Taccari (European Centre for Medium-Range Weather Forecasts - ECMWF)\n\n\n30th Jan, 2026\n\n\nLink\n\n\n\n\n\n\nFrom Accurate to Trustworthy: Uncertainty Quantification and Physical Consistency in Scientific Machine Learning\n\n\nHonglin Wen (Shanghai Jiao Tong University, Imperial College London)\n\n\n21st Nov, 2025\n\n\nLink\n\n\n\n\n\n\nFTorch: a library for coupling PyTorch models to Fortran\n\n\nJack Atkinson (University of Cambridge)\n\n\n18th Jul, 2025\n\n\nLink\n\n\n\n\n\n\nAdvancing Dexterous Manipulation: From Grasp Synthesis to Long Horizon Task Planning\n\n\nKunpeng Yao (University of Leeds)\n\n\n27th Jun, 2025\n\n\nLink\n\n\n\n\n\n\nApplying Computer Vision to InSAR Data for Volcanic Unrest Monitoring\n\n\nPui Anantrasirichai (University of Bristol)\n\n\n20th Jun, 2025\n\n\nLink\n\n\n\n\n\n\nLearning Intersecting Surfaces via Invariants\n\n\nTimon Gutleb (University of Leeds)\n\n\n13th Jun, 2025\n\n\nLink\n\n\n\n\n\n\nGeneralizing Scientific Machine Learning and Differentiable Simulation Beyond Continuous Models\n\n\nChris Rackauckas (MIT)\n\n\n9th May, 2025\n\n\nLink\n\n\n\n\n\n\nCommunity Research Earth Digital Intelligence Twin (CREDIT)\n\n\nDavid John Gagne (NSF National Center for Atmospheric Research)\n\n\n28th Mar, 2025\n\n\nLink\n\n\n\n\n\n\nFrom Atmospheric Physics to Machine Learning and Back\n\n\nTom Beucler (University of Lausanne)\n\n\n21st Mar, 2025\n\n\nLink\n\n\n\n\n\n\nUsing AI approaches to inform our climate risk\n\n\nBen Booth (UK Met Office)\n\n\n28th Feb, 2025\n\n\nLink\n\n\n\n\n\n\nAn image-based nowcasting approach for dust storms by predicting SEVIRI desert dust RGB composites\n\n\nKilian Hermes (University of Leeds)\n\n\n13th Dec, 2024\n\n\nLink\n\n\n\n\n\n\nRegional climate model emulator based on deep learning\n\n\nAntoine Doury (French National Centre for Meteorological Research)\n\n\n29th Nov, 2024\n\n\nLink\n\n\n\n\n\n\nRapid Spatio-Temporal Flood Modeling - Hydraulic GNN Approach\n\n\nRoberto Bentivoglio (Delft University of Technology)\n\n\n16th Feb, 2023\n\n\nLink\n\n\n\n\n\n\nForecasting Global Weather with Graph Neural Networks\n\n\nRyan Keisler (KoBold Metals)\n\n\n10th Nov, 2023\n\n\nLink\n\n\n\n\n\n\nCould deep learning methods replace numerical weather models?\n\n\nMariana Clare (European Centre for Medium Range Weather Forecasts)\n\n\n20th Oct, 2023\n\n\nLink\n\n\n\n\n\n\nFeature-Preserving Point Cloud Simplification with Gaussian Processes\n\n\nThomas. M. McDonald (University of Manchester)\n\n\n14th Jul, 2023\n\n\nLink\n\n\n\n\n\n\nPhysics-based domain adaptation for dynamical systems forecasting\n\n\nZack Xuereb Conti (Alan Turing Institute)\n\n\n19th May, 2023\n\n\nLink\n\n\n\n\n\n\nClimaX: A foundation model for weather and climate\n\n\nTung Nguyen (UCLA)\n\n\n17th Mar, 2023\n\n\nLink\n\n\n\n\n\n\nSea ice detection from concurrent visible and SAR imagery using a convolutional neural network\n\n\nMartin Rogers (British Antarctic Survey)\n\n\n24th Feb, 2023\n\n\nLink\n\n\n\n\n\n\nPhysics-informed Machine Learning for Trustworthy Climate Emulators\n\n\nBjörn Lütjens (MIT)\n\n\n10th Feb, 2023\n\n\nLink\n\n\n\n\n\n\nExplainable AI for identifying regional climate change patterns\n\n\nZack Labe (Princeton)\n\n\n13th Jan, 2023\n\n\nLink\n\n\n\n\n\n\nExtending the capabilities of data-driven reduced-order models to make predictions for unseen scenarios\n\n\nClaire Heaney (Imperial College)\n\n\n18th Nov, 2022\n\n\nLink\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/index.html#workshops",
+    "href": "events/index.html#workshops",
+    "title": "Past Events",
+    "section": "Workshops",
+    "text": "Workshops\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nSpeaker\n\n\n\nDate\n\n\n\nRecording\n\n\n\nWorkbook\n\n\n\n\n\n\n\n\nAn introduction to testing and writing packages in Python\n\n\nZoe Hancox (University of Leeds)\n\n\n28th Jun, 2024\n\n\n \n\n\nLink\n\n\n\n\n\n\nSINDy\n\n\nAlasdair Roy (University of Leeds)\n\n\n27th Oct, 2023\n\n\nLink\n\n\nLink\n\n\n\n\n\n\nReinforcement Learning (Challenges)\n\n\nAlhanof Alolyan (University of Leeds)\n\n\n17th Apr, 2023\n\n\n \n\n\nLink\n\n\n\n\n\n\nReinforcement Learning (Solutions)\n\n\nAlhanof Alolyan (University of Leeds)\n\n\n17th Apr, 2023\n\n\n \n\n\nLink\n\n\n\n\n\n\nPhysics-informed neural networks (PINNs)\n\n\nFergus Shone (University of Leeds)\n\n\n17th Feb, 2023\n\n\nLink\n\n\n \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Scientific Machine Learning at the University of Leeds",
+    "section": "",
+    "text": "Scientific Machine Learning at the University of Leeds\n\n\n\n\n\nHi!\nWelcome to the website for people interested in Scientific Machine Learning (SciML) at Leeds. SciML is the discipline of combining machine learning with scientific computing, for more information please see e.g. sciml.ai. This website serves to organise our work and allow others to join us.\nWe meet the first Friday of every month at 11am UK/local time in room 11.87, 11th Floor, Worsley Building, Leeds Institute for Data Analytics (Use .ics-file download to add the event to your calendar). See here for directions\nWe also organise seminars and workshops, as well as send out a monthly newsletter."
+  },
+  {
     "objectID": "nl_archive/index.html",
     "href": "nl_archive/index.html",
     "title": "Newsletter Archive",
     "section": "",
-    "text": "March\nFebruary\nJanuary\n\n\n\n\n\nDecember\nNovember\nOctober\nMay\nApril\nMarch\nFebruary\n\n\n\n\n\nDecember\nNovember\nOctober\nJuly"
+    "text": "November\nOctober\nJune\nMay\nApril\nMarch\nFebruary\nJanuary\n\n\n\n\n\nDecember\nNovember\nOctober\nMay\nApril\nMarch\nFebruary\nJanuary\n\n\n\n\n\nDecember\nNovember\nOctober\nMay\nApril\nMarch\nFebruary\n\n\n\n\n\nDecember\nNovember\nOctober\nJuly"
   },
   {
     "objectID": "nl_archive/index.html#section",
     "href": "nl_archive/index.html#section",
     "title": "Newsletter Archive",
     "section": "",
-    "text": "March\nFebruary\nJanuary"
+    "text": "November\nOctober\nJune\nMay\nApril\nMarch\nFebruary\nJanuary"
   },
   {
     "objectID": "nl_archive/index.html#section-1",
     "href": "nl_archive/index.html#section-1",
     "title": "Newsletter Archive",
     "section": "",
-    "text": "December\nNovember\nOctober\nMay\nApril\nMarch\nFebruary"
+    "text": "December\nNovember\nOctober\nMay\nApril\nMarch\nFebruary\nJanuary"
   },
   {
     "objectID": "nl_archive/index.html#section-2",
     "href": "nl_archive/index.html#section-2",
     "title": "Newsletter Archive",
     "section": "",
+    "text": "December\nNovember\nOctober\nMay\nApril\nMarch\nFebruary"
+  },
+  {
+    "objectID": "nl_archive/index.html#section-3",
+    "href": "nl_archive/index.html#section-3",
+    "title": "Newsletter Archive",
+    "section": "",
     "text": "December\nNovember\nOctober\nJuly"
   },
   {
-    "objectID": "people/eilishogrady/eilishogrady.html#techniques",
-    "href": "people/eilishogrady/eilishogrady.html#techniques",
-    "title": "Eilish O’Grady",
+    "objectID": "people/alistaircurd/alistaircurd.html#techniques",
+    "href": "people/alistaircurd/alistaircurd.html#techniques",
+    "title": "Alistair Curd",
     "section": "Techniques",
-    "text": "Techniques\n\nSemantic segmentation\nDiffusion models\nInSAR"
+    "text": "Techniques\n\nExplainable neural networks\nmodels for images and point patterns,\nclassification"
   },
   {
-    "objectID": "people/eilishogrady/eilishogrady.html#research-area",
-    "href": "people/eilishogrady/eilishogrady.html#research-area",
-    "title": "Eilish O’Grady",
+    "objectID": "people/alistaircurd/alistaircurd.html#research-area",
+    "href": "people/alistaircurd/alistaircurd.html#research-area",
+    "title": "Alistair Curd",
     "section": "Research area",
-    "text": "Research area\n\nGeodesy\nInterferometric Synthetic Aperature Radar (InSAR)\nPhase Unwrapping"
+    "text": "Research area\n\nBiomedical fluorescence microscopy\nPathology methods\nSuper-resolution fluorescence microsopy7\nSingle-molecule localisation microscopy"
+  },
+  {
+    "objectID": "people/andynowacki/andynowacki.html#techniques",
+    "href": "people/andynowacki/andynowacki.html#techniques",
+    "title": "Andy Nowacki",
+    "section": "Techniques",
+    "text": "Techniques\n\nNeural networks\nclassification"
+  },
+  {
+    "objectID": "people/andynowacki/andynowacki.html#research-area",
+    "href": "people/andynowacki/andynowacki.html#research-area",
+    "title": "Andy Nowacki",
+    "section": "Research area",
+    "text": "Research area\n\nDetection and location of earthquakes and icequakes\nsubsurface structure and characterisation"
+  },
+  {
+    "objectID": "people/arashrabbani/arashrabbani.html#techniques",
+    "href": "people/arashrabbani/arashrabbani.html#techniques",
+    "title": "Arash Rabbani",
+    "section": "Techniques",
+    "text": "Techniques\n\n3D Image processing\nGANs\nMachine vision"
+  },
+  {
+    "objectID": "people/arashrabbani/arashrabbani.html#research-area",
+    "href": "people/arashrabbani/arashrabbani.html#research-area",
+    "title": "Arash Rabbani",
+    "section": "Research area",
+    "text": "Research area\n\nAI-Driven 3D Microstructure Characterization\nReconstruction\nGenerative Modeling"
+  },
+  {
+    "objectID": "people/calums.skene/calums.skene.html#techniques",
+    "href": "people/calums.skene/calums.skene.html#techniques",
+    "title": "Calum S. Skene",
+    "section": "Techniques",
+    "text": "Techniques\n\nNeural networks\nNeural operators\nReservoir computing"
+  },
+  {
+    "objectID": "people/calums.skene/calums.skene.html#research-area",
+    "href": "people/calums.skene/calums.skene.html#research-area",
+    "title": "Calum S. Skene",
+    "section": "Research area",
+    "text": "Research area\n\nGeophysical and astrophysical turbulence"
+  },
+  {
+    "objectID": "people/clairebartholomew/clairebartholomew.html#techniques",
+    "href": "people/clairebartholomew/clairebartholomew.html#techniques",
+    "title": "Claire Bartholomew",
+    "section": "Techniques",
+    "text": "Techniques\n\nSupervised learning\nCNNs"
+  },
+  {
+    "objectID": "people/clairebartholomew/clairebartholomew.html#research-area",
+    "href": "people/clairebartholomew/clairebartholomew.html#research-area",
+    "title": "Claire Bartholomew",
+    "section": "Research area",
+    "text": "Research area\n\nPrecipitation nowcasting\nConvection / thunderstorm prediction"
+  },
+  {
+    "objectID": "people/declanfinney/declanfinney.html#techniques",
+    "href": "people/declanfinney/declanfinney.html#techniques",
+    "title": "Declan Finney",
+    "section": "Techniques",
+    "text": "Techniques\n\nChatgpt :p"
+  },
+  {
+    "objectID": "people/declanfinney/declanfinney.html#research-area",
+    "href": "people/declanfinney/declanfinney.html#research-area",
+    "title": "Declan Finney",
+    "section": "Research area",
+    "text": "Research area\n\nClouds\nradiation\nclimate change"
+  },
+  {
+    "objectID": "people/dodydharma/dodydharma.html#techniques",
+    "href": "people/dodydharma/dodydharma.html#techniques",
+    "title": "Dody Dharma",
+    "section": "Techniques",
+    "text": "Techniques\n\nSupervised learning\nContinuous Convolution\nGraph Neural Networks\nMultilayer Perceptron\nLSTM"
+  },
+  {
+    "objectID": "people/dodydharma/dodydharma.html#research-area",
+    "href": "people/dodydharma/dodydharma.html#research-area",
+    "title": "Dody Dharma",
+    "section": "Research area",
+    "text": "Research area\n\nDeformbale Solid and Fluid Simulation\nVorticity Conservation"
+  },
+  {
+    "objectID": "people/drpeymanbabakhani/drpeymanbabakhani.html#techniques",
+    "href": "people/drpeymanbabakhani/drpeymanbabakhani.html#techniques",
+    "title": "Peyman Babakhani",
+    "section": "Techniques",
+    "text": "Techniques\n\nDeep learning\nphysics-informed ai\nrandom forest"
+  },
+  {
+    "objectID": "people/drpeymanbabakhani/drpeymanbabakhani.html#research-area",
+    "href": "people/drpeymanbabakhani/drpeymanbabakhani.html#research-area",
+    "title": "Peyman Babakhani",
+    "section": "Research area",
+    "text": "Research area\n\nGlobal carbon cycling\nenvironmental contaminant transport\ngroundwater modelling"
+  },
+  {
+    "objectID": "people/ericatwell/ericatwell.html#techniques",
+    "href": "people/ericatwell/ericatwell.html#techniques",
+    "title": "Eric Atwell",
+    "section": "Techniques",
+    "text": "Techniques\n\nText analytics\nsketchengine\nchatbots"
+  },
+  {
+    "objectID": "people/ericatwell/ericatwell.html#research-area",
+    "href": "people/ericatwell/ericatwell.html#research-area",
+    "title": "Eric Atwell",
+    "section": "Research area",
+    "text": "Research area\n\nUniversity teaching and assessment\nunderstanding quran and hadith\ndetecting bias and fake news"
+  },
+  {
+    "objectID": "people/flogreaves/flogreaves.html#techniques",
+    "href": "people/flogreaves/flogreaves.html#techniques",
+    "title": "Flo Greaves",
+    "section": "Techniques",
+    "text": "Techniques\n\nSelf-supervised learning\nConvolutional neural networks"
+  },
+  {
+    "objectID": "people/flogreaves/flogreaves.html#research-area",
+    "href": "people/flogreaves/flogreaves.html#research-area",
+    "title": "Flo Greaves",
+    "section": "Research area",
+    "text": "Research area\n\nCloud organisation\nCloud dynamics"
+  },
+  {
+    "objectID": "people/jacksmith/jacksmith.html#techniques",
+    "href": "people/jacksmith/jacksmith.html#techniques",
+    "title": "Jack Smith",
+    "section": "Techniques",
+    "text": "Techniques\n\nCnns\nsynthetic data\ngans"
+  },
+  {
+    "objectID": "people/jacksmith/jacksmith.html#research-area",
+    "href": "people/jacksmith/jacksmith.html#research-area",
+    "title": "Jack Smith",
+    "section": "Research area",
+    "text": "Research area\n\nSemantic segmentation of masonry lined tunnel joints\nstructural condition assessment"
+  },
+  {
+    "objectID": "people/jakublewandowski/jakublewandowski.html#techniques",
+    "href": "people/jakublewandowski/jakublewandowski.html#techniques",
+    "title": "Jakub Lewandowski",
+    "section": "Techniques",
+    "text": "Techniques\n\nSupervised learning\nphysics-informed neural networks"
+  },
+  {
+    "objectID": "people/jakublewandowski/jakublewandowski.html#research-area",
+    "href": "people/jakublewandowski/jakublewandowski.html#research-area",
+    "title": "Jakub Lewandowski",
+    "section": "Research area",
+    "text": "Research area\n\nWeather nowcasting\nparametrization of atmospheric processes"
+  },
+  {
+    "objectID": "people/joegallear/joegallear.html#techniques",
+    "href": "people/joegallear/joegallear.html#techniques",
+    "title": "Joe Gallear",
+    "section": "Techniques",
+    "text": "Techniques\n\nSupervised learning\nneural networks\nrandom forests"
+  },
+  {
+    "objectID": "people/joegallear/joegallear.html#research-area",
+    "href": "people/joegallear/joegallear.html#research-area",
+    "title": "Joe Gallear",
+    "section": "Research area",
+    "text": "Research area\n\nCrop yield estimation\nimpacts of climate variability\neffects of extreme events"
+  },
+  {
+    "objectID": "people/johnchongzhang/johnchongzhang.html#techniques",
+    "href": "people/johnchongzhang/johnchongzhang.html#techniques",
+    "title": "John Chong Zhang",
+    "section": "Techniques",
+    "text": "Techniques\n\nNeural networks\ninversions\nfilters"
+  },
+  {
+    "objectID": "people/johnchongzhang/johnchongzhang.html#research-area",
+    "href": "people/johnchongzhang/johnchongzhang.html#research-area",
+    "title": "John Chong Zhang",
+    "section": "Research area",
+    "text": "Research area\n\nmineral system exploration\nsubsurface structure\ngeophysical potential fields"
+  },
+  {
+    "objectID": "people/leifdenby/leifdenby.html#techniques",
+    "href": "people/leifdenby/leifdenby.html#techniques",
+    "title": "Leif Denby",
+    "section": "Techniques",
+    "text": "Techniques\n\nSelf-supervised/unsupervised learning\nconvolutional networks"
+  },
+  {
+    "objectID": "people/leifdenby/leifdenby.html#research-area",
+    "href": "people/leifdenby/leifdenby.html#research-area",
+    "title": "Leif Denby",
+    "section": "Research area",
+    "text": "Research area\n\nmeso-scale cloud organisation\ndenoising of LIDAR water vapour observations"
+  },
+  {
+    "objectID": "people/longweichen/longweichen.html#techniques",
+    "href": "people/longweichen/longweichen.html#techniques",
+    "title": "Longwei Chen",
+    "section": "Techniques",
+    "text": "Techniques\n\nPhysics-informed neural networks\ndeeponet\nBayesian PINN"
+  },
+  {
+    "objectID": "people/longweichen/longweichen.html#research-area",
+    "href": "people/longweichen/longweichen.html#research-area",
+    "title": "Longwei Chen",
+    "section": "Research area",
+    "text": "Research area\n\nPlanetary magnetic field modelling\nasteroid gravity modelling\ngeophysical inverse problem"
+  },
+  {
+    "objectID": "people/markrichardson/markrichardson.html#techniques",
+    "href": "people/markrichardson/markrichardson.html#techniques",
+    "title": "Mark Richardson",
+    "section": "Techniques",
+    "text": "Techniques\n\nFortran\nmpi\nopenmp"
+  },
+  {
+    "objectID": "people/markrichardson/markrichardson.html#research-area",
+    "href": "people/markrichardson/markrichardson.html#research-area",
+    "title": "Mark Richardson",
+    "section": "Research area",
+    "text": "Research area\n\nMet office um\ndynamo\ncesm"
+  },
+  {
+    "objectID": "people/mathewhenrickson/mathewhenrickson.html#techniques",
+    "href": "people/mathewhenrickson/mathewhenrickson.html#techniques",
+    "title": "Mathew Henrickson",
+    "section": "Techniques",
+    "text": "Techniques\n\nLanguage modelling\ndata mining"
+  },
+  {
+    "objectID": "people/mathewhenrickson/mathewhenrickson.html#research-area",
+    "href": "people/mathewhenrickson/mathewhenrickson.html#research-area",
+    "title": "Mathew Henrickson",
+    "section": "Research area",
+    "text": "Research area\n\nText analysis of historic auction records"
+  },
+  {
+    "objectID": "people/naomishakespeare-rees/naomishakespeare-rees.html#techniques",
+    "href": "people/naomishakespeare-rees/naomishakespeare-rees.html#techniques",
+    "title": "Naomi Shakespeare-Rees",
+    "section": "Techniques",
+    "text": "Techniques\n\nPINNs\nConvolutional Networks\nAutoencoders"
+  },
+  {
+    "objectID": "people/naomishakespeare-rees/naomishakespeare-rees.html#research-area",
+    "href": "people/naomishakespeare-rees/naomishakespeare-rees.html#research-area",
+    "title": "Naomi Shakespeare-Rees",
+    "section": "Research area",
+    "text": "Research area\n\nGeomagnetism\nFluid Flows"
+  },
+  {
+    "objectID": "people/omarchoudhry/omarchoudhry.html#techniques",
+    "href": "people/omarchoudhry/omarchoudhry.html#techniques",
+    "title": "Omar Choudhry",
+    "section": "Techniques",
+    "text": "Techniques\n\nMedical image analysis\nDeep Learning"
+  },
+  {
+    "objectID": "people/omarchoudhry/omarchoudhry.html#research-area",
+    "href": "people/omarchoudhry/omarchoudhry.html#research-area",
+    "title": "Omar Choudhry",
+    "section": "Research area",
+    "text": "Research area\n\nSurgical skill assessment\nSurgical training\nModel optimisation"
+  },
+  {
+    "objectID": "people/rogercremades/rogercremades.html#techniques",
+    "href": "people/rogercremades/rogercremades.html#techniques",
+    "title": "Roger Cremades",
+    "section": "Techniques",
+    "text": "Techniques\n\ncomplex systems science\ncellular automata"
+  },
+  {
+    "objectID": "people/rogercremades/rogercremades.html#research-area",
+    "href": "people/rogercremades/rogercremades.html#research-area",
+    "title": "Roger Cremades",
+    "section": "Research area",
+    "text": "Research area\n\ncascading events in socio-technical systems"
+  },
+  {
+    "objectID": "people/samuelbancroft/samuelbancroft.html#techniques",
+    "href": "people/samuelbancroft/samuelbancroft.html#techniques",
+    "title": "Samuel Bancroft",
+    "section": "Techniques",
+    "text": "Techniques\n\nSemi-supervised/self-supervised learning\nconvolutional networks"
+  },
+  {
+    "objectID": "people/samuelbancroft/samuelbancroft.html#research-area",
+    "href": "people/samuelbancroft/samuelbancroft.html#research-area",
+    "title": "Samuel Bancroft",
+    "section": "Research area",
+    "text": "Research area\n\ncrop type classification\nsatellite time series classification\ncrop yield estimation"
+  },
+  {
+    "objectID": "people/shuzhang/shuzhang.html#techniques",
+    "href": "people/shuzhang/shuzhang.html#techniques",
+    "title": "Shu Zhang",
+    "section": "Techniques",
+    "text": "Techniques\n\nRandom Forests\nXGBoost\nLSTM"
+  },
+  {
+    "objectID": "people/shuzhang/shuzhang.html#research-area",
+    "href": "people/shuzhang/shuzhang.html#research-area",
+    "title": "Shu Zhang",
+    "section": "Research area",
+    "text": "Research area\n\nTropospheric ozone forcast\nWeather classification\nTime series decomposition of air pollutants"
+  },
+  {
+    "objectID": "people/trystansurawy-stepney/trystansurawy-stepney.html#techniques",
+    "href": "people/trystansurawy-stepney/trystansurawy-stepney.html#techniques",
+    "title": "Trystan Surawy-Stepney",
+    "section": "Techniques",
+    "text": "Techniques\n\nWeakly-supervised learning\nConvolutional networks\nNumerical modelling"
+  },
+  {
+    "objectID": "people/trystansurawy-stepney/trystansurawy-stepney.html#research-area",
+    "href": "people/trystansurawy-stepney/trystansurawy-stepney.html#research-area",
+    "title": "Trystan Surawy-Stepney",
+    "section": "Research area",
+    "text": "Research area\n\nGlacier damage identification\nSAR data\nGlacial process modelling"
+  },
+  {
+    "objectID": "people/yutaroshigemitsu/yutaroshigemitsu.html#techniques",
+    "href": "people/yutaroshigemitsu/yutaroshigemitsu.html#techniques",
+    "title": "Yutaro Shigemitsu",
+    "section": "Techniques",
+    "text": "Techniques\n\nInterferometric sar (insar)\ndrone sar\npinn (under training)"
+  },
+  {
+    "objectID": "people/yutaroshigemitsu/yutaroshigemitsu.html#research-area",
+    "href": "people/yutaroshigemitsu/yutaroshigemitsu.html#research-area",
+    "title": "Yutaro Shigemitsu",
+    "section": "Research area",
+    "text": "Research area\n\nMonitoring volcano\nmonitoring seasonal deformation changes"
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html",
+    "href": "posts/2020-01-14-test-markdown-post.html",
+    "title": "An Example Markdown Post",
+    "section": "",
+    "text": "Jekyll requires blog post files to be named according to the following format:\nYEAR-MONTH-DAY-filename.md\nWhere YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files.\nThe first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above.\n\n\n\nYou can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule:\n\n\n\n\nHere’s a list:\n\nitem 1\nitem 2\n\nAnd a numbered list:\n\nitem 1\nitem 2\n\n\n\n\n\nThis is a quotation\n\n{% include alert.html text=“You can include alert boxes” %}\n…and…\n{% include info.html text=“You can include info boxes” %}\n\n\n\n\n\n\n\nYou can format text and code per usual\nGeneral preformatted text:\n# Do a thing\ndo_thing()\nPython code and output:\n# Prints '2'\nprint(1+1)\n2\nFormatting text as shell commands:\necho \"hello world\"\n./some_script.sh --option \"value\"\nwget https://example.com/cat_photo1.png\nFormatting text as YAML:\nkey: value\n- another_key: \"another value\"\n\n\n\n\n\n\nColumn 1\nColumn 2\n\n\n\n\nA thing\nAnother thing\n\n\n\n\n\n\n{% twitter https://twitter.com/jakevdp/status/1204765621767901185?s=20 %}"
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#basic-setup",
+    "href": "posts/2020-01-14-test-markdown-post.html#basic-setup",
+    "title": "An Example Markdown Post",
+    "section": "",
+    "text": "Jekyll requires blog post files to be named according to the following format:\nYEAR-MONTH-DAY-filename.md\nWhere YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files.\nThe first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above."
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#basic-formatting",
+    "href": "posts/2020-01-14-test-markdown-post.html#basic-formatting",
+    "title": "An Example Markdown Post",
+    "section": "",
+    "text": "You can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule:"
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#lists",
+    "href": "posts/2020-01-14-test-markdown-post.html#lists",
+    "title": "An Example Markdown Post",
+    "section": "",
+    "text": "Here’s a list:\n\nitem 1\nitem 2\n\nAnd a numbered list:\n\nitem 1\nitem 2"
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#boxes-and-stuff",
+    "href": "posts/2020-01-14-test-markdown-post.html#boxes-and-stuff",
+    "title": "An Example Markdown Post",
+    "section": "",
+    "text": "This is a quotation\n\n{% include alert.html text=“You can include alert boxes” %}\n…and…\n{% include info.html text=“You can include info boxes” %}"
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#code",
+    "href": "posts/2020-01-14-test-markdown-post.html#code",
+    "title": "An Example Markdown Post",
+    "section": "",
+    "text": "You can format text and code per usual\nGeneral preformatted text:\n# Do a thing\ndo_thing()\nPython code and output:\n# Prints '2'\nprint(1+1)\n2\nFormatting text as shell commands:\necho \"hello world\"\n./some_script.sh --option \"value\"\nwget https://example.com/cat_photo1.png\nFormatting text as YAML:\nkey: value\n- another_key: \"another value\""
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#tables",
+    "href": "posts/2020-01-14-test-markdown-post.html#tables",
+    "title": "An Example Markdown Post",
+    "section": "",
+    "text": "Column 1\nColumn 2\n\n\n\n\nA thing\nAnother thing"
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#tweetcards",
+    "href": "posts/2020-01-14-test-markdown-post.html#tweetcards",
+    "title": "An Example Markdown Post",
+    "section": "",
+    "text": "{% twitter https://twitter.com/jakevdp/status/1204765621767901185?s=20 %}"
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#footnotes",
+    "href": "posts/2020-01-14-test-markdown-post.html#footnotes",
+    "title": "An Example Markdown Post",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the footnote.↩︎"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
