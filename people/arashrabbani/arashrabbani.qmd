@@ -1,0 +1,42 @@
+---
+title: Arash Rabbani
+description: AI-driven 3D imaging and computational modeling of materials and biological microstructures.
+image: arashrabbani.jpg
+categories:
+- Deep Learning
+- Machine Vision
+- Image processing
+
+links: <a href=https://github.com/ArashRabbani class="btn btn-primary">Github</a> <a href=https://eps.leeds.ac.uk/computing/staff/11422/dr-arash-rabbani class="btn
+  btn-secondary">Website</a>
+techniques:
+- 3D Image processing
+- GANs
+- Machine vision
+
+applications:
+- Material design
+- Subsurface modeling
+- Tissue modeling
+ 
+about:
+  id: person-profile
+  template: jolla
+---
+   
+:::{#person-profile}
+:::
+   
+##
+## Techniques
+   
+- 3D Image processing
+- GANs
+- Machine vision
+   
+##
+## Research area
+- AI-Driven 3D Microstructure Characterization
+- Reconstruction
+- Generative Modeling
+   
